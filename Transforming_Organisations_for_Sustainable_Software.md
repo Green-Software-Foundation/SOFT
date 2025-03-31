@@ -40,8 +40,6 @@ The Pillars have been formatted as decision tree charts. This presentation choic
       <td><img src="/images/High.png" alt="high"></td>
       <td>Broader thematic sections that help organisations to bucket the steps into larger deliverables/outputs.</td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td><img src="/images/key steps.png" alt="key"></td>
       <td>Key actions should be taken by organisations to further their progress in sustainable transformation.</td>
@@ -50,209 +48,413 @@ The Pillars have been formatted as decision tree charts. This presentation choic
       <td><img src="/images/external.png" alt="external"></td>
       <td>Tools or resources can be leveraged by organisations during specific phases of the steps. This feature can be improved or adjusted as new tools emerge, both from within the GSF and externally.</td>
     </tr>
-    
     <tr>
       <td><img src="/images/outputs.png" alt="outputs"></td>
       <td>Deliverables and collected information/data that result from successful actions along the decision tree charts.</td>
     </tr>
-   
-    <tr>
-      <td><img src="/images/outputs.png" alt="outputs"></td>
+     <tr>
+      <td><img src="/images/questions.png" alt="questions"></td>
       <td>These are questions that serve as inflection points for different actions and decide sequential steps based on YES or NO answers.</td>
     </tr>
-  
-    <tr>
-      <td><img src="/images/outputs.png" alt="outputs"></td>
+     <tr>
+      <td><img src="/images/options1.png" alt="options"></td>
       <td>Section choices.</td>
     </tr>
-    
     <tr>
-      <td>→ YES →
-→ NO →</td>
+      <td><img src="/images/yes.png" alt="yes"></td>
       <td>Decision arrows are based on answers or actions for corresponding questions.</td>
     </tr>
     <tr>
-      <td>GAP in Process</td>
+      <td><img src="/images/process.png" alt="process"></td>
       <td>The current gaps in the processes necessitate additional resources and solutions.</td>
     </tr>
     <tr>
-      <td>Questions / ideas that need more clarity</td>
+      <td><img src="/images/clarity.png" alt="clarity"></td>
       <td>Outstanding questions that will need to be addressed within TOSS or in an organisation's application of TOSS.</td>
     </tr>
     <tr>
-      <td>Output / Deliverable</td>
+      <td><img src="/images/output.png" alt="output"></td>
       <td>The deliverable consists of the key pieces of written content or confirmed data that result from the step. Separated out as a deliverable since it will be needed as an input for future steps and adjusted as organisations iterate cycles of the TOSS framework.</td>
     </tr>
-  </tbody>
+  
+  </thead>
 </table>
 
 
-
-Engaging with the Framework
+### Engaging with the Framework
 The document aligns with the four decision-making frameworks developed for Strategy, Implementation, Operational, and Compliance and Regulations Pillars. Each framework has been developed in conjunction with Green Software Members as part of PhD research project in the form of an Action Research Group. 
-The pillars in the framework have been developed in a Miro board - TOSS Workshops - Decision Trees - Miro. The Miro board view details the steps in each pillar as a flow diagram. This document supports the decision trees and provides additional context, checklists, outputs, in addition templates and guidance documentation.
+
+The pillars in the framework have been developed in a Miro board - [TOSS Workshops - Decision Trees - Miro](https://miro.com/app/board/uXjVK6P7Dv0=/). The Miro board view details the steps in each pillar as a flow diagram. This document supports the decision trees and provides additional context, checklists, outputs, in addition templates and guidance documentation.
+
 As the Miro board continues to be revised, this document will be updated to reflect the changes.
-Structure of the Document
+
+### Structure of the Document
 The structure of this document is as follows:
+
 The document is split into the following key sections:
-Strategy Pillar
-Implementation Pillar
-Operational Pillar
-Compliance and Regulations Pillar
-Appendix listing all the templates and reference documents across TOSS
-Appendix detailing the personas for the Strategy pillar
-Appendix detailing the personas for the Implementation pillar
-Appendix detailing the personas for the Operations pillar
-Appendix detailing the personas for the Compliance and Regulations pillar
+- Strategy Pillar
+- Implementation Pillar
+- Operational Pillar
+- Compliance and Regulations Pillar
+- Appendix listing all the templates and reference documents across TOSS
+- Appendix detailing the personas for the Strategy pillar
+- Appendix detailing the personas for the Implementation pillar
+- Appendix detailing the personas for the Operations pillar
+- Appendix detailing the personas for the Compliance and Regulations pillar
+
 Within each pillar sections, there are key subsections:
-An introduction to the pillar
-Each stage within the pillar
-An introduction of each stage within the pillar
-The personas associated with each stage within the pillar
-The capability assessment table for each stage
-The steps and outputs for each stage
-The checklist for key items for each stage
 
+- An introduction to the pillar
+- Each stage within the pillar
+- An introduction of each stage within the pillar
+- The personas associated with each stage within the pillar
+- The capability assessment table for each stage
+- The steps and outputs for each stage
+- The checklist for key items for each stage
 
-Capability Assessment Tables
-Review Each Key Step: Determine how the organisation currently addresses these regulatory integration and sustainability steps.
-Select the Maturity Level (Basic, Developing, or Advanced) that best describes the current state.
-Tick the box that is applicable to the organisation, and work towards achieving the desired maturity level for each step.
-Use the assessment as a reference to monitor the progress of the organisation
-The assessment table also enables organisations to start at different levels of maturity within each stage.
-Steps and Output
+### Capability Assessment Tables
+1. Review Each Key Step: Determine how the organisation currently addresses these regulatory integration and sustainability steps.
+1. Select the Maturity Level (Basic, Developing, or Advanced) that best describes the current state.
+1. Tick the box that is applicable to the organisation, and work towards achieving the desired maturity level for each step.
+1. Use the assessment as a reference to monitor the progress of the organisation
+1. The assessment table also enables organisations to start at different levels of maturity within each stage.
+
+### Steps and Output
 These sections outline the key steps for each stage, specifying the required activities. Additionally, a list of outputs and artefacts for each stage is provided. Example templates and reference documents are included to serve as a foundational guide. Please note that these documents are not exhaustive and should be viewed as reference materials only.
-Checklist
+
+### Checklist
 A checklist is a simple tool used to ensure that all necessary tasks, steps, or requirements are completed in a systematic manner. It serves as a clear and organized list of items or actions to be reviewed or accomplished, helping to prevent oversight and promote efficiency. By marking off each item as it is completed, a checklist provides a sense of clarity. 
 
-Strategy Pillar
+### Strategy Pillar
 In the context of an organisation, the strategy pillar refers to a comprehensive plan developed to achieve specific long-term goals. The strategy pillar of the TOSS framework is all about creating and maintaining a long-lasting IT strategy that takes into account how the use and development of technology affects the environment. The pillar has scope to also incorporate social and governance topics in future iterations.
 
 There are five key stages that this pillar captures that propose key questions and actions to consider. The following section highlights the key areas, the personas for each stage, and the underlying steps and outputs. The key focus is carbon emissions, but other metrics would follow the same process. The detailed framework and decision tree are available on request. 
 
-Stage 1 – Strategy Formation
+#### Stage 1 – Strategy Formation
 Key areas of focus include analysis, planning, integration, and implementation, as well as inspection and adaptation.
 
 Key Personas – ESG Leader(s), Internal Regulations Manager(s), Leader(s), IT Leader(s)
-Capability Assessment for Stage 1 - Strategy Formation
-Key steps in Strategy Formation
-Basic Maturity
-Tick if done
-Developing Maturity
-Tick if done
-Advanced Maturity
-Tick if done
-a. Form and operate a leadership oversight committee & agree governance
-Ad hoc, minimal clarity
 
+### Capability Assessment for Stage 1 - Strategy Formation
 
-Formal committee, partly defined roles
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Key steps in Strategy Formation</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Basic Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Developing Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Advanced Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>a. Form and operate a leadership oversight committee &amp; agree governance</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Ad hoc, minimal clarity</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Formal committee, partly defined roles</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Fully formalized, cross-functional, strong leadership support</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>b. Agree on metrics for the management dashboard</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Few metrics, inconsistent tracking</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Defined metrics, improving data quality and reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Comprehensive KPIs integrated into decision-making</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>c. Assess internal &amp; external factors for IT sustainability</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Limited awareness, no formal analysis</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Some structured scanning of trends, partial stakeholder input</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Continuous, proactive monitoring with robust scenario planning</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>d. Conduct a gap analysis for regulations</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Basic compliance awareness, ad hoc documentation</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Periodic review, partial compliance tracking</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Ongoing regulatory monitoring, proactive compliance integrated into strategy</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>e. Incorporate findings into the IT sustainability strategy</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Findings noted but not systematically integrated</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Partially documented strategy, some alignment with IT goals</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Comprehensive strategy, fully aligned with corporate objectives, regularly updated</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
+##### Steps and Outputs
 
-Fully formalized, cross-functional, strong leadership support
+**Steps:**
+a.Form and operate a leadership oversight committee and agree on governance.
+a. Agree on metrics for the management dashboard.
+a. Assess the internal and external factors that will contribute to the formation or revision of the IT sustainable strategy.
+a. Conduct a gap analysis for regulations.
+a. Incorporate into the IT sustainability strategy.
 
-
-b. Agree on metrics for the management dashboard
-Few metrics, inconsistent tracking
-
-
-Defined metrics, improving data quality and reporting
-
-
-Comprehensive KPIs integrated into decision-making
-
-
-c. Assess internal & external factors for IT sustainability
-Limited awareness, no formal analysis
-
-
-Some structured scanning of trends, partial stakeholder input
-
-
-Continuous, proactive monitoring with robust scenario planning
-
-
-d. Conduct a gap analysis for regulations
-Basic compliance awareness, ad hoc documentation
-
-
-Periodic review, partial compliance tracking
-
-
-Ongoing regulatory monitoring, proactive compliance integrated into strategy
-
-
-e. Incorporate findings into the IT sustainability strategy
-Findings noted but not systematically integrated
-
-
-Partially documented strategy, some alignment with IT goals
-
-
-Comprehensive strategy, fully aligned with corporate objectives, regularly updated
-
-
-
-
-Steps and Outputs
-Steps:
-Form and operate a leadership oversight committee and agree on governance.
-Agree on metrics for the management dashboard.
-Assess the internal and external factors that will contribute to the formation or revision of the IT sustainable strategy.
-Conduct a gap analysis for regulations.
-Incorporate into the IT sustainability strategy.
-Outputs:
-Leadership Oversight Committee – structure and processes – Example  Leadership and Oversight Committee
-Management Dashboard of all IT environmental metrics – Example Management Dashboard – IT Environmental Metrics
-Gap Analysis Report – Example Gap Analysis Report
-Compliance and Regulations Impact Report. Compliance and Regulations Impact Report
+**Outputs:**
+a. Leadership Oversight Committee – structure and processes – [Example  Leadership and Oversight Committee](https://docs.google.com/presentation/d/1tW50Ai6hbZNunJpTRwzurMndo6GbajGP95ZHzqLsvlw/edit#slide=id.p)
+a. Management Dashboard of all IT environmental metrics – [Example Management Dashboard – IT Environmental Metrics](https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p)
+a. Gap Analysis Report – [Example Gap Analysis Report](https://docs.google.com/spreadsheets/d/1-idNzIMoy-cxlBVCnYiV8bvXjeXkDY265g9Inxn2oqQ/edit?gid=0#gid=0)
+a. Compliance and Regulations Impact Report. [Compliance and Regulations Impact Report](https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0)
 
 The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform their software sustainability.
-Checklist
-Establish and operate the leadership and oversight committee
 
-
-Establish the boundaries of authority and the decision-making capabilities of the committee. 
-Establish and operate the leadership and oversight committee
-
-
-Define an escalation and tie-breaking process for decisions.
-Agree with the committee's vision, mission, and members.
-
-
-Determine the length of committee member terms.
-Agree with the committee's vision, mission, and members.
-
-
-Define the vision and mission of the committee regarding company performance, environmental responsibility, and desired end-state.
-Agree on management of change and continuous improvement and set frequency of review
-
-
-Determine the length, format, and cadence of committee meetings.
-Agree on management of change and continuous improvement and set frequency of review
-
-
-Determine the speed at which committee decisions are implemented and prioritised.
-Agree on IT environmental metrics for the management dashboard.
-
-
-Determine which IT environmental metrics governance decisions should stem from. 
-Agree on IT environmental metrics for the management dashboard.
-
-
-Define the desired relationship or tradeoff among different metrics.
-Leadership and oversight committee in operation
-
-
-Begin the meeting by reviewing compliance, market, and organisational issues relating to software sustainability. 
-
-
-
-
+**Checklist**
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Establish and operate the leadership and oversight committee</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Establish the boundaries of authority and the decision-making capabilities of the committee.&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Establish and operate the leadership and oversight committee</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Define an escalation and tie-breaking process for decisions.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Agree with the committee's vision, mission, and members.</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Determine the length of committee member terms.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Agree with the committee's vision, mission, and members.</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Define the vision and mission of the committee regarding company performance, environmental responsibility, and desired end-state.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Agree on management of change and continuous improvement and set frequency of review</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Determine the length, format, and cadence of committee meetings.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Agree on management of change and continuous improvement and set frequency of review</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Determine the speed at which committee decisions are implemented and prioritised.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Agree on IT environmental metrics for the management dashboard.</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Determine which IT environmental metrics governance decisions should stem from.&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Agree on IT environmental metrics for the management dashboard.</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Define the desired relationship or tradeoff among different metrics.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Leadership and oversight committee in operation</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Begin the meeting by reviewing compliance, market, and organisational issues relating to software sustainability.&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
 Many of the future steps will require governance decision-making based on relevance, priority, and magnitude of actions.
 
-Stage 2 – Principles
+### Stage 2 – Principles
 Key areas of focus include the foundation for decision-making, strategy planning, and goal setting, which are embedded in the core principles, such as integrity, innovation, customer focus, and sustainability.  
 
 Key Personas – IT Leader(s) and ESG Leader(s)
