@@ -314,11 +314,11 @@ Key Personas – ESG Leader(s), Internal Regulations Manager(s), Leader(s), IT L
 ##### Steps and Outputs
 
 **Steps:**
-a.Form and operate a leadership oversight committee and agree on governance.
-a. Agree on metrics for the management dashboard.
-a. Assess the internal and external factors that will contribute to the formation or revision of the IT sustainable strategy.
-a. Conduct a gap analysis for regulations.
-a. Incorporate into the IT sustainability strategy.
+a.Form and operate a leadership oversight committee and agree on governance.<br>
+a. Agree on metrics for the management dashboard.<br>
+a. Assess the internal and external factors that will contribute to the formation or revision of the IT sustainable strategy.<br>
+a. Conduct a gap analysis for regulations.<br>
+a. Incorporate into the IT sustainability strategy.<br>
 
 **Outputs:**
 a. Leadership Oversight Committee – structure and processes – [Example  Leadership and Oversight Committee](https://docs.google.com/presentation/d/1tW50Ai6hbZNunJpTRwzurMndo6GbajGP95ZHzqLsvlw/edit#slide=id.p)
@@ -622,13 +622,13 @@ Key Personas – IT Leader(s) and ESG Leader(s)
 #### Steps and Outputs
 
 **Steps:**
-a. Check SustainableIT.org for IT OKRs (review other standards).
-b. Determine the environmental metrics for the IT Sustainable Strategy, e.g. Energy, Water, Electronic Waste, Sustainable Procurement.
-c. Determine if the organisation captures metrics for the environmental metrics.
-d. If the organisation does not capture metrics, determine the best approach to obtaining and sourcing them. E.g., sustainable procurement would require vendors to agree with sustainable definitions and principles in the purchasing process.
+a. Check SustainableIT.org for IT OKRs (review other standards).<br>
+b. Determine the environmental metrics for the IT Sustainable Strategy, e.g. Energy, Water, Electronic Waste, Sustainable Procurement.<br>
+c. Determine if the organisation captures metrics for the environmental metrics.<br>
+d. If the organisation does not capture metrics, determine the best approach to obtaining and sourcing them. E.g., sustainable procurement would require vendors to agree with sustainable definitions and principles in the purchasing process.<br>
 
 **Outputs:**
-a. List of material metrics for IT's sustainable strategy. Example – List of metrics for Sustainable IT
+a. List of material metrics for IT's sustainable strategy. Example – List of metrics for Sustainable IT. <br>
 
 The Principles Section involves the review and identification of relevant environmental metrics such as Energy Consumption, Water Usage, Electronic Waste, and Sustainable Procurement. Availability of data will inform which KPIs can be tracked and what missing data will need to be captured.
 
@@ -946,16 +946,16 @@ Key Personas – IT Leader(s), ESG Leader(s), Internal Auditor(s) and Finance ma
 
 ### Steps and Outputs
 **Steps:**
-a. If not already agreed upon for energy consumption, define the OKR and KPIs and agree with stakeholders.
-b. Determine the environmental metrics for the IT Sustainable Strategy, e.g. Energy, Water, Electronic Waste, Sustainable Procurement.
-c. Determine if the organisation captures metrics for the environmental metrics
+a. If not already agreed upon for energy consumption, define the OKR and KPIs and agree with stakeholders.<br>
+b. Determine the environmental metrics for the IT Sustainable Strategy, e.g. Energy, Water, Electronic Waste, Sustainable Procurement.<br>
+c. Determine if the organisation captures metrics for the environmental metrics.<br>
 
 **Outputs:**
-a. Sustainable IT OKR. Example -  Sustainable IT OKRs
-b. Water usage IT OKR. Example - Water Usage IT OKRs
-c. Electronic waste IT OKR. Example - Electronic Waste IT OKRs
-d. Sustainable procurement IT OKR. Example - Sustainable Procurement IT OKRs
-e. Vendor KPIs for sustainable procurement. Example – Vendor KPIs for Sustainable Procurement
+a. Sustainable IT OKR. Example -  Sustainable IT OKRs.<br>
+b. Water usage IT OKR. Example - Water Usage IT OKRs.<br>
+c. Electronic waste IT OKR. Example - Electronic Waste IT OKRs.<br>
+d. Sustainable procurement IT OKR. Example - Sustainable Procurement IT OKRs.<br>
+e. Vendor KPIs for sustainable procurement. Example – Vendor KPIs for Sustainable Procurement.<br>
 
 The OKR section takes into account the business strategy, the importance of the metrics, and the availability of data from the previous sections. It then decides if certain performance metrics should be tracked as OKRs. The oversight committee/board from section 1 should be involved in the decision-making process.
 
@@ -1307,17 +1307,17 @@ Key Personas – IT Leader(s) and ESG Leader(s)
 
 #### Steps and Outputs
 **Steps:**
-a. Establish training plans to educate employees on the impact of energy and carbon in IT operations.
-b. Monitor the education progress.
-c. Conduct the Maturity Matrix assessment. 
-d. Determine the frequency and governance approach for the continuous maturity matrix assessment.
-e. Position the business to understand the impact of business change and growth and its impact on carbon from IT.
-f. Establish the green software principles and make them available for IT and business for carbon emissions.
+a. Establish training plans to educate employees on the impact of energy and carbon in IT operations.<br>
+b. Monitor the education progress.<br>
+c. Conduct the Maturity Matrix assessment. <br>
+d. Determine the frequency and governance approach for the continuous maturity matrix assessment.<br>
+e. Position the business to understand the impact of business change and growth and its impact on carbon from IT.<br>
+f. Establish the green software principles and make them available for IT and business for carbon emissions.<br>
 **Outputs:**
-a. This document is a training plan for an IT organisation. Example - Training Plan
-b. Current Maturity Matrix level. Example - Green Software Maturity Matrix
-c. Write-up of the business impact of green software for company. Example - Business Impact of Green Software
-d. The focus is on OKRs and KPIs for IT operations emissions. Example - OKRs and KPIs for IT Operations
+a. This document is a training plan for an IT organisation. Example - Training Plan.<br>
+b. Current Maturity Matrix level. Example - Green Software Maturity Matrix.<br>
+c. Write-up of the business impact of green software for company. Example - Business Impact of Green Software.<br>
+d. The focus is on OKRs and KPIs for IT operations emissions. Example - OKRs and KPIs for IT Operations.<br>
 
 The KPI section determines the specific metrics required to monitor the progress of selected OKRs. As part of choosing the performance indicator, the Maturity Matrix is used to find the "current state." This procedure sets a baseline that can be checked on a regular basis. Additionally, employees should be educated on the strategy's KPIs and how their actions affect them. 
 
