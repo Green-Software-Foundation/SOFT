@@ -330,7 +330,7 @@ d. Compliance and Regulations Impact Report. [Compliance and Regulations Impact 
 
 The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform their software sustainability.
 
-**Checklist**
+#### Checklist
 <table>
 <tbody>
 <tr>
@@ -636,7 +636,7 @@ a. List of material metrics for IT's sustainable strategy. Example – List of m
 
 The Principles Section involves the review and identification of relevant environmental metrics such as Energy Consumption, Water Usage, Electronic Waste, and Sustainable Procurement. Availability of data will inform which KPIs can be tracked and what missing data will need to be captured.
 
-**Checklist**
+#### Checklist
 
 <table>
 <tbody>
@@ -1335,688 +1335,1694 @@ d. The focus is on OKRs and KPIs for IT operations emissions. Example - OKRs and
 The KPI section determines the specific metrics required to monitor the progress of selected OKRs. As part of choosing the performance indicator, the Maturity Matrix is used to find the "current state." This procedure sets a baseline that can be checked on a regular basis. Additionally, employees should be educated on the strategy's KPIs and how their actions affect them. 
 
 Checklist
-Is the IT organisation aware of its carbon impact on their IT operations?
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Is the IT organisation aware of its carbon impact on their IT operations?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Ensure there is a training plan and resources for organisational members to learn about the carbon impacts of operations.</span></p>
+<p><span style="font-weight: 400;">Output: a training plan for an IT organisation.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Is the IT organisation aware of its carbon impact on their IT operations?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Output: a training plan for an IT organisation.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Is the IT organisation educated to assess and reduce carbon emissions from software?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong><strong> &rarr;</strong><span style="font-weight: 400;"> the organisation should create a business impact assessment&nbsp;</span></p>
+<p><span style="font-weight: 400;">Output: Write-up of business impact of green software for company</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Is the IT organisation educated to assess and reduce carbon emissions from software?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; education is needed on how to measure and assess the impact of IT operations.</span></p>
+<p><span style="font-weight: 400;">Output: Revise Training Plan</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Has the organisation conducted the Mature Matrix assessment?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><a href="https://maturity-matrix.greensoftware.foundation/"><span style="font-weight: 400;">Green Software Maturity Matrix</span></a></p>
+<p><span style="font-weight: 400;">Output: Current Maturity Matrix level assessment</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
-
-Ensure there is a training plan and resources for organisational members to learn about the carbon impacts of operations.
-Output: a training plan for an IT organisation.
-Is the IT organisation aware of its carbon impact on their IT operations?
-
-
-Output: a training plan for an IT organisation.
-
-
-Is the IT organisation educated to assess and reduce carbon emissions from software?
-
-
-YES → the organisation should create a business impact assessment 
-Output: Write-up of business impact of green software for company
-Is the IT organisation educated to assess and reduce carbon emissions from software?
-
-
-NO → education is needed on how to measure and assess the impact of IT operations.
-Output: Revise Training Plan
-Has the organisation conducted the Mature Matrix assessment?
-
-
-Green Software Maturity Matrix
-Output: Current Maturity Matrix level assessment
-
-
-
-
-Stage 5 – Measurement Targets
+### Stage 5 – Measurement Targets
 Key areas to focus include the measurement targets for KPI’s and the ability to track progress and performance
 
 Key Personas – IT Leader(s), ESG Leader(s), Internal Regulation Manager(s) and Internal Auditor(s) 
 Capability Assessment for Stage 5 - Measurement Targets
-Key steps in Measurement Targets
-Basic Maturity
-Tick if done
-Developing Maturity
-Tick if done
-Advanced Maturity
-Tick if done
-a. Determine how scope emissions (1, 2, 3) are reported
-- No formal definitions or data
-- Ad hoc reporting
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Key steps in Measurement Targets</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Basic Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Developing Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Advanced Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>a. Determine how scope emissions (1, 2, 3) are reported</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No formal definitions or data</span></p>
+<p><span style="font-weight: 400;">- Ad hoc reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some definitions of scopes</span></p>
+<p><span style="font-weight: 400;">- Partial coverage, inconsistent reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Clear, comprehensive scope definitions</span></p>
+<p><span style="font-weight: 400;">- Consistent, integrated reporting across the org</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>b. Utilize procurement teams &amp; IT to determine vendor emissions</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Minimal engagement with vendors</span></p>
+<p><span style="font-weight: 400;">- No formal data</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some vendor data requests</span></p>
+<p><span style="font-weight: 400;">- Basic processes to include sustainability info</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Robust vendor collaboration</span></p>
+<p><span style="font-weight: 400;">- Sustainability data fully integrated in procurement</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>c. Categorize data center (including cloud) into relevant scope emissions</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No systematic categorization</span></p>
+<p><span style="font-weight: 400;">- Limited awareness</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Partial categorization of on-prem vs. cloud</span></p>
+<p><span style="font-weight: 400;">- Gaps in scope mapping</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Clear classification of all data center &amp; cloud ops</span></p>
+<p><span style="font-weight: 400;">- Mapped accurately to scope emissions</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>d. Baseline the SCI (Software Carbon Intensity) emissions</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No measurement or baseline</span></p>
+<p><span style="font-weight: 400;">- Unsure of software impact</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Initial data collection for key apps</span></p>
+<p><span style="font-weight: 400;">- Some methods to quantify SCI</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Comprehensive SCI baseline for all critical apps</span></p>
+<p><span style="font-weight: 400;">- Metrics updated regularly</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>e. Establish &amp; collect carbon emissions data from cloud providers</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No systematic approach</span></p>
+<p><span style="font-weight: 400;">- Ad hoc or no data from cloud</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some data sharing agreements</span></p>
+<p><span style="font-weight: 400;">- Partial coverage of cloud workloads</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Detailed, automated data feed from cloud providers</span></p>
+<p><span style="font-weight: 400;">- Full coverage for all workloads</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>f. Set up governance &amp; review process for OKRs/KPIs (carbon from software)</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No governance structure</span></p>
+<p><span style="font-weight: 400;">- Irregular tracking</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some oversight committee</span></p>
+<p><span style="font-weight: 400;">- Regular but limited reviews</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Formal governance framework</span></p>
+<p><span style="font-weight: 400;">- Frequent reviews &amp; updates to software carbon KPIs/OKRs</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>g. Discuss options to track carbon emissions data</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No common tools/methods</span></p>
+<p><span style="font-weight: 400;">- Sporadic conversations</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some defined tools/processes</span></p>
+<p><span style="font-weight: 400;">- Inconsistent adoption</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Organization wide tracking approach</span></p>
+<p><span style="font-weight: 400;">- Standardized tools &amp; processes for carbon data</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>h. Compile the IT Sustainable Strategy (environmental metrics, OKRs, KPIs)</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Draft or fragmented docs</span></p>
+<p><span style="font-weight: 400;">- Little leadership backing</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Partially integrated strategy</span></p>
+<p><span style="font-weight: 400;">- Some alignment with corporate sustainability</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Comprehensive strategy with clear metrics &amp; goals</span></p>
+<p><span style="font-weight: 400;">- Fully endorsed by leadership</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>i. Continuously review &amp; revise IT Sustainable Strategy (frequency set by Leadership &amp; Oversight Committee)</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No formal updates</span></p>
+<p><span style="font-weight: 400;">- Strategy static or outdated</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Periodic reviews</span></p>
+<p><span style="font-weight: 400;">- Some improvements incorporated</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Routine, scheduled reviews</span></p>
+<p><span style="font-weight: 400;">- Strategy evolves with organizational &amp; market changes</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><span style="font-weight: 400;">Steps and Outputs</span></h3>
 
 
-- Some definitions of scopes
-- Partial coverage, inconsistent reporting
+#### Steps and Outputs
+**Steps:**
+a. Determine how scope emissions (1, 2, and 3) are reported.
+b. Utilise procurement teams to work with IT teams to determine the scope of emissions from vendors.
+c. Categorise data centre operations (including cloud) into their relevant scope emissions.
+d. Baseline the SCI carbon emissions from software.
+e. Establish and collect carbon emissions data from cloud providers.
+f. Set up the governance and review process to manage the OKRs and KPIs (in this case, carbon emissions from software applications).
+g. Discuss the options to track carbon emissions data.
+h. Compile the IT Sustainable Strategy, capturing all the environmental metrics, OKRs, and KPIs discussed in the principles stage.
+i. Continuously review and revise the IT Sustainable Strategy based on frequency set by the Leadership and Oversight Committee.
 
-
-- Clear, comprehensive scope definitions
-- Consistent, integrated reporting across the org
-
-
-b. Utilize procurement teams & IT to determine vendor emissions
-- Minimal engagement with vendors
-- No formal data
-
-
-- Some vendor data requests
-- Basic processes to include sustainability info
-
-
-- Robust vendor collaboration
-- Sustainability data fully integrated in procurement
-
-
-c. Categorize data center (including cloud) into relevant scope emissions
-- No systematic categorization
-- Limited awareness
-
-
-- Partial categorization of on-prem vs. cloud
-- Gaps in scope mapping
-
-
-- Clear classification of all data center & cloud ops
-- Mapped accurately to scope emissions
-
-
-d. Baseline the SCI (Software Carbon Intensity) emissions
-- No measurement or baseline
-- Unsure of software impact
-
-
-- Initial data collection for key apps
-- Some methods to quantify SCI
-
-
-- Comprehensive SCI baseline for all critical apps
-- Metrics updated regularly
-
-
-e. Establish & collect carbon emissions data from cloud providers
-- No systematic approach
-- Ad hoc or no data from cloud
-
-
-- Some data sharing agreements
-- Partial coverage of cloud workloads
-
-
-- Detailed, automated data feed from cloud providers
-- Full coverage for all workloads
-
-
-f. Set up governance & review process for OKRs/KPIs (carbon from software)
-- No governance structure
-- Irregular tracking
-
-
-- Some oversight committee
-- Regular but limited reviews
-
-
-- Formal governance framework
-- Frequent reviews & updates to software carbon KPIs/OKRs
-
-
-g. Discuss options to track carbon emissions data
-- No common tools/methods
-- Sporadic conversations
-
-
-- Some defined tools/processes
-- Inconsistent adoption
-
-
-- Organization wide tracking approach
-- Standardized tools & processes for carbon data
-
-
-h. Compile the IT Sustainable Strategy (environmental metrics, OKRs, KPIs)
-- Draft or fragmented docs
-- Little leadership backing
-
-
-- Partially integrated strategy
-- Some alignment with corporate sustainability
-
-
-- Comprehensive strategy with clear metrics & goals
-- Fully endorsed by leadership
-
-
-i. Continuously review & revise IT Sustainable Strategy (frequency set by Leadership & Oversight Committee)
-- No formal updates
-- Strategy static or outdated
-
-
-- Periodic reviews
-- Some improvements incorporated
-
-
-- Routine, scheduled reviews
-- Strategy evolves with organizational & market changes
-
-
-
-
-Steps and Outputs
-Steps:
-Determine how scope emissions (1, 2, and 3) are reported.
-Utilise procurement teams to work with IT teams to determine the scope of emissions from vendors.
-Categorise data centre operations (including cloud) into their relevant scope emissions.
-Baseline the SCI carbon emissions from software.
-Establish and collect carbon emissions data from cloud providers.
-Set up the governance and review process to manage the OKRs and KPIs (in this case, carbon emissions from software applications).
-Discuss the options to track carbon emissions data.
-Compile the IT Sustainable Strategy, capturing all the environmental metrics, OKRs, and KPIs discussed in the principles stage.
-Continuously review and revise the IT Sustainable Strategy based on frequency set by the Leadership and Oversight Committee.
-
-Outputs:
-IT Sustainable Strategy. Example –  IT Sustainable Strategy
+**Outputs:**
+a. IT Sustainable Strategy. Example –  IT Sustainable Strategy
 
 The Measurement Targets section makes sure that the data being collected can be used to report to outside groups in a way that meets industry standards and to track progress against OKRs and introduce changes to the company's IT strategy that are sustainable.
 
 If all OKRs and KPIs are supported in the implementation and already available for use in IT operations, TOSS users can skip over the Implementation Pillar and move on to the Operations Pillar.
-Checklist
-Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?
 
+#### Checklist
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Can the energy consumption data provide insights into procurement and usage from the IT organisation?</span></p>
+<p><span style="font-weight: 400;">Revise energy consumption metrics to enable scope emission metrics</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>Yes </strong><span style="font-weight: 400;">&rarr; </span><span style="font-weight: 400;">Determine the scope of emissions that impact the type of IT organisation (industry, vendor, software provider, consultant, etc.).</span></p>
+<p><span style="font-weight: 400;">Continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the organisation have defined OKR and KPIs for carbon emissions?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Go back to stage 3 and 4</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the organisation have defined OKR and KPIs for carbon emissions?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong><span style="font-weight: 400;"> &rarr; Reassess OKRs and KPIs based on current review and incorporate any updates</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Move back to section 1.1 to establish a governance process.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong><span style="font-weight: 400;"> &rarr; Continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the organisation have all the data to track the OKR's and KPI's for carbon emissions from software applications?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Move to Implementation Pillar</span> <span style="font-weight: 400;">if data needs to be captured for OKR &amp; KPI tracking.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Are the tools to calculate carbon emissions, the data, and the processes in place to use in IT operations?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Move to Implementation Pillar if data tooling needs to be created for operations use.&nbsp;</span></p>
+<br />
+<p><span style="font-weight: 400;">Proceed to the Operations Pillar once the implementation supports and makes all OKRs and KPIs available for use in IT operations.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><strong> &rarr; </strong><span style="font-weight: 400;">Collaborate with the cloud provider to provide scope 3 emission data.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong><strong> &rarr;</strong><span style="font-weight: 400;"> Continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the company have a comprehensive environmental strategy for its IT operations?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><strong> &rarr; </strong><span style="font-weight: 400;">Define the IT sustainability strategy incorporating environmental factors.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Example - </span><a href="https://docs.google.com/document/d/1_HsDTcYr6V86IMVIiG24g2mtNy9slkI1XnITePepVxA/edit?tab=t.0"><span style="font-weight: 400;">Template - IT Sustainable Strategy</span></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the company have a comprehensive environmental strategy for its IT operations?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong><strong> &rarr; </strong><span style="font-weight: 400;">Refine the IT sustainable strategy based on new decisions and/or regulations.</span></p>
+<p><span style="font-weight: 400;">IT Infrastructure Strategy should cover responses to:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Energy consumption OKR / KPIs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Carbon emissions OKR / KPIs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Water OKR / KPIs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Electronic Waste OKR / KPIs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sustainable Procurement OKR / KPIs</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
-NO → Can ﻿the energy consumption data provide insights into procurement and usage from the IT organisation?
-Revise energy consumption metrics to enable scope emission metrics
-Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?
-
-
-Yes → Determine the scope of emissions that impact the type of IT organisation (industry, vendor, software provider, consultant, etc.).
-Continue with this stage
-Does the organisation have defined OKR and KPIs for carbon emissions?
-
-
-NO → Go back to stage 3 and 4
-Does the organisation have defined OKR and KPIs for carbon emissions?
-
-
-YES → Reassess OKRs and KPIs based on current review and incorporate any updates
-Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?
-
-
-NO → Move back to section 1.1 to establish a governance process.
-Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?
-
-
-YES → Continue with this stage
-Does the organisation have all the data to track the OKR's and KPI's for carbon emissions from software applications?
-
-
-Move to Implementation Pillar if data needs to be captured for OKR & KPI tracking.
-Are the tools to calculate carbon emissions, the data, and the processes in place to use in IT operations?
-
-
-Move to Implementation Pillar if data tooling needs to be created for operations use. 
-
-Proceed to the Operations Pillar once the implementation supports and makes all OKRs and KPIs available for use in IT operations.
-Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?
-
-
-NO → Collaborate with the cloud provider to provide scope 3 emission data.
-Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?
-
-
-YES → Continue with this stage
-Does the company have a comprehensive environmental strategy for its IT operations?
-
-
-NO → Define the IT sustainability strategy incorporating environmental factors.
-Example - Template - IT Sustainable Strategy
-Does the company have a comprehensive environmental strategy for its IT operations?
-
-
-YES → Refine the IT sustainable strategy based on new decisions and/or regulations.
-IT Infrastructure Strategy should cover responses to:
-Energy consu﻿mption OKR / KPIs
-Carbon emission﻿s OKR / KPIs
-Water OK﻿R / KPIs
- Electronic Waste﻿ OKR / KPIs
-Sustainable Procureme﻿nt OKR / KPIs
-
-
-Implementation Pillar
+## Implementation Pillar
 Implementation within organisations is the structured process of executing the IT sustainable strategy and implementing the tools and processes to meet the objectives and KPI’s. Key components of this process include refining and enhancing tools to support organisational processes; setting up systems for effective data collection; and ensuring accuracy through validation. Tracking progress involves monitoring key performance indicators (KPIs) and analysing the data to assess performances and make informed adjustments. Data aggregation then compiles information from various sources to provide a comprehensive view, while trend analysis identifies patterns over time to guide strategic planning. Together, these elements ensure the effective and efficient implementation of organisational objectives.
 
-Stage 6 – Implementation / Refinement of Tooling
+### Stage 6 – Implementation / Refinement of Tooling
+
 Key areas of focus include the evaluation and selection of tools. 
 
-Key Personas – IT Leader(s), Programme Manager(s), Procurement Manager(s), Finance Manager(s)
-Capability Assessment for Stage 6 - Implementation / Refinement of Tooling
-Key steps in Implementation / Refinement of Tooling
-Basic Maturity
-Tick if done
-Developing Maturity
-Tick if done
-Advanced Maturity
-Tick if done
-a. Determine solution type (in-house, purchased, or combination).
-No formal process; sustainability not prioritized
+_Key Personas – IT Leader(s), Programme Manager(s), Procurement Manager(s), Finance Manager(s)_
 
+### Capability Assessment for Stage 6 - Implementation / Refinement of Tooling
 
-Some criteria; partial sustainability focus
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Key steps in Implementation / Refinement of Tooling</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Basic Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Developing Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Advanced Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>a. Determine solution type (in-house, purchased, or combination).</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">No formal process; sustainability not prioritized</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Some criteria; partial sustainability focus</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Comprehensive selection aligned with sustainability goals</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>b. Check for upcoming regulatory impacts.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Limited awareness; ad hoc compliance</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Regular checks; partial compliance processes</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Proactive, formal monitoring; integrated compliance</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>c. Create databases/flows to capture metrics per OKRs/KPIs.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">No structured data collection; inconsistent sources</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Some metrics defined; partial data flows</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Comprehensive, automated tracking</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>d. Set frequency for updating metrics.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">No formal schedule; sporadic updates</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Regular updates; partly automated</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Fully automated; aligned with governance cadence</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
+#### Steps and Outputs
+**Steps:**
 
-Comprehensive selection aligned with sustainability goals
+a. Determine the type of solution for the IT Sustainable Strategy (in-house development, purchased, or a combination). 
+b. Check for any upcoming regulatory impacts.
+c. Based on the OKR’s and KPIs, create the associate databases/flows to capture the metrics.
+d. Set up the frequency to update the metrics based on the cadence set by the leadership and oversight committee.
 
+**Outputs:**
 
-b. Check for upcoming regulatory impacts.
-Limited awareness; ad hoc compliance
-
-
-Regular checks; partial compliance processes
-
-
-Proactive, formal monitoring; integrated compliance
-
-
-c. Create databases/flows to capture metrics per OKRs/KPIs.
-No structured data collection; inconsistent sources
-
-
-Some metrics defined; partial data flows
-
-
-Comprehensive, automated tracking
-
-
-d. Set frequency for updating metrics.
-No formal schedule; sporadic updates
-
-
-Regular updates; partly automated
-
-
-Fully automated; aligned with governance cadence
-
-
-
-
-Steps and Outputs
-Steps:
-Determine the type of solution for the IT Sustainable Strategy (in-house development, purchased, or a combination). 
-Check for any upcoming regulatory impacts.
-Based on the OKR’s and KPIs, create the associate databases/flows to capture the metrics.
-Set up the frequency to update the metrics based on the cadence set by the leadership and oversight committee.
-Outputs:
-Energy Usage Metric Database – Example Energy Usage - Database Schema
-Water Usage Metric Database – Example Water Usage – Database Schema
-Electronic Waste Database – Example Electronic Waste - Database Schema
-Sustainable Procurement Database – Example Sustainable Procurement - Database Schema
+e. Energy Usage Metric Database – Example Energy Usage - Database Schema
+f. Water Usage Metric Database – Example Water Usage – Database Schema
+g. Electronic Waste Database – Example Electronic Waste - Database Schema
+h. Sustainable Procurement Database – Example Sustainable Procurement - Database Schema
 
 The implementation and refinement of tooling cover selecting, customising, and enhancing tools to support the IT organisation's sustainability processes by evaluating existing tools, identifying gaps, and refining or implementing new ones to boost efficiency, productivity, and goal alignment.
-Checklist
-Can the environmental emissions be calculated using an in-house developed/purchased or combined tool?
 
 
-In-house development – initiate organisation requirements, planning processes
-Can the environmental emissions be calculated using an in-house developed/purchased or combined tool?
+#### Checklist
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Can the environmental emissions be calculated using an in-house developed/purchased or combined tool?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">In-house development &ndash; initiate organisation requirements, planning processes</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Can the environmental emissions be calculated using an in-house developed/purchased or combined tool?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Purchased tool &ndash; initiate market assessment of tools&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Can the environmental emissions be calculated using an in-house developed/purchased or combined tool?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Combined tool &ndash; initiate both planning and tool/service assessment</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Has the IT organisation reviewed and incorporated any upcoming regulations into its strategic objectives and KPIs?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><strong> &rarr;</strong><span style="font-weight: 400;"> Review Compliance and Regulations (reference Gap Analysis Report) Example </span><a href="https://docs.google.com/spreadsheets/d/1-idNzIMoy-cxlBVCnYiV8bvXjeXkDY265g9Inxn2oqQ/edit?gid=0#gid=0"><span style="font-weight: 400;">Gap Analysis Report</span></a></p>
+<p><span style="font-weight: 400;">Add any relevant items into OKRs Example - </span><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0"><span style="font-weight: 400;">OKRs and KPIs for IT Operations</span></a><span style="font-weight: 400;"> Go back to this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Has the IT organisation reviewed and incorporated any upcoming regulations into its strategic objectives and KPIs?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <strong>&rarr;</strong><span style="font-weight: 400;"> Continue</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Determine the environmental metrics from the Strategy pillar or new methodology being considered for IT implementation</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Determine metrics for the organisation that should be captured to drive strategy and measure progress.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the IT organisation store PUE energy usage values from their data centres?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1QFVdnslKjMy6TfKxaTgl3rxlqap_AI2zCmVn7BH7MKs/edit?tab=t.0"><span style="font-weight: 400;">Energy Usage - Database Schema</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the IT organisation store water usage metrics from their data centres?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/12MRD89ofaCoipBQj1eIgKMkZCCah8McBIOvkMGKdCIw/edit?tab=t.0"><span style="font-weight: 400;">Water Usage - Database Schema</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the IT organisation capture electronic waste metrics?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1G2l8-51La3pOxhXsI9G7M6_P2CT0JMi1RsPTdg2AJsE/edit?tab=t.0"><span style="font-weight: 400;">Electronic Waste - Database Schema</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Does the IT organisation monitor sustainability targets provided by IT vendors?&nbsp;</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1YQAZuXH9l-0177xP3kPv450TggyGqs70P5SmgJXVWPE/edit?tab=t.0"><span style="font-weight: 400;">Sustainable Procurement - Database Schema</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
-
-Purchased tool – initiate market assessment of tools 
-Can the environmental emissions be calculated using an in-house developed/purchased or combined tool?
-
-
-Combined tool – initiate both planning and tool/service assessment
-Has the IT organisation reviewed and incorporated any upcoming regulations into its strategic objectives and KPIs?
-
-
-NO → Review Compliance and Regulations (reference Gap Analysis Report) Example Gap Analysis Report
-Add any relevant items into OKRs Example - OKRs and KPIs for IT Operations Go back to this stage
-Has the IT organisation reviewed and incorporated any upcoming regulations into its strategic objectives and KPIs?
-
-
-YES → Continue
-
-
-Determine the environmental metrics from the Strategy pillar or new methodology being considered for IT implementation
-
-
-Determine metrics for the organisation that should be captured to drive strategy and measure progress.
-Does the IT organisation store PUE energy usage values from their data centres?
-
-
-Example Energy Usage - Database Schema
-Does the IT organisation store water usage metrics from their data centres?
-
-
-Example Water Usage - Database Schema
-Does the IT organisation capture electronic waste metrics?
-
-
-Example Electronic Waste - Database Schema
-Does the IT organisation monitor sustainability targets provided by IT vendors? 
-
-
-Example Sustainable Procurement - Database Schema
-
-
-Stage 7 – Set Up Data Collection
+### Stage 7 – Set Up Data Collection
 Key areas of focus include the methods and systems for collecting the data. In this section, we are referring to carbon data collection.
 
-Key Personas – Programme Manager(s), Product Owner(s), Business Analyst(s), Cloud Architect(s) Cloud Operations Manager(s), Software Engineer(s) Procurement Manager(s)
+_Key Personas – Programme Manager(s), Product Owner(s), Business Analyst(s), Cloud Architect(s) Cloud Operations Manager(s), Software Engineer(s) Procurement Manager(s)_
 
-Capability Assessment for Stage 7 - Set Up Data Collection
-Key steps in Set Up Data Collection
-Basic Maturity
-Tick if done
-Developing Maturity
-Tick if done
-Advanced Maturity
-Tick if done
-a. Establish the split of carbon emissions by scope 1, 2, and 3, based on IT hosting services.
-- No formal breakdown of emissions
-- Single total only
+#### Capability Assessment for Stage 7 - Set Up Data Collection
 
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Key steps in Set Up Data Collection</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Basic Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Developing Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Advanced Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>a. Establish the split of carbon emissions by scope 1, 2, and 3, based on IT hosting services.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No formal breakdown of emissions</span></p>
+<p><span style="font-weight: 400;">- Single total only</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Partial breakdown of scope 1, 2, 3</span></p>
+<p><span style="font-weight: 400;">- Some data sources identified</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Comprehensive, verified split</span></p>
+<p><span style="font-weight: 400;">- Automated data feeds across all scopes</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>b. For IT-owned/co-located Data Centres, establish data collection for SCI calculations.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Limited or manual data collection</span></p>
+<p><span style="font-weight: 400;">- Ad hoc processes</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Basic standardized processes</span></p>
+<p><span style="font-weight: 400;">- Some automation for data gathering</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Fully automated capture</span></p>
+<p><span style="font-weight: 400;">- Integrated with sustainability systems</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>c. Collaborate with vendors for co-located/vendor-operated Data Centres to source carbon metrics or embed SCI calculations.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No vendor engagement for carbon data</span></p>
+<p><span style="font-weight: 400;">- Reliance on estimates</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Periodic vendor outreach</span></p>
+<p><span style="font-weight: 400;">- Some vendor-provided data</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Strong partnerships</span></p>
+<p><span style="font-weight: 400;">- Ongoing, standardized vendor reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>d. Work with cloud hyperscalers for scope 3 emissions data for applications.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No insight into cloud footprint</span></p>
+<p><span style="font-weight: 400;">- Minimal provider reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some provider data</span></p>
+<p><span style="font-weight: 400;">- Limited alignment with internal metrics</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Comprehensive reporting from hyperscalers</span></p>
+<p><span style="font-weight: 400;">- Integrated into dashboards</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>e. Set metric update frequency per leadership/oversight committee cadence.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Unscheduled or sporadic updates</span></p>
+<p><span style="font-weight: 400;">- Manual reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Scheduled updates</span></p>
+<p><span style="font-weight: 400;">- Partially automated processes</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Regular, automated updates</span></p>
+<p><span style="font-weight: 400;">- Real-time or near-real-time reporting</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
-- Partial breakdown of scope 1, 2, 3
-- Some data sources identified
+#### Steps and Outputs
 
+**Steps:**
 
-- Comprehensive, verified split
-- Automated data feeds across all scopes
-
-
-b. For IT-owned/co-located Data Centres, establish data collection for SCI calculations.
-- Limited or manual data collection
-- Ad hoc processes
-
-
-- Basic standardized processes
-- Some automation for data gathering
-
-
-- Fully automated capture
-- Integrated with sustainability systems
-
-
-c. Collaborate with vendors for co-located/vendor-operated Data Centres to source carbon metrics or embed SCI calculations.
-- No vendor engagement for carbon data
-- Reliance on estimates
-
-
-- Periodic vendor outreach
-- Some vendor-provided data
-
-
-- Strong partnerships
-- Ongoing, standardized vendor reporting
-
-
+a. The task involves establishing the split of carbon emissions by scope 1, 2, and 3, based on the types of IT hosting services.
+b. IT-owned/colocated data Data Centres, establish the process to collect the data for SCI calculations.
+c. Work with vendors for co-located or vendor-operated Data Centres to source the carbon metrics or embed SCI calculations
 d. Work with cloud hyperscalers for scope 3 emissions data for applications.
-- No insight into cloud footprint
-- Minimal provider reporting
+e. Set up the frequency to update the metrics based on the cadence set by the leadership and oversight committee.
 
+**Outputs:**
 
-- Some provider data
-- Limited alignment with internal metrics
-
-
-- Comprehensive reporting from hyperscalers
-- Integrated into dashboards
-
-
-e. Set metric update frequency per leadership/oversight committee cadence.
-- Unscheduled or sporadic updates
-- Manual reporting
-
-
-- Scheduled updates
-- Partially automated processes
-
-
-- Regular, automated updates
-- Real-time or near-real-time reporting
-
-
-
-
-Steps and Outputs
-Steps:
-The task involves establishing the split of carbon emissions by scope 1, 2, and 3, based on the types of IT hosting services.
-IT-owned/colocated data Data Centres, establish the process to collect the data for SCI calculations.
-Work with vendors for co-located or vendor-operated Data Centres to source the carbon metrics or embed SCI calculations
-Work with cloud hyperscalers for scope 3 emissions data for applications.
-Set up the frequency to update the metrics based on the cadence set by the leadership and oversight committee.
-Outputs:
-SCI Methodology and Approach – Example SCI Methodology and Approach
-SCER results for applications - Github SCER 
-Time share of hardware - Example Time Share of Hardware 
-Options to consider for functional﻿ unit - Example Options for Functional Unit
+f. SCI Methodology and Approach – Example SCI Methodology and Approach
+g. SCER results for applications - Github SCER 
+h. Time share of hardware - Example Time Share of Hardware 
+i. Options to consider for functional﻿ unit - Example Options for Functional Unit
 
 Setting up data collection is a critical step in the implementation process. It involves establishing methods and systems to gather relevant data needed to monitor and evaluate the progress and impact of implemented strategies.
-Checklist
-Is this the first time the organisation is setting up the data collection process for software carbon emissions?
 
+**Checklist**
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Is this the first time the organisation is setting up the data collection process for software carbon emissions?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Continue through&nbsp; the next steps of stage 7</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Is this the first time the organisation is setting up the data collection process for software carbon emissions?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; set up collection of scope 1 and scope 2</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Split the carbon emissions by scope for categorization purposes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Are there clear definitions of the boundary of types of software applications to be measured?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Does the IT organisation purchase RECs and or PPAs</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Operational Emissions O = (E*I)</strong></p>
+<p><strong>Calculate E (Energy) Units (KWh)</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Options to consider (not exhaustive, an area which is constantly changing)</span></p>
+<p><span style="font-weight: 400;">Example -</span> <a href="https://docs.google.com/document/d/1rbrVKr97MXIg_PLxcFoY4lMFiiRGCw0dVcQO_GFGvXA/edit?tab=t.0"><span style="font-weight: 400;">Calculate E (Energy) Units (kW h)</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Operational Emissions O = (E*I)</strong></p>
+<p><strong>Calculate E (Energy) Units (KWh)</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Operational Emissions O = (E*I)</strong></p>
+<p><strong>Calculate I (Carbon emitted per kWh of energy, gCo2/kWh)&nbsp;</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Options to consider (not exhaustive, an area which is constantly changing)</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tools or API Datasets available as open source (e.g. WattTime API, ElectricityMap)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manually calculate carbon emitted based on software component, location, grid data</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Operational Emissions O = (E*I)</strong></p>
+<p><strong>Calculate I (Carbon emitted per kWh of energy, gCo2/kWh)&nbsp;</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Embodied Emissions M= TE *&nbsp; TS * RS</strong></p>
+<p><strong>Calculate Total Embodied Emissions (TE)</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; research embodied emissions of components.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Manually look up embodied emissions from the manufacturer of the software component.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The system performs an automatic lookup of embodied emissions for software components.</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Embodied Emissions M= TE *&nbsp; TS * RS</strong></p>
+<p><strong>Calculate Total Embodied Emissions (TE)</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Embodied Emissions M= TE *&nbsp; TS * RS</strong></p>
+<p><strong>Calculate Time Share (TS) &amp; Calculate Resource Share (RS)</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong> <span style="font-weight: 400;">&rarr;&nbsp; Example </span><a href="https://docs.google.com/document/d/1r06J0ihuia9JMeY1EWrCcnCo_-aUw_XOCT3-IfJ1KoE/edit?tab=t.0"><span style="font-weight: 400;">Time Share of Hardware</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Embodied Emissions M= TE *&nbsp; TS * RS</strong></p>
+<p><strong>Calculate Time Share (TS) &amp; Calculate Resource Share (RS)</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; continue with this stage</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Functional Unit</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/12M9Pi6sxw0sgSnxsI2yPctXYxDC_VIrM4W6oTFft320/edit?tab=t.0"><span style="font-weight: 400;">Options for Functional Unit</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Are there open source cloud carbon footprint calculators?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; Work with hyperscalers to provide energy and scope 3 emissions</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Are there open source cloud carbon footprint calculators?</strong></p>
+</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; e.g. Cloud carbon footprint calculator, GitHub cloud carbon footprint tool, Boavizta cloud carbon footprint tool</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Can the Impact Framework calculate carbon emissions from the cloud hyperscaler(s)?</strong></p>
+</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+<td>
+<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; Use the tools from Azure, Amazon, Meta etc.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Can the Impact Framework calculate carbon emissions from the cloud hyperscaler(s)?</strong></p>
+</td>
+<td>
+<ul>
+<li></li>
+</ul>
+</td>
+<td>
+<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; Implement the Impact Framework</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-NO → Continue through  the next steps of stage 7
-
-
-Is this the first time the organisation is setting up the data collection process for software carbon emissions?
-
-
-YES → set up collection of scope 1 and scope 2
-Split the carbon emissions by scope for categorization purpos﻿es
-Are there clear definitions of the boundary of types of software applications to be measured?
-Does the IT organisation purchase RECs and or PPAs
-Operational Emissions O = (E*I)
-Calculate E (Energy) Units (KWh)
-
-
-NO → Options to consider (not exhaustive, an area which is constantly changing)
-Example - Calculate E (Energy) Units (kW h)
-Operational Emissions O = (E*I)
-Calculate E (Energy) Units (KWh)
-
-
-YES → continue with this stage
-
-
-Operational Emissions O = (E*I)
-Calculate I (Carbon emitted per kWh of energy, g﻿Co2/kWh) 
-
-
-NO → Options to consider (not exhaustive, an area which is constantly changing)
-Tools or API Datasets available as open source (e.g. WattTime API, ElectricityMap)
-Manually calculate carbon emitted based on software component, location, grid data
-Operational Emissions O = (E*I)
-Calculate I (Carbon emitted per kWh of energy, g﻿Co2/kWh) 
-
-
-YES → continue with this stage
-Embodied Emissions M= TE *  TS * RS
-Calculate Total Embodied Emissions (TE)
-
-
-NO → research embodied emissions of components.
-Manually look up embodied emissions from﻿ the manufacturer of the software component.
-The system performs an automatic lookup of embodied emissions for software components.
-Embodied Emissions M= TE *  TS * RS
-Calculate Total Embodied Emissions (TE)
-
-
-YES → continue with this stage
-Embodied Emissions M= TE *  TS * RS
-Calculate Time Share (TS) & Calculate Resource Share (RS)
-
-
-NO →  Example Time Share of Hardware 
-
-
-Embodied Emissions M= TE *  TS * RS
-Calculate Time Share (TS) & Calculate Resource Share (RS)
-
-
-YES → continue with this stage
-Functional Unit
-
-
-Example Options for Functional Unit
-
-
-Are there open source cloud carbon footprint calculators?
-
-
-NO → Work with hyperscalers to provide energy and scope 3 emissions
-Are there open source cloud carbon footprint calculators?
-
-
-YES → e.g. Cloud carbon footprint calculator, GitHub cloud carbon footprint tool, Boavizta cloud carbon footprint tool
-Can the Impact Framework calculate carbon emissions from the cloud hyperscaler(s)?
-
-
-NO → Use the tools from Azure, Amazon, Meta etc.
-Can the Impact Framework calculate carbon emissions from the cloud hyperscaler(s)?
-
-
-YES → Implement the Impact Framework
-
-
-Stage 8 - Data Aggregation
+## Stage 8 - Data Aggregation
 Key areas of focus include the creation of a comprehensive dataset. In this section, we refer to carbon data.
 
-Key Personas – Programme Manager(s), Product Owner(s), Business Analyst(s), Cloud Architect(s) Cloud Operations Manager(s), Software Engineer(s) Procurement Manager(s)
-Capability Assessment for Stage 8 - Data Aggregation
-Key steps in Data Aggregation
-Basic Maturity
-Tick if done
-Developing Maturity
-Tick if done
-Advanced Maturity
-Tick if done
+_Key Personas – Programme Manager(s), Product Owner(s), Business Analyst(s), Cloud Architect(s) Cloud Operations Manager(s), Software Engineer(s) Procurement Manager(s)_
+
+### Capability Assessment for Stage 8 - Data Aggregation
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Key steps in Data Aggregation</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Basic Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Developing Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Advanced Maturity</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Tick if done</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>a. Process to calculate the SCI.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No defined formula or process</span></p>
+<p><span style="font-weight: 400;">- Ad hoc or manual calculations</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Partially documented calculations</span></p>
+<p><span style="font-weight: 400;">- Some automation or tools used</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Fully documented &amp; verified</span></p>
+<p><span style="font-weight: 400;">- Automated, repeatable process</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>b. Utilising the Impact Framework.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Framework not defined or implemented</span></p>
+<p><span style="font-weight: 400;">- Limited awareness</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Partial use of framework</span></p>
+<p><span style="font-weight: 400;">- Some processes mapped to it</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Fully integrated framework</span></p>
+<p><span style="font-weight: 400;">- KPI alignment across IT ops</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>c. GreenOps approach (linking costs &amp; carbon) for cloud hosting.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No cost/carbon linkage</span></p>
+<p><span style="font-weight: 400;">- Awareness only</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some cost-carbon metrics</span></p>
+<p><span style="font-weight: 400;">- Limited governance or monitoring</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Comprehensive GreenOps model</span></p>
+<p><span style="font-weight: 400;">- Embedded in budgeting &amp; ops decisions</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>d. Implement the tool(s) with the IT organisation.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Tools not selected/introduced</span></p>
+<p><span style="font-weight: 400;">- Informal use of spreadsheets</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Tools in pilot phase</span></p>
+<p><span style="font-weight: 400;">- Some teams trained or onboarded</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Fully deployed &amp; adopted</span></p>
+<p><span style="font-weight: 400;">- Mature governance &amp; user training</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>e. Store all carbon calculations for IT as a temporal database.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No central repository</span></p>
+<p><span style="font-weight: 400;">- Ad hoc storage practices</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Partial repository</span></p>
+<p><span style="font-weight: 400;">- Some versioning or historical data</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Complete temporal database</span></p>
+<p><span style="font-weight: 400;">- Automated data ingestion &amp; retrieval</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>f. Establish a dashboard &amp; workflow tool to expose carbon metrics.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No dashboard or manual reporting</span></p>
+<p><span style="font-weight: 400;">- Limited visibility</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Basic dashboard</span></p>
+<p><span style="font-weight: 400;">- Partially automated workflows</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Comprehensive, real-time dashboard</span></p>
+<p><span style="font-weight: 400;">- Automated workflows &amp; alerts</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>g. Reporting tool for carbon metrics; monitor vs. OKRs/KPIs.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No formal reporting</span></p>
+<p><span style="font-weight: 400;">- Minimal alignment with OKRs/KPIs</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Some reporting capabilities</span></p>
+<p><span style="font-weight: 400;">- Partial integration with OKRs/KPIs</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Advanced reporting</span></p>
+<p><span style="font-weight: 400;">- Direct correlation to OKRs/KPIs</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>h. Continuously review industry&rsquo;s carbon methodologies, tools, &amp; processes.</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">- No formal review</span></p>
+<p><span style="font-weight: 400;">- Reactive to changes</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Periodic reviews</span></p>
+<p><span style="font-weight: 400;">- Some alignment with best practices</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">- Proactive tracking of new methods</span></p>
+<p><span style="font-weight: 400;">- Integrations updated regularly</span></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+#### Steps and Outputs
+
+**Steps:**
+
 a. Process to calculate the SCI.
-- No defined formula or process
-- Ad hoc or manual calculations
-
-
-- Partially documented calculations
-- Some automation or tools used
-
-
-- Fully documented & verified
-- Automated, repeatable process
-
-
-b. Utilising the Impact Framework.
-- Framework not defined or implemented
-- Limited awareness
-
-
-- Partial use of framework
-- Some processes mapped to it
-
-
-- Fully integrated framework
-- KPI alignment across IT ops
-
-
-c. GreenOps approach (linking costs & carbon) for cloud hosting.
-- No cost/carbon linkage
-- Awareness only
-
-
-- Some cost-carbon metrics
-- Limited governance or monitoring
-
-
-- Comprehensive GreenOps model
-- Embedded in budgeting & ops decisions
-
-
+b. Utilising the Impact Framework:
+c. We are establishing a GreenOps (linking costs and carbon) approach for cloud-based hosting. 
 d. Implement the tool(s) with the IT organisation.
-- Tools not selected/introduced
-- Informal use of spreadsheets
+g. Store all carbon calculations for IT operations as a temporal database.
+h. Establish a dashboard and underlying workflow tool to expose the carbon metrics.
+i. Establish a reporting tool for carbon metrics and monitor them against OKRs and KPIs.
+j. Continuously review the industry's carbon emission methodologies, tools, and processes.
 
-
-- Tools in pilot phase
-- Some teams trained or onboarded
-
-
-- Fully deployed & adopted
-- Mature governance & user training
-
-
-e. Store all carbon calculations for IT as a temporal database.
-- No central repository
-- Ad hoc storage practices
-
-
-- Partial repository
-- Some versioning or historical data
-
-
-- Complete temporal database
-- Automated data ingestion & retrieval
-
-
-f. Establish a dashboard & workflow tool to expose carbon metrics.
-- No dashboard or manual reporting
-- Limited visibility
-
-
-- Basic dashboard
-- Partially automated workflows
-
-
-- Comprehensive, real-time dashboard
-- Automated workflows & alerts
-
-
-g. Reporting tool for carbon metrics; monitor vs. OKRs/KPIs.
-- No formal reporting
-- Minimal alignment with OKRs/KPIs
-
-
-- Some reporting capabilities
-- Partial integration with OKRs/KPIs
-
-
-- Advanced reporting
-- Direct correlation to OKRs/KPIs
-
-
-h. Continuously review industry’s carbon methodologies, tools, & processes.
-- No formal review
-- Reactive to changes
-
-
-- Periodic reviews
-- Some alignment with best practices
-
-
-- Proactive tracking of new methods
-- Integrations updated regularly
-
-
-
-
-Steps and Outputs
-Steps:
-Process to calculate the SCI.
-Utilising the Impact Framework:
-We are establishing a GreenOps (linking costs and carbon) approach for cloud-based hosting. 
-Implement the tool(s) with the IT organisation.
-Store all carbon calculations for IT operations as a temporal database.
-Establish a dashboard and underlying workflow tool to expose the carbon metrics.
-Establish a reporting tool for carbon metrics and monitor them against OKRs and KPIs.
-Continuously review the industry's carbon emission methodologies, tools, and processes.
-Outputs:
-Impact Framework Results
-Carbon Usage Metric Database - Example Carbon Usage Metric - Database Schema
-Carbon Usage Tool
-Carbon Emission Methodologies - Example Carbon Emission Methodologies
+**Outputs:**
+k. Impact Framework Results
+l. Carbon Usage Metric Database - Example Carbon Usage Metric - Database Schema
+k. Carbon Usage Tool
+l. Carbon Emission Methodologies - Example Carbon Emission Methodologies
 
 Data aggregation involves compiling carbon data from various sources to create a comprehensive dataset. This process involves combining and summarising data to provide a holistic view of performance and trends. Aggregated data helps in identifying broader patterns and insights that may not be apparent from individual data points.
-Checklist
-Has the IT organisation established GreenOps (cost and cloud consumption)?
 
+#### Checklist
 
-Example – Establishing GreenOps
-Review other methodologies/tools and carbon emissions
-
-
-Continuously review and monitor new and changed methodologies and tools to monitor carbon emissions
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Has the IT organisation established GreenOps (cost and cloud consumption)?</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Example &ndash; Establishing</span><a href="https://docs.google.com/document/d/1hPqEFPtF3upzRtML98DeFyfxnjmkn7XKYxeemj4v_FQ/edit?tab=t.0"><span style="font-weight: 400;"> GreenOps</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Review other methodologies/tools and carbon emissions</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"></li>
+</ul>
+</td>
+<td>
+<p><span style="font-weight: 400;">Continuously review and monitor new and changed methodologies and tools to monitor carbon emissions</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
 
 
