@@ -3024,16 +3024,6 @@ Data aggregation involves compiling carbon data from various sources to create a
 </table>
 <p>&nbsp;</p>
 
-
-
-### Stage 9 -- Validate Data Accuracy
-
-Validating data accuracy is essential to ensure the reliability of the data collected for carbon metrics. This type of validation involves checking the data for errors, inconsistencies, and completeness. Validation processes may include cross-referencing data with other sources, conducting audits, and using automated tools to detect anomalies. Accurate data is crucial for making sound decisions and assessments.
-
-Key areas of focus include the validation of data. In this section, we refer to carbon data.
-
-*Key Personas -- IT Leader(s), Programme Manager(s), Product Owner(s), Business Analyst(s), Cloud Architect(s), Cloud Operations Manager(s), Software Engineer(s), Procurement Manager(s)*
-
 ### Stage 9 -- Validate Data Accuracy
 
 Validating data accuracy is essential to ensure the reliability of the data collected for carbon metrics. This type of validation involves checking the data for errors, inconsistencies, and completeness. Validation processes may include cross-referencing data with other sources, conducting audits, and using automated tools to detect anomalies. Accurate data is crucial for making sound decisions and assessments.
