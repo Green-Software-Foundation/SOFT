@@ -1,5 +1,5 @@
  - **Associated documents**
-   - [Collaboration Doc](https://docs.google.com/document/d/1XksT5-LQUE8feWjFU1dj89XEe77s8OqVEtRdjya8KUY/edit?pli=1&tab=t.0#heading=h.hhdc4sepx90w) 
+   - [Collaboration Doc](https://docs.google.com/document/d/12YtwEDH2DH2do97FBXY6uO3cHUUlDAD8/edit?usp=sharing&ouid=109189016904402965838&rtpof=true&sd=true) 
    - [Project dependency - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
    - [Answering the so-what question](https://github.com/Green-Software-Foundation/oc/discussions/18)
    - [Analysis across the GSF Pillars .xlsx](https://github.com/Green-Software-Foundation/ouse/files/14040075/Analysis.across.the.GSF.Pillars.xlsx)
