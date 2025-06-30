@@ -125,6 +125,48 @@ These sections outline the key steps for each stage, specifying the required act
 ### Checklist
 A checklist is a simple tool used to ensure that all necessary tasks, steps, or requirements are completed in a systematic manner. It serves as a clear and organized list of items or actions to be reviewed or accomplished, helping to prevent oversight and promote efficiency. By marking off each item as it is completed, a checklist provides a sense of clarity. 
 
+## Glossary
+
+| Abbreviation | Term |
+|--------------|------|
+| ADR | Architecture Decision Record |
+| API | Application Programming Interface |
+| AWS | Amazon |
+| BU | Business Unit |
+| CCF | Cloud Carbon Footprint |
+| CCFT | Cloud Carbon Footprint Tool |
+| CI | Continuous Improvement |
+| CI | Carbon Intensity |
+| CI/CD | Continuous Improvement / Continuous Delivery |
+| CMDB | Configuration Management Database |
+| CPU | Computer Processing Unit |
+| CO₂e | Carbon Dioxide equivalent |
+| DevOps | Development Operations |
+| DORA | DevOps Research and Assessment |
+| EID | Emissions Impact Dashboard |
+| GHG | Green House Gas emissions |
+| IEA | International Energy Agency |
+| kWh | Kilo-Watt hour |
+| KPI | Key Performance Indicators |
+| MLOPs | Machine Learning Operations |
+| MTTR | Mean Time To Recovery/Restore |
+| NFR | Non Functional Requirements |
+| OKR | Objective Key Result |
+| OPEX | Operation Expenditure budget |
+| Ops | Operations |
+| PUE | Power Usage Effectiveness |
+| QA | Quality Assurance |
+| RAG | Red Amber Green |
+| RFC | Request for Comments |
+| SCI | Software Carbon Intensity |
+| SCER | Software Carbon Energy Rating |
+| SDK | Software Development Kit |
+| SLA | Service Level Agreements |
+| SME | Subject Matter Expert |
+| SRE | Site Reliability Engineer |
+| ToR | Terms of Reference |
+| TOSS | Transforming Organisations for Sustainable Software |
+
 ## Strategy Pillar
 In the context of an organisation, the strategy pillar refers to a comprehensive plan developed to achieve specific long-term goals. The strategy pillar of the TOSS framework is all about creating and maintaining a long-lasting IT strategy that takes into account how the use and development of technology affects the environment. The pillar has scope to also incorporate social and governance topics in future iterations.
 
