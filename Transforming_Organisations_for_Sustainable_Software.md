@@ -168,1808 +168,419 @@ A checklist is a simple tool used to ensure that all necessary tasks, steps, or 
 | TOSS | Transforming Organisations for Sustainable Software |
 
 ## Strategy Pillar
+
 In the context of an organisation, the strategy pillar refers to a comprehensive plan developed to achieve specific long-term goals. The strategy pillar of the TOSS framework is all about creating and maintaining a long-lasting IT strategy that takes into account how the use and development of technology affects the environment. The pillar has scope to also incorporate social and governance topics in future iterations.
 
-There are five key stages that this pillar captures that propose key questions and actions to consider. The following section highlights the key areas, the personas for each stage, and the underlying steps and outputs. The key focus is carbon emissions, but other metrics would follow the same process. The detailed framework and decision tree are available on request. 
+This pillar captures five key stages that propose essential questions and actions to consider. The following section highlights the key areas, the personas for each stage, and the underlying steps and outputs. The key focus is carbon emissions, but other metrics would follow the same process. The detailed framework and decision tree are available on request.
 
-### Stage 1 – Strategy Formation
+### Stage 1 -- Strategy Formation
+
+The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform their software sustainability. Many of the future steps will require governance decision-making based on relevance, priority, and magnitude of actions.
+
 Key areas of focus include analysis, planning, integration, and implementation, as well as inspection and adaptation.
 
-Key Personas – ESG Leader(s), Internal Regulations Manager(s), Leader(s), IT Leader(s)
+**Key Personas -- ESG Leader(s), Internal Regulations Manager(s), Leader(s), IT Leader(s)**
 
 ### Capability Assessment for Stage 1 - Strategy Formation
 
 <table>
-<tbody>
 <tr>
-<td>
-<p><span style="font-weight: 400;">Key steps in Strategy Formation</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Basic Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Developing Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
+<th>Key steps in Strategy Formation</th>
+<th>Basic Maturity</th>
+<th>Tick if done</th>
+<th>Developing Maturity</th>
+<th>Tick if done</th>
+<th>Advanced Maturity</th>
+<th>Tick if done</th>
 </tr>
 <tr>
-<td>
-<p><strong>a. Form and operate a leadership oversight committee &amp; agree governance</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Ad hoc, minimal clarity</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Formal committee, partly defined roles</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Fully formalized, cross-functional, strong leadership support</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>a. Form or add the sustainable IT topic to the committee and operate a leadership oversight committee & agree governance</strong></td>
+<td>Ad hoc, minimal clarity</td>
+<td>-</td>
+<td>Formal committee, partly defined roles</td>
+<td>-</td>
+<td>Fully formalized, cross-functional, strong leadership support</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>b. Agree on metrics for the management dashboard</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Few metrics, inconsistent tracking</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Defined metrics, improving data quality and reporting</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Comprehensive KPIs integrated into decision-making</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Form a leadership oversight committee</td>
+<td colspan="2">Define the roles and governance structure</td>
+<td colspan="2">Regular cadence with the leadership oversight committee</td>
 </tr>
 <tr>
-<td>
-<p><strong>c. Assess internal &amp; external factors for IT sustainability</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Limited awareness, no formal analysis</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Some structured scanning of trends, partial stakeholder input</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Continuous, proactive monitoring with robust scenario planning</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1tW50Ai6hbZNunJpTRwzurMndo6GbajGP95ZHzqLsvlw/edit#slide=id.p">Leadership and Oversight Committee</a></td>
 </tr>
 <tr>
-<td>
-<p><strong>d. Conduct a gap analysis for regulations</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Basic compliance awareness, ad hoc documentation</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Periodic review, partial compliance tracking</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Ongoing regulatory monitoring, proactive compliance integrated into strategy</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>b. Agree on metrics for the management dashboard</strong></td>
+<td>Few metrics, inconsistent tracking</td>
+<td>-</td>
+<td>Defined metrics, improving data quality and reporting</td>
+<td>-</td>
+<td>Comprehensive KPIs integrated into decision-making</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>e. Incorporate findings into the IT sustainability strategy</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Findings noted but not systematically integrated</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Partially documented strategy, some alignment with IT goals</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Comprehensive strategy, fully aligned with corporate objectives, regularly updated</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Determine the OKR and KPI carbon metrics that require tracking</td>
+<td colspan="2">Review the OKR and KPI carbon metrics and check for data quality</td>
+<td colspan="2">Review the OKR and KPI's and use them for decisions</td>
 </tr>
-</tbody>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+</tr>
+<tr>
+<td><strong>c. Assess internal & external factors for IT sustainability</strong></td>
+<td>Limited awareness, no formal analysis</td>
+<td>-</td>
+<td>Some structured scanning of trends, partial stakeholder input</td>
+<td>-</td>
+<td>Continuous, proactive monitoring with robust scenario planning</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Initiate the analysis for internal and external factors for IT sustainability (carbon)</td>
+<td colspan="2">Assess with stakeholder to review the trends and continuously refine</td>
+<td colspan="2">Set up continuous monitoring and scenario based modelling based on use cases</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1A9gkSI8Y5lwjKGBBcjCpjAtaYxKmFUrXiXe3Ub00UFM/edit?tab=t.0">Internal and External Factors</a></td>
+</tr>
+<tr>
+<td><strong>d. Conduct a gap analysis for regulations</strong></td>
+<td>Basic compliance awareness, ad hoc documentation</td>
+<td>-</td>
+<td>Periodic review, partial compliance tracking</td>
+<td>-</td>
+<td>Ongoing regulatory monitoring, proactive compliance integrated into strategy</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Review the compliance documentation and initiate a gap analysis with internal regulatory teams</td>
+<td colspan="2">Set up regular reviews and process for compliance tracking</td>
+<td colspan="2">Continuous monitoring of compliance and regulations and review with leadership and oversight committee</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/spreadsheets/d/1-idNzIMoy-cxlBVCnYiV8bvXjeXkDY265g9Inxn2oqQ/edit?gid=0#gid=0">Gap Analysis Report</a><br><a href="https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0">Compliance and Regulations Impact Report</a></td>
+</tr>
+<tr>
+<td><strong>e. Incorporate findings into the IT sustainability strategy</strong></td>
+<td>Findings noted but not systematically integrated</td>
+<td>-</td>
+<td>Partially documented strategy, some alignment with IT goals</td>
+<td>-</td>
+<td>Comprehensive strategy, fully aligned with corporate objectives, regularly updated</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Establish a review of compliance and regulations into the decision making forums (inc. leadership and oversight committee)</td>
+<td colspan="2">Compile the IT sustainability strategy goals, with agreed target metrics, dates, responsibilities, etc.</td>
+<td colspan="2">Share the IT sustainability strategy with the wider IT organisation</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0">Compliance and Regulations Impact Report</a></td>
+</tr>
 </table>
-<p>&nbsp;</p>
 
-##### Steps and Outputs
-
-**Steps:**
-
-a.Form and operate a leadership oversight committee and agree on governance.<br>
-b. Agree on metrics for the management dashboard.<br>
-c. Assess the internal and external factors that will contribute to the formation or revision of the IT sustainable strategy.<br>
-d. Conduct a gap analysis for regulations.<br>
-e. Incorporate into the IT sustainability strategy.<br>
-
-**Outputs:**
-
-a. Leadership Oversight Committee – structure and processes – [Example  Leadership and Oversight Committee](https://docs.google.com/presentation/d/1tW50Ai6hbZNunJpTRwzurMndo6GbajGP95ZHzqLsvlw/edit#slide=id.p)
-b. Management Dashboard of all IT environmental metrics – [Example Management Dashboard – IT Environmental Metrics](https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p)
-c. Gap Analysis Report – [Example Gap Analysis Report](https://docs.google.com/spreadsheets/d/1-idNzIMoy-cxlBVCnYiV8bvXjeXkDY265g9Inxn2oqQ/edit?gid=0#gid=0)
-d. Compliance and Regulations Impact Report. [Compliance and Regulations Impact Report](https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0)
-
-The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform their software sustainability.
-
-#### Checklist
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong>Establish and operate the leadership and oversight committee</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Establish the boundaries of authority and the decision-making capabilities of the committee.&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Establish and operate the leadership and oversight committee</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Define an escalation and tie-breaking process for decisions.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Agree with the committee's vision, mission, and members.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Determine the length of committee member terms.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Agree with the committee's vision, mission, and members.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Define the vision and mission of the committee regarding company performance, environmental responsibility, and desired end-state.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Agree on management of change and continuous improvement and set frequency of review</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Determine the length, format, and cadence of committee meetings.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Agree on management of change and continuous improvement and set frequency of review</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Determine the speed at which committee decisions are implemented and prioritised.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Agree on IT environmental metrics for the management dashboard.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Determine which IT environmental metrics governance decisions should stem from.&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Agree on IT environmental metrics for the management dashboard.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Define the desired relationship or tradeoff among different metrics.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Leadership and oversight committee in operation</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Begin the meeting by reviewing compliance, market, and organisational issues relating to software sustainability.&nbsp;</span></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-
-Many of the future steps will require governance decision-making based on relevance, priority, and magnitude of actions.
-
-### Stage 2 – Principles
-Key areas of focus include the foundation for decision-making, strategy planning, and goal setting, which are embedded in the core principles, such as integrity, innovation, customer focus, and sustainability.  
-
-Key Personas – IT Leader(s) and ESG Leader(s)
-
-#### Capability Assessment for Stage 2 - Principles
+### Checklist
 
 <table>
-<tbody>
 <tr>
-<td>
-<p><span style="font-weight: 400;">Key steps in Principles</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Basic Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Developing Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
+<th>Task</th>
+<th></th>
+<th>Description</th>
 </tr>
 <tr>
-<td>
-<p><strong>a. Check SustainableIT.org for IT OKRs (review other standards)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No referencing</span></p>
-<p><span style="font-weight: 400;">- Low awareness of frameworks</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Partial referencing</span></p>
-<p><span style="font-weight: 400;">- Some alignment with recommended OKRs</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Fully integrated into strategy</span></p>
-<p><span style="font-weight: 400;">- Regularly updated using best practices</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Establish and operate the leadership and oversight committee</strong></td>
+<td>-</td>
+<td>Establish the boundaries of authority and the decision-making capabilities of the committee.</td>
 </tr>
 <tr>
-<td>
-<p><strong>b. Determine environmental metrics for the IT Sustainability Strategy</strong></p>
-<p><strong>(e.g., Energy, Water, E-waste, etc.)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Ad hoc approach</span></p>
-<p><span style="font-weight: 400;">- Minimal or no defined metrics</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Core metrics identified</span></p>
-<p><span style="font-weight: 400;">- Some processes for measuring</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive set of metrics</span></p>
-<p><span style="font-weight: 400;">- Fully embedded in strategic planning</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td></td>
+<td>-</td>
+<td>Define an escalation and tie-breaking process for decisions.</td>
 </tr>
 <tr>
-<td>
-<p><strong>c. Determine if the organization captures metrics for these environmental measures</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No consistent data collection</span></p>
-<p><span style="font-weight: 400;">- Reliance on anecdotes</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some data systems in place</span></p>
-<p><span style="font-weight: 400;">- Inconsistent coverage</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive, automated data capture</span></p>
-<p><span style="font-weight: 400;">- Used for decision-making</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Agree with the committee's vision, mission, and members.</strong></td>
+<td>-</td>
+<td>Determine the length of committee member terms.</td>
 </tr>
 <tr>
-<td>
-<p><strong>d. If metrics aren&rsquo;t captured, define approach to obtain/supply them</strong></p>
-<p><strong>(e.g., engage vendors on sustainability)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No plan for missing data</span></p>
-<p><span style="font-weight: 400;">- No vendor engagement</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Preliminary plan</span></p>
-<p><span style="font-weight: 400;">- Some sustainability clauses in contracts</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Clear data strategy</span></p>
-<p><span style="font-weight: 400;">- Strong vendor alignment in procurement processes</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td></td>
+<td>-</td>
+<td>Define the vision and mission of the committee regarding company performance, environmental responsibility, and desired end-state.</td>
 </tr>
-</tbody>
+<tr>
+<td><strong>Agree on management of change and continuous improvement and set frequency of review</strong></td>
+<td>-</td>
+<td>Determine the length, format, and cadence of committee meetings.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>Determine the speed at which committee decisions are implemented and prioritised.</td>
+</tr>
+<tr>
+<td><strong>Agree on IT environmental metrics for the management dashboard.</strong></td>
+<td>-</td>
+<td>Determine which IT environmental metrics governance decisions should stem from.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>Define the desired relationship trade-off among different metrics.</td>
+</tr>
+<tr>
+<td><strong>Leadership and oversight committee in operation</strong></td>
+<td>-</td>
+<td>Begin the meeting by reviewing compliance, market, and organisational issues relating to software sustainability.</td>
+</tr>
 </table>
 
-#### Steps and Outputs
-
-**Steps:**
-
-a. Check SustainableIT.org for IT OKRs (review other standards).<br>
-b. Determine the environmental metrics for the IT Sustainable Strategy, e.g. Energy, Water, Electronic Waste, Sustainable Procurement.<br>
-c. Determine if the organisation captures metrics for the environmental metrics.<br>
-d. If the organisation does not capture metrics, determine the best approach to obtaining and sourcing them. E.g., sustainable procurement would require vendors to agree with sustainable definitions and principles in the purchasing process.<br>
-
-**Outputs:**
-
-a. List of material metrics for IT's sustainable strategy. Example – List of metrics for Sustainable IT. <br>
+## Stage 2 -- Principles
 
 The Principles Section involves the review and identification of relevant environmental metrics such as Energy Consumption, Water Usage, Electronic Waste, and Sustainable Procurement. Availability of data will inform which KPIs can be tracked and what missing data will need to be captured.
 
-#### Checklist
+Key areas of focus include the foundation for decision-making, strategy planning, and goal setting, which are embedded in the core principles, such as integrity, innovation, customer focus, and sustainability.
+
+**Key Personas -- IT Leader(s) and ESG Leader(s)**
+
+### Capability Assessment for Stage 2 - Principles
 
 <table>
-<tbody>
 <tr>
-<td>
-<p><strong>Review the</strong><a href="https://www.sustainableit.org/standards/it-esg-standards"><strong> SustainableIT.org business and IT standards</strong></a><strong> adopted where applicable</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Consider which metrics are currently or will be potentially mandated by regulations for your industry.</span></p>
-</td>
+<th>Key steps in Principles</th>
+<th>Basic Maturity</th>
+<th>Tick if done</th>
+<th>Developing Maturity</th>
+<th>Tick if done</th>
+<th>Advanced Maturity</th>
+<th>Tick if done</th>
 </tr>
 <tr>
-<td>
-<p><strong>Review the</strong><a href="https://www.sustainableit.org/standards/it-esg-standards"><strong> SustainableIT.org business and IT standards</strong></a><strong> adopted where applicable</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Weigh the relative magnitude of the separate areas if determining which to prioritise.</span></p>
-</td>
+<td><strong>a. Check SustainableIT.org for IT OKRs (review other standards)</strong></td>
+<td>- No referencing<br>- Low awareness of frameworks</td>
+<td>-</td>
+<td>- Partial referencing<br>- Some alignment with recommended OKRs</td>
+<td>-</td>
+<td>- Fully integrated into strategy<br>- Regularly updated using best practices</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>Determine the environmental metrics being considered for the IT strategy.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">How does this metric affect the company&rsquo;s costs or financials?</span></p>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Ad-hoc references to frameworks.</td>
+<td colspan="2">Review of partial OKR's / standards from external organisations and specialists.</td>
+<td colspan="2">Regular and full review of integrating OKRs and standards.</td>
 </tr>
 <tr>
-<td>
-<p><strong>Determine the environmental metrics being considered for the IT strategy.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Are competitors currently reporting this metric?</span></p>
-</td>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://www.sustainableit.org/standards/it-esg-standards">SustainableIT.org for IT OKRs</a></td>
 </tr>
 <tr>
-<td>
-<p><strong>Determine the environmental metrics being considered for the IT strategy.</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Regardless of the level of data accessibility, which areas are most frequently interacted with in BAU activities?</span></p>
-</td>
+<td><strong>b. Determine environmental metrics for the IT Sustainability Strategy (e.g., Energy, Water, E-waste, etc.)</strong></td>
+<td>- Ad hoc approach<br>- Minimal or no defined metrics</td>
+<td>-</td>
+<td>- Core metrics identified<br>- Some processes for measuring</td>
+<td>-</td>
+<td>- Comprehensive set of metrics<br>- Fully embedded in strategic planning</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation measure energy consumption from data centres (PUE)?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong> <strong>&rarr; </strong><span style="font-weight: 400;">Obtain total energy usage, energy efficiency from IT equipment and calculate PUE</span></p>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Minimal or no defined environmental metrics.</td>
+<td colspan="2">Key environmental metrics are defined based on what can be measured and reported.</td>
+<td colspan="2">Full set of environmental metrics are defined and capability to measure and track.</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation measure energy consumption from data centres (PUE)?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES </strong><strong>&rarr; </strong><span style="font-weight: 400;">Move on to stages 3 and 4.</span></p>
-</td>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1AUeUePsIL7NBzrOjrGV2rV14ygGm-qxtEvR8e7wODY4/edit?tab=t.0">List of metrics for Sustainable IT</a></td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation capture water usage metrics (WUE) from their data centres (leased or owned)?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><strong> &rarr; </strong><span style="font-weight: 400;">Determine how the water metrics can be captured from data centres.</span></p>
-</td>
+<td><strong>c. Determine if the organisation captures metrics for these environmental measures</strong></td>
+<td>- No consistent data collection<br>- Reliance on anecdotes</td>
+<td>-</td>
+<td>- Some data systems in place<br>- Inconsistent coverage</td>
+<td>-</td>
+<td>- Comprehensive, automated data capture<br>- Used for decision-making</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation capture water usage metrics (WUE) from their data centres (leased or owned)?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><strong> &rarr; </strong><span style="font-weight: 400;">Move on to stages 3 and 4.</span></p>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Minimal or no systematic approach to collecting data to analyse metrics.</td>
+<td colspan="2">Some data collection methods, automated calculations, and processes are currently implemented. Data could vary based on location. Inconsistencies may be prevalent.</td>
+<td colspan="2">An automated approach is used to collect data and share it across the IT organisation for data-driven decision-making.</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation recycle hardware?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><strong> &rarr; </strong><span style="font-weight: 400;">Determine how the hardware can be recycled.</span></p>
-<p><span style="font-weight: 400;">Establish discussions with vendors regarding recycling programs.</span></p>
-</td>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1lQnDuJ-vnVuIt7dp_SU1LPXgzD3diZTJ5zeP1XOj69M/edit?tab=t.0">Automated Data Capture Approach</a></td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation recycle hardware?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><strong> &rarr; </strong><span style="font-weight: 400;">Move on to stages 3 and 4.</span></p>
-</td>
+<td><strong>d. If metrics aren't captured, define approach to obtain/supply them (e.g., engage vendors on sustainability)</strong></td>
+<td>- No plan for missing data<br>- No vendor engagement</td>
+<td>-</td>
+<td>- Review of vendors that can provide the data</td>
+<td>-</td>
+<td>- Clear data strategy from vendors</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation have sustainable procurement?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong> <strong>&rarr; </strong><span style="font-weight: 400;">Determine how to initiate sustainable IT procurement practices&nbsp;</span></p>
-<p><a href="https://www.iso.org/standard/63026.html?"><span style="font-weight: 400;">ISO Standard for Sustainable Procurement</span></a></p>
-<p><a href="https://www.gov.uk/guidance/make-your-technology-sustainable"><span style="font-weight: 400;">UK gov guidelines</span></a></p>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Minimal or no systematic approach to collecting data to analyse metrics.</td>
+<td colspan="2">Some data collection methods, automated calculations, and processes are currently implemented. Data could vary based on location. Inconsistencies may be prevalent.</td>
+<td colspan="2">An automated approach is used to collect data and share it across the IT organisation for data-driven decision-making.</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does the IT organisation have sustainable procurement?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><strong> &rarr; </strong><span style="font-weight: 400;">Move on to stages 3 and 4.</span></p>
-</td>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1XDjoWZr7tz5cUA0dLXD8B4pB_msLyQpTe6ro_RRbZTQ/edit?tab=t.0">Environmental Metrics from Vendors</a></td>
 </tr>
-</tbody>
+<tr>
+<td><strong>e. Align the organisation's sustainability goals with sustainable procurement processes.</strong></td>
+<td>- No plan to align sustainability in procurement processes</td>
+<td>-</td>
+<td>- Preliminary plan<br>- Some sustainability clauses in contracts</td>
+<td>-</td>
+<td>- Strong vendor alignment to sustainability<br>- Vendors adhere to sustainable procurement processes</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Minimal or no sustainability approaches in procurement processes.</td>
+<td colspan="2">Approach defined and sustainability clauses captured in the legal terms within contracts</td>
+<td colspan="2">Vendors agree to sustainable goals</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1VhKrek3LfYqi2tDQfCyTbSiWWC8ZmWbmqNA-3Bey58I/edit?tab=t.0">Sustainability Goals with Sustainable Procurement Processes</a></td>
+</tr>
 </table>
 
-
-### Stage 3 – Sustainable IT Objective Key Results (OKRs)
-
-Key areas to focus on include the development of sustainable IT OKRs, defining the objectives, and being able to measure them through Key Performance Indicators.
-
-Key Personas – IT Leader(s), ESG Leader(s), Internal Auditor(s) and Finance manager(s)
-
-#### Capability Assessment for Stage 3 - Sustainability IT Objective Key Results (OKRs)
+### Checklist
 
 <table>
-<tbody>
 <tr>
-<td>
-<p><span style="font-weight: 400;">Key steps in Sustainable IT Objective Key Results (OKRs)</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Basic Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Developing Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
+<th>Task</th>
+<th></th>
+<th>Description</th>
 </tr>
 <tr>
-<td>
-<p><strong>a. Define OKR/KPIs for energy consumption &amp; agree with stakeholders</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No formal OKRs</span></p>
-<p><span style="font-weight: 400;">- Ad-hoc or undefined KPIs</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Preliminary OKRs defined</span></p>
-<p><span style="font-weight: 400;">- Some stakeholder alignment</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Robust, agreed-upon OKRs</span></p>
-<p><span style="font-weight: 400;">- Fully endorsed by stakeholders</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Review the <a href="https://www.sustainableit.org/standards/it-esg-standards">SustainableIT.org business and IT standards</a> adopted where applicable</strong></td>
+<td>-</td>
+<td>Consider which metrics are currently or will be potentially mandated by regulations for your industry.</td>
 </tr>
 <tr>
-<td>
-<p><strong>b. Determine environmental metrics for IT strategy</strong></p>
-<p><strong>(e.g., Energy, Water, E-waste, Procurement)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Limited or no defined metrics</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Core metrics identified</span></p>
-<p><span style="font-weight: 400;">- Partial measurement processes</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive set of metrics</span></p>
-<p><span style="font-weight: 400;">- Metrics fully integrated into strategy</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td></td>
+<td>-</td>
+<td>Weigh the relative magnitude of the separate areas if determining which to prioritise.</td>
 </tr>
 <tr>
-<td>
-<p><strong>c. Determine if the organization captures metrics for these environmental measures</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Sporadic or anecdotal data</span></p>
-<p><span style="font-weight: 400;">- No standardized approach</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some data collection processes</span></p>
-<p><span style="font-weight: 400;">- Inconsistent coverage</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Automated, reliable data capture</span></p>
-<p><span style="font-weight: 400;">- Metrics drive continuous improvement</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
+<td><strong>Determine the environmental metrics being considered for the IT strategy.</strong></td>
+<td>-</td>
+<td>How does this metric affect the company's costs or financials?</td>
 </tr>
-</tbody>
+<tr>
+<td></td>
+<td>-</td>
+<td>Are competitors currently reporting this metric?</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>Regardless of the level of data accessibility, which areas are most frequently interacted with in BAU activities?</td>
+</tr>
+<tr>
+<td><strong>Does the IT organisation measure energy consumption from data centres (PUE)?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> <strong>→</strong> Obtain total energy usage, energy efficiency from IT equipment and calculate PUE</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES →</strong> Move on to stages 3 and 4.</td>
+</tr>
+<tr>
+<td><strong>Does the IT organisation capture water usage metrics (WUE) from their data centres (leased or owned)?</strong></td>
+<td>-</td>
+<td><strong>NO →</strong> Determine how the water metrics can be captured from data centres.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES →</strong> Move on to stages 3 and 4.</td>
+</tr>
+<tr>
+<td><strong>Does the IT organisation recycle hardware?</strong></td>
+<td>-</td>
+<td><strong>NO →</strong> Determine how the hardware can be recycled.<br><br>Establish discussions with vendors regarding recycling programs.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES →</strong> Move on to stages 3 and 4.</td>
+</tr>
+<tr>
+<td><strong>Does the IT organisation have sustainable procurement?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> <strong>→</strong> Determine how to initiate sustainable IT procurement practices<br><br><a href="https://www.iso.org/standard/63026.html?">ISO Standard for Sustainable Procurement</a><br><br><a href="https://www.gov.uk/guidance/make-your-technology-sustainable">UK gov guidelines</a></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES →</strong> Move on to stages 3 and 4.</td>
+</tr>
 </table>
 
-#### Steps and Outputs
-
-**Steps:**
-
-a. If not already agreed upon for energy consumption, define the OKR and KPIs and agree with stakeholders.<br>
-b. Determine the environmental metrics for the IT Sustainable Strategy, e.g. Energy, Water, Electronic Waste, Sustainable Procurement.<br>
-c. Determine if the organisation captures metrics for the environmental metrics.<br>
-
-**Outputs:**
-
-a. Sustainable IT OKR. Example -  Sustainable IT OKRs.<br>
-b. Water usage IT OKR. Example - Water Usage IT OKRs.<br>
-c. Electronic waste IT OKR. Example - Electronic Waste IT OKRs.<br>
-d. Sustainable procurement IT OKR. Example - Sustainable Procurement IT OKRs.<br>
-e. Vendor KPIs for sustainable procurement. Example – Vendor KPIs for Sustainable Procurement.<br>
+## Stage 3 -- Sustainable IT Objective Key Results (OKRs)
 
 The OKR section takes into account the business strategy, the importance of the metrics, and the availability of data from the previous sections. It then decides if certain performance metrics should be tracked as OKRs. The oversight committee/board from section 1 should be involved in the decision-making process.
 
-#### Checklist
+Key areas to focus on include the development of sustainable IT OKRs, defining the objectives, and being able to measure them through Key Performance Indicators.
+
+**Key Personas -- IT Leader(s), ESG Leader(s), Internal Auditor(s) and Finance manager(s)**
+
+### Capability Assessment for Stage 3 - Sustainability IT Objective Key Results (OKRs)
 
 <table>
-<tbody>
 <tr>
-<td>
-<p><strong>Does energy consumption require a dedicated OKR and KPI?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; Energy consumption from data centres are captured elsewhere in the organisation.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; </span><a href="https://docs.google.com/document/d/1zlcJQg-EdC9j7d2oXl-wwRNrDnZXG6r6xplisV9G79Q/edit?tab=t.0"><span style="font-weight: 400;">Data Centre Energy Consumption - Options</span></a></p>
-</td>
+<th>Key steps in Sustainable IT Objective Key Results (OKRs)</th>
+<th>Basic Maturity</th>
+<th>Tick if done</th>
+<th>Developing Maturity</th>
+<th>Tick if done</th>
+<th>Advanced Maturity</th>
+<th>Tick if done</th>
 </tr>
 <tr>
-<td>
-<p><strong>Does energy consumption require a dedicated OKR and KPI?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; Define Sustainable IT Objective Key Results (OKRs) for energy consumption.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; Defining</span><a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0"><span style="font-weight: 400;"> Sustainable IT OKRs</span></a></p>
-</td>
+<td><strong>a. Define OKR/KPIs for energy and carbon consumption & agree with stakeholders</strong></td>
+<td>- No formal OKRs<br>- Ad-hoc or undefined KPIs</td>
+<td>-</td>
+<td>- Preliminary OKRs defined<br>- Some stakeholder alignment</td>
+<td>-</td>
+<td>- Robust, agreed-upon OKRs<br>- Fully endorsed by stakeholders</td>
+<td>-</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does water usage require a dedicated OKR and KPIs?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Reassess the water usage metric for IT on a frequent basis.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; </span><a href="https://docs.google.com/document/d/1fZBg1R9xJQxHeeCzSvpvWBoqWxobdQjlQSxZ__W_K-s/edit?tab=t.0"><span style="font-weight: 400;">Water Usage Monitoring</span></a></p>
-</td>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Minimal or no OKRs or KPI's</td>
+<td colspan="2">Some OKR's and KPI's are defined. Some stakeholder engagement initiated</td>
+<td colspan="2">Comprehensive list of OKR's and KPI's. Endorsed by all stakeholders.</td>
 </tr>
 <tr>
-<td>
-<p><strong>Does water usage require a dedicated OKR and KPIs?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><span style="font-weight: 400;"> &rarr; Define Sustainable IT Objective Key Results (OKRs) for water consumption.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; Defining</span><a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0"><span style="font-weight: 400;"> Water Usage IT OKRs</span></a></p>
-</td>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0">Sustainable IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0">OKRs and KPIs for IT Operations</a></td>
 </tr>
 <tr>
-<td>
-<p><strong>Does electronic waste usage require a dedicated OKR and KPIs?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; Reassess the electronic waste savings for IT on a frequent basis.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; Defining </span><a href="https://docs.google.com/document/d/1fYxnIHhOFFl9bLewmc5b4qZym-StUaWFxO0UVKvlOtc/edit?tab=t.0"><span style="font-weight: 400;">Electronic Waste Monitoring</span></a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does electronic waste usage require a dedicated OKR and KPIs?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><span style="font-weight: 400;"> &rarr; Define Sustainable IT Objective Key Results (OKRs) for electronic waste.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; Defining</span><a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0"><span style="font-weight: 400;"> Electronic Waste IT OKRs</span></a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Are vendors tracking scope 3 categories?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; Reassess the sustainable procurement metric for IT on a frequent basis.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; </span><a href="https://docs.google.com/document/d/1c4PWrKI02MAGAY2kDvKyJvkaQkmFi3jc6frhZOxah8I/edit?tab=t.0#heading=h.74o9iao6jyad"><span style="font-weight: 400;">Sustainable Procurement Monitoring</span></a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Are vendors tracking scope 3 categories?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong> <span style="font-weight: 400;">&rarr; CDP/SBTi data capture for vendors.</span></p>
-<p><span style="font-weight: 400;">Example &ndash; Defining</span><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0"><span style="font-weight: 400;"> Sustainable Procurement IT OKRs</span></a></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-
-
-### Stage 4 – Key Performance Indicators (KPIs)
-
-Key areas to focus on include the quantifiable measures for evaluating KPIs. The strategic approach to establishing and measuring KPIs encompasses the organisation's current assessment and the development of training plans.
-
-Key Personas – IT Leader(s) and ESG Leader(s)
-
-#### Capability Assessment for Stage 4 - Key Performance Indicators (KPIs)
-
-<table>
-<tbody>
-<tr>
-<td>
-<p><span style="font-weight: 400;">Key steps in Key Performance Indicators (KPIs)</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Basic Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Developing Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>a. Establish training plans</strong></p>
-<p><strong><em>(Educate employees on the impact of energy/carbon in IT operations)</em></strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No formal training</span></p>
-<p><span style="font-weight: 400;">- Ad-hoc or minimal efforts</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some structured programs</span></p>
-<p><span style="font-weight: 400;">- Partial employee coverage</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive, ongoing training</span></p>
-<p><span style="font-weight: 400;">- Integrated into onboarding and culture</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>b. Monitor the education progress</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No tracking or oversight</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Basic monitoring process</span></p>
-<p><span style="font-weight: 400;">- Inconsistent reporting</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Continuous, data-driven tracking</span></p>
-<p><span style="font-weight: 400;">- Regular reviews &amp; improvements</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>c. Conduct the Maturity Matrix assessment</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Unfamiliar or not applied</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Initial awareness, ad-hoc application</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Regularly scheduled assessments</span></p>
-<p><span style="font-weight: 400;">- Fully embedded in improvement cycles</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>d. Determine frequency &amp; governance for continuous matrix assessments</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No formal schedule</span></p>
-<p><span style="font-weight: 400;">- Unclear responsibilities</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Semi-regular assessments</span></p>
-<p><span style="font-weight: 400;">- Some governance mechanisms</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Well-defined frequency &amp; governance</span></p>
-<p><span style="font-weight: 400;">- Clear accountability &amp; processes</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>e. Position business to understand impact of changes/growth on IT carbon</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Little or no assessment of impact</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some awareness, partial analyses</span></p>
-<p><span style="font-weight: 400;">- Occasional stakeholder updates</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Systematic evaluation of business changes</span></p>
-<p><span style="font-weight: 400;">- Insights fully inform strategy</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>f. Establish green software principles</strong></p>
-<p><strong><em>(Make available to IT &amp; business for carbon emissions)</em></strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No standardized principles</span></p>
-<p><span style="font-weight: 400;">- Little awareness</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Basic principles introduced</span></p>
-<p><span style="font-weight: 400;">- Limited application in development</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive principles adopted org-wide</span></p>
-<p><span style="font-weight: 400;">- Actively guide software lifecycle</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-
-
-#### Steps and Outputs
-
-**Steps:**
-
-a. Establish training plans to educate employees on the impact of energy and carbon in IT operations.<br>
-b. Monitor the education progress.<br>
-c. Conduct the Maturity Matrix assessment. <br>
-d. Determine the frequency and governance approach for the continuous maturity matrix assessment.<br>
-e. Position the business to understand the impact of business change and growth and its impact on carbon from IT.<br>
-f. Establish the green software principles and make them available for IT and business for carbon emissions.<be>
-
-**Outputs:**
-
-a. This document is a training plan for an IT organisation. Example - Training Plan.<br>
-b. Current Maturity Matrix level. Example - Green Software Maturity Matrix.<br>
-c. Write-up of the business impact of green software for company. Example - Business Impact of Green Software.<br>
-d. The focus is on OKRs and KPIs for IT operations emissions. Example - OKRs and KPIs for IT Operations.<br>
-
-The KPI section determines the specific metrics required to monitor the progress of selected OKRs. As part of choosing the performance indicator, the Maturity Matrix is used to find the "current state." This procedure sets a baseline that can be checked on a regular basis. Additionally, employees should be educated on the strategy's KPIs and how their actions affect them. 
-
-Checklist
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong>Is the IT organisation aware of its carbon impact on their IT operations?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Ensure there is a training plan and resources for organisational members to learn about the carbon impacts of operations.</span></p>
-<p><span style="font-weight: 400;">Output: a training plan for an IT organisation.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Is the IT organisation aware of its carbon impact on their IT operations?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Output: a training plan for an IT organisation.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Is the IT organisation educated to assess and reduce carbon emissions from software?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><strong> &rarr;</strong><span style="font-weight: 400;"> the organisation should create a business impact assessment&nbsp;</span></p>
-<p><span style="font-weight: 400;">Output: Write-up of business impact of green software for company</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Is the IT organisation educated to assess and reduce carbon emissions from software?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong> <span style="font-weight: 400;">&rarr; education is needed on how to measure and assess the impact of IT operations.</span></p>
-<p><span style="font-weight: 400;">Output: Revise Training Plan</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Has the organisation conducted the Mature Matrix assessment?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><a href="https://maturity-matrix.greensoftware.foundation/"><span style="font-weight: 400;">Green Software Maturity Matrix</span></a></p>
-<p><span style="font-weight: 400;">Output: Current Maturity Matrix level assessment</span></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-
-### Stage 5 – Measurement Targets
-Key areas to focus include the measurement targets for KPI’s and the ability to track progress and performance
-
-Key Personas – IT Leader(s), ESG Leader(s), Internal Regulation Manager(s) and Internal Auditor(s) 
-Capability Assessment for Stage 5 - Measurement Targets
-<table>
-<tbody>
-<tr>
-<td>
-<p><span style="font-weight: 400;">Key steps in Measurement Targets</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Basic Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Developing Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Maturity</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tick if done</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>a. Determine how scope emissions (1, 2, 3) are reported</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No formal definitions or data</span></p>
-<p><span style="font-weight: 400;">- Ad hoc reporting</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some definitions of scopes</span></p>
-<p><span style="font-weight: 400;">- Partial coverage, inconsistent reporting</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Clear, comprehensive scope definitions</span></p>
-<p><span style="font-weight: 400;">- Consistent, integrated reporting across the org</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>b. Utilize procurement teams &amp; IT to determine vendor emissions</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Minimal engagement with vendors</span></p>
-<p><span style="font-weight: 400;">- No formal data</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some vendor data requests</span></p>
-<p><span style="font-weight: 400;">- Basic processes to include sustainability info</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Robust vendor collaboration</span></p>
-<p><span style="font-weight: 400;">- Sustainability data fully integrated in procurement</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>c. Categorize data center (including cloud) into relevant scope emissions</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No systematic categorization</span></p>
-<p><span style="font-weight: 400;">- Limited awareness</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Partial categorization of on-prem vs. cloud</span></p>
-<p><span style="font-weight: 400;">- Gaps in scope mapping</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Clear classification of all data center &amp; cloud ops</span></p>
-<p><span style="font-weight: 400;">- Mapped accurately to scope emissions</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>d. Baseline the SCI (Software Carbon Intensity) emissions</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No measurement or baseline</span></p>
-<p><span style="font-weight: 400;">- Unsure of software impact</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Initial data collection for key apps</span></p>
-<p><span style="font-weight: 400;">- Some methods to quantify SCI</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive SCI baseline for all critical apps</span></p>
-<p><span style="font-weight: 400;">- Metrics updated regularly</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>e. Establish &amp; collect carbon emissions data from cloud providers</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No systematic approach</span></p>
-<p><span style="font-weight: 400;">- Ad hoc or no data from cloud</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some data sharing agreements</span></p>
-<p><span style="font-weight: 400;">- Partial coverage of cloud workloads</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Detailed, automated data feed from cloud providers</span></p>
-<p><span style="font-weight: 400;">- Full coverage for all workloads</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>f. Set up governance &amp; review process for OKRs/KPIs (carbon from software)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No governance structure</span></p>
-<p><span style="font-weight: 400;">- Irregular tracking</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some oversight committee</span></p>
-<p><span style="font-weight: 400;">- Regular but limited reviews</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Formal governance framework</span></p>
-<p><span style="font-weight: 400;">- Frequent reviews &amp; updates to software carbon KPIs/OKRs</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>g. Discuss options to track carbon emissions data</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No common tools/methods</span></p>
-<p><span style="font-weight: 400;">- Sporadic conversations</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Some defined tools/processes</span></p>
-<p><span style="font-weight: 400;">- Inconsistent adoption</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Organization wide tracking approach</span></p>
-<p><span style="font-weight: 400;">- Standardized tools &amp; processes for carbon data</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>h. Compile the IT Sustainable Strategy (environmental metrics, OKRs, KPIs)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Draft or fragmented docs</span></p>
-<p><span style="font-weight: 400;">- Little leadership backing</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Partially integrated strategy</span></p>
-<p><span style="font-weight: 400;">- Some alignment with corporate sustainability</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Comprehensive strategy with clear metrics &amp; goals</span></p>
-<p><span style="font-weight: 400;">- Fully endorsed by leadership</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>i. Continuously review &amp; revise IT Sustainable Strategy (frequency set by Leadership &amp; Oversight Committee)</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">- No formal updates</span></p>
-<p><span style="font-weight: 400;">- Strategy static or outdated</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Periodic reviews</span></p>
-<p><span style="font-weight: 400;">- Some improvements incorporated</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">- Routine, scheduled reviews</span></p>
-<p><span style="font-weight: 400;">- Strategy evolves with organizational &amp; market changes</span></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><span style="font-weight: 400;">Steps and Outputs</span></h3>
-
-
-#### Steps and Outputs
-**Steps:**
-a. Determine how scope emissions (1, 2, and 3) are reported.
-b. Utilise procurement teams to work with IT teams to determine the scope of emissions from vendors.
-c. Categorise data centre operations (including cloud) into their relevant scope emissions.
-d. Baseline the SCI carbon emissions from software.
-e. Establish and collect carbon emissions data from cloud providers.
-f. Set up the governance and review process to manage the OKRs and KPIs (in this case, carbon emissions from software applications).
-g. Discuss the options to track carbon emissions data.
-h. Compile the IT Sustainable Strategy, capturing all the environmental metrics, OKRs, and KPIs discussed in the principles stage.
-i. Continuously review and revise the IT Sustainable Strategy based on frequency set by the Leadership and Oversight Committee.
-
-**Outputs:**
-a. IT Sustainable Strategy. Example –  IT Sustainable Strategy
-
-The Measurement Targets section makes sure that the data being collected can be used to report to outside groups in a way that meets industry standards and to track progress against OKRs and introduce changes to the company's IT strategy that are sustainable.
-
-If all OKRs and KPIs are supported in the implementation and already available for use in IT operations, TOSS users can skip over the Implementation Pillar and move on to the Operations Pillar.
-
-#### Checklist
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong>Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Can the energy consumption data provide insights into procurement and usage from the IT organisation?</span></p>
-<p><span style="font-weight: 400;">Revise energy consumption metrics to enable scope emission metrics</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>Yes </strong><span style="font-weight: 400;">&rarr; </span><span style="font-weight: 400;">Determine the scope of emissions that impact the type of IT organisation (industry, vendor, software provider, consultant, etc.).</span></p>
-<p><span style="font-weight: 400;">Continue with this stage</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the organisation have defined OKR and KPIs for carbon emissions?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Go back to stage 3 and 4</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the organisation have defined OKR and KPIs for carbon emissions?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><span style="font-weight: 400;"> &rarr; Reassess OKRs and KPIs based on current review and incorporate any updates</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><span style="font-weight: 400;"> &rarr; Move back to section 1.1 to establish a governance process.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><span style="font-weight: 400;"> &rarr; Continue with this stage</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the organisation have all the data to track the OKR's and KPI's for carbon emissions from software applications?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Move to Implementation Pillar</span> <span style="font-weight: 400;">if data needs to be captured for OKR &amp; KPI tracking.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Are the tools to calculate carbon emissions, the data, and the processes in place to use in IT operations?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><span style="font-weight: 400;">Move to Implementation Pillar if data tooling needs to be created for operations use.&nbsp;</span></p>
-<br />
-<p><span style="font-weight: 400;">Proceed to the Operations Pillar once the implementation supports and makes all OKRs and KPIs available for use in IT operations.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><strong> &rarr; </strong><span style="font-weight: 400;">Collaborate with the cloud provider to provide scope 3 emission data.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><strong> &rarr;</strong><span style="font-weight: 400;"> Continue with this stage</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the company have a comprehensive environmental strategy for its IT operations?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>NO</strong><strong> &rarr; </strong><span style="font-weight: 400;">Define the IT sustainability strategy incorporating environmental factors.</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Example - </span><a href="https://docs.google.com/document/d/1_HsDTcYr6V86IMVIiG24g2mtNy9slkI1XnITePepVxA/edit?tab=t.0"><span style="font-weight: 400;">Template - IT Sustainable Strategy</span></a></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Does the company have a comprehensive environmental strategy for its IT operations?</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"></li>
-</ul>
-</td>
-<td>
-<p><strong>YES</strong><strong> &rarr; </strong><span style="font-weight: 400;">Refine the IT sustainable strategy based on new decisions and/or regulations.</span></p>
-<p><span style="font-weight: 400;">IT Infrastructure Strategy should cover responses to:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Energy consumption OKR / KPIs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Carbon emissions OKR / KPIs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Water OKR / KPIs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Electronic Waste OKR / KPIs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Sustainable Procurement OKR / KPIs</span></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<td><strong>b. Determine environmental metrics for IT strategy (e.g., Energy, Water, E-waste, Procurement)</strong></td>
+<td>- Limited or no defined metrics</td>
+<td>-</td>
+<td>- Core
 
 ## Implementation Pillar
 Implementation within organisations is the structured process of executing the IT sustainable strategy and implementing the tools and processes to meet the objectives and KPI’s. Key components of this process include refining and enhancing tools to support organisational processes; setting up systems for effective data collection; and ensuring accuracy through validation. Tracking progress involves monitoring key performance indicators (KPIs) and analysing the data to assess performances and make informed adjustments. Data aggregation then compiles information from various sources to provide a comprehensive view, while trend analysis identifies patterns over time to guide strategic planning. Together, these elements ensure the effective and efficient implementation of organisational objectives.
