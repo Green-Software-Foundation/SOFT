@@ -580,7 +580,510 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 <td><strong>b. Determine environmental metrics for IT strategy (e.g., Energy, Water, E-waste, Procurement)</strong></td>
 <td>- Limited or no defined metrics</td>
 <td>-</td>
-<td>- Core
+<td>- Core metrics identified<br>- Partial measurement processes</td>
+<td>-</td>
+<td>- Comprehensive set of metrics<br>- Metrics fully integrated into strategy</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Minimal or no OKRs or KPI's</td>
+<td colspan="2">Some OKR's and KPI's for energy, water etc. Some stakeholder engagement</td>
+<td colspan="2">Comprehensive list of OKR's and KPI's for all environmental metrics. Endorsed by all stakeholders.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1qDWLQwc4ogcEu73LYMDmsySR6sSdfLbiudbHYOz3gLA/edit?tab=t.0">Vendor KPIs for Sustainable Procurement</a></td>
+</tr>
+</table>
+
+### Checklist
+
+<table>
+<tr>
+<th>Task</th>
+<th></th>
+<th>Description</th>
+</tr>
+<tr>
+<td><strong>Does energy consumption require a dedicated OKR and KPI?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Energy consumption from data centres are captured elsewhere in the organisation.<br><br>Example -- <a href="https://docs.google.com/document/d/1zlcJQg-EdC9j7d2oXl-wwRNrDnZXG6r6xplisV9G79Q/edit?tab=t.0">Data Centre Energy Consumption - Options</a></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for energy consumption.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0">Sustainable IT OKRs</a></td>
+</tr>
+<tr>
+<td><strong>Does water usage require a dedicated OKR and KPIs?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Reassess the water usage metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1fZBg1R9xJQxHeeCzSvpvWBoqWxobdQjlQSxZ__W_K-s/edit?tab=t.0">Water Usage Monitoring</a></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for water consumption.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a></td>
+</tr>
+<tr>
+<td><strong>Does electronic waste usage require a dedicated OKR and KPIs?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Reassess the electronic waste savings for IT on a frequent basis.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1fYxnIHhOFFl9bLewmc5b4qZym-StUaWFxO0UVKvlOtc/edit?tab=t.0">Electronic Waste Monitoring</a></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for electronic waste.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a></td>
+</tr>
+<tr>
+<td><strong>Are vendors tracking scope 3 categories?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Reassess the sustainable procurement metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1c4PWrKI02MAGAY2kDvKyJvkaQkmFi3jc6frhZOxah8I/edit?tab=t.0#heading=h.74o9iao6jyad">Sustainable Procurement Monitoring</a></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → CDP/SBTi data capture for vendors.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a></td>
+</tr>
+</table>
+
+## Stage 4 -- Training and Assessment
+
+Effective training initiatives are essential for equipping teams with the necessary knowledge and competencies to embed and advance sustainable practices within an organisation. Such training programmes must clearly articulate sustainable development acronyms, relevant methodologies, best practices, and specific techniques to enable comprehensive understanding and effective implementation.
+
+Tracking the progress and effectiveness of training programmes is crucial. This includes maintaining detailed records of participation, gathering feedback from participants to evaluate training effectiveness, and assessing the ongoing application of knowledge and skills gained through training.
+
+Complementing training efforts, regular assessments of an organisation's green maturity are conducted. These assessments provide insights into the organisation's sustainability journey, highlighting areas of strength and opportunities for improvement. A structured and periodic approach to these assessments ensures continuous monitoring and facilitates informed decision-making aimed at achieving targeted sustainability objectives.
+
+Key indicators of successful training and assessment programmes include participation statistics, qualitative feedback from training sessions, and quantitative scores derived from Green Maturity Matrix evaluations. Collectively, these metrics offer a comprehensive view of organisational readiness and progression towards sustainability goals.
+
+**Key Personas -- IT Leader(s) and ESG Leader(s)**
+
+### Capability Assessment for Stage 4 - Training and Assessment
+
+<table>
+<tr>
+<th>Key steps in Key Performance Indicators (KPIs)</th>
+<th>Basic Maturity</th>
+<th>Tick if done</th>
+<th>Developing Maturity</th>
+<th>Tick if done</th>
+<th>Advanced Maturity</th>
+<th>Tick if done</th>
+</tr>
+<tr>
+<td><strong>a. Establish training plans<br><em>(Educate employees on the impact of energy/carbon in IT operations)</em></strong></td>
+<td>- No formal training<br>- Ad-hoc or minimal efforts</td>
+<td>-</td>
+<td>- Some structured programs<br>- Partial employee coverage</td>
+<td>-</td>
+<td>- Comprehensive, ongoing training<br>- Integrated into onboarding and culture</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No formal training plans for energy and carbon IT operations</td>
+<td colspan="2">Structured programs. Limited marketing and communications to take up training.</td>
+<td colspan="2">Comprehensive training created and delivered. Systematic approach to monitor training, and its impact on behaviours and culture.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1-pxJTz5fVY3jNN4cplYcudWlS5uUT64BHy9ke4FmGiM/edit#slide=id.g329a3e80289_0_320">Training Plan</a></td>
+</tr>
+<tr>
+<td><strong>b. Monitor the education progress</strong></td>
+<td>- No tracking or oversight</td>
+<td>-</td>
+<td>- Basic monitoring process<br>- Inconsistent reporting</td>
+<td>-</td>
+<td>- Continuous, data-driven tracking<br>- Regular reviews & improvements</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No tracking of number of individuals that have completed the training</td>
+<td colspan="2">Some monitoring of training data</td>
+<td colspan="2">Complete view of training statistics. Continuous updates to improve training and reporting.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a></td>
+</tr>
+<tr>
+<td><strong>c. Conduct the Maturity Matrix assessment</strong></td>
+<td>- Unfamiliar or not applied</td>
+<td>-</td>
+<td>- Initial awareness, ad-hoc application</td>
+<td>-</td>
+<td>- Regularly scheduled assessments<br>- Fully embedded in improvement cycles</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Maturity matrix assessment not conducted in the organisation</td>
+<td colspan="2">Partially applied</td>
+<td colspan="2">Maturity matrix assessment is part of a regular review. Action plan to improve and move towards a mature green IT organisation.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1j_LralV4QTqzBK6DYYLmjLiWlj3YIxCSZbySdaMaOA/edit#slide=id.g329a5396842_0_268">Green Software Maturity Matrix</a></td>
+</tr>
+<tr>
+<td><strong>d. Determine frequency & governance for continuous matrix assessments</strong></td>
+<td>- No formal schedule<br>- Unclear responsibilities</td>
+<td>-</td>
+<td>- Semi-regular assessments<br>- Some governance mechanisms</td>
+<td>-</td>
+<td>- Well-defined frequency & governance<br>- Clear accountability & processes</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No formal governance of continuous application of maturity matrix assessments</td>
+<td colspan="2">Partial governance structures in place, with actions to improve.</td>
+<td colspan="2">Governance and accountability structures set up for continuous maturity matrix assessments</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1TLDcfOn1H_YAGP8H7BUF8sivNs3tE5lYPxtW8HiYc5M/edit?tab=t.0">Continuous Maturity Matrix Governance Process</a></td>
+</tr>
+<tr>
+<td><strong>e. Position business to understand impact of changes/growth on IT carbon</strong></td>
+<td>- Little or no assessment of impact</td>
+<td>-</td>
+<td>- Some awareness, partial analyses<br>- Occasional stakeholder updates</td>
+<td>-</td>
+<td>- Systematic evaluation of business changes<br>- Insights fully inform strategy</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No or limited business impact and its impact on carbon (sustainability metrics)</td>
+<td colspan="2">Awareness of IT and its impact on carbon and business change. Further facilitation required to embed into business change processes.</td>
+<td colspan="2">Robust approach of business change and its impact on carbon (sustainability metrics)</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1RJ3YBaiH0Dm8jJTzV0wDQ4SaPtZ2RSUgVuSNiUm9FvA/edit?tab=t.0">Business Impact of Green Software</a></td>
+</tr>
+<tr>
+<td><strong>f. Establish green software principles<br><em>(Make available to IT & business for carbon emissions)</em></strong></td>
+<td>- No standardised principles<br>- Little awareness</td>
+<td>-</td>
+<td>- Basic principles introduced<br>- Limited application in development</td>
+<td>-</td>
+<td>- Comprehensive principles adopted org-wide<br>- Actively guide software lifecycle</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No principles or awareness</td>
+<td colspan="2">Some principles exist but not applied in the organisation. Share and educate the green software principles. Keep the principles updated.</td>
+<td colspan="2">Comprehensive list of software principles and monitored throughout the software lifecycle. Continuously add new principles and re-educate the teams.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Fdwt26i2XwtER-jRsZydj-cZoTbJeYsWxADiyII27jo/edit?tab=t.0#heading=h.mfu04clxpgcq">Green Software Principles</a></td>
+</tr>
+</table>
+
+### Checklist
+
+<table>
+<tr>
+<th>Task</th>
+<th></th>
+<th>Description</th>
+</tr>
+<tr>
+<td><strong>Is the IT organisation aware of its carbon impact on their IT operations?</strong></td>
+<td>-</td>
+<td>Ensure there is a training plan and resources for organisational members to learn about the carbon impacts of operations.<br><br>Output: a training plan for an IT organisation.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td>Output: a training plan for an IT organisation.</td>
+</tr>
+<tr>
+<td><strong>Is the IT organisation educated to assess and reduce carbon emissions from software?</strong></td>
+<td>-</td>
+<td><strong>YES →</strong> the organisation should create a business impact assessment<br><br>Output: Write-up of business impact of green software for company</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>NO</strong> → education is needed on how to measure and assess the impact of IT operations.<br><br>Output: Revise Training Plan</td>
+</tr>
+<tr>
+<td><strong>Has the organisation conducted the Mature Matrix assessment?</strong></td>
+<td>-</td>
+<td><a href="https://maturity-matrix.greensoftware.foundation/">Green Software Maturity Matrix</a><br><br>Output: Current Maturity Matrix level assessment</td>
+</tr>
+</table>
+
+## Stage 5 -- Measurement Targets
+
+Key areas to focus include the measurement targets for KPI's and the ability to track progress and performance. The Measurement Targets section makes sure that the data being collected can be used to report to outside groups in a way that meets industry standards and to track progress against OKRs and introduce changes to the company's IT strategy that are sustainable.
+
+If all OKRs and KPIs are supported in the implementation and already available for use in IT operations, TOSS users can skip over the Implementation Pillar and move on to the Operations Pillar.
+
+**Key Personas -- IT Leader(s), ESG Leader(s), Internal Regulation Manager(s) and Internal Auditor(s)**
+
+### Capability Assessment for Stage 5 - Measurement Targets
+
+<table>
+<tr>
+<th>Key steps in Measurement Targets</th>
+<th>Basic Maturity</th>
+<th>Tick if done</th>
+<th>Developing Maturity</th>
+<th>Tick if done</th>
+<th>Advanced Maturity</th>
+<th>Tick if done</th>
+</tr>
+<tr>
+<td><strong>a. Determine how scope emissions (1, 2, 3) are reported</strong></td>
+<td>- No formal definitions or data<br>- Ad hoc reporting</td>
+<td>-</td>
+<td>- Some definitions of scopes<br>- Partial coverage, inconsistent reporting</td>
+<td>-</td>
+<td>- Clear, comprehensive scope definitions<br>- Consistent, integrated reporting across the org</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No scope emission definitions were used in the organisation. Limited reporting</td>
+<td colspan="2">Partial definitions. Provide a clear plan to embed the definitions and determine the data to support emission reporting.</td>
+<td colspan="2">Clear scope definitions. The organisation is reporting consistent scope emissions throughout its operations.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1LGqBmCnf_vOXXsTokF6zeFDFeQOtPRtjACm1Q2vs9-8/edit?tab=t.0">Scope 1 2 3 Emissions</a></td>
+</tr>
+<tr>
+<td><strong>b. Utilise procurement teams & IT to determine vendor emissions</strong></td>
+<td>- Minimal engagement with vendors<br>- No formal data</td>
+<td>-</td>
+<td>- Some vendor data requests<br>- Basic processes to include sustainability info</td>
+<td>-</td>
+<td>- Robust vendor collaboration<br>- Sustainability data fully integrated in procurement</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No emissions data collected from vendors</td>
+<td colspan="2">Limited data collected from vendors, which includes the processes that need to be monitored. Work with vendors to provide an action plan to embed the emissions.</td>
+<td colspan="2">Scope emissions are captured from vendors as part of the procurement process. Regularly monitor the progress to plan for a gradual reduction over time.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1A1PgoevOECCXRmE0iwZyBZ6IJ-VhFbq22zjwDlHpxOY/edit?tab=t.0">Vendor Emissions</a></td>
+</tr>
+<tr>
+<td><strong>c. Categorize data center (including cloud) into relevant scope emissions</strong></td>
+<td>- No systematic categorisation<br>- Limited awareness</td>
+<td>-</td>
+<td>- Partial categorization of on-prem vs. cloud<br>- Gaps in scope mapping</td>
+<td>-</td>
+<td>- Clear classification of all data center & cloud ops<br>- Mapped accurately to scope emissions</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No agreed approach to categorise data centre (cloud) emissions</td>
+<td colspan="2">Emissions initiated based on on prem vs. cloud. Formal agreements required from all stakeholders</td>
+<td colspan="2">All emissions are classified and widely shared throughout the organisation. Teams know how to capture the data to report the emissions. Continuously review the framework using standard definitions and approaches.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1-T3ylsf6-HI2iPPJqIXcKZOjB6L_O0jGHxdXoDe2TOE/edit?tab=t.0">Emissions by Data Centre and Cloud</a></td>
+</tr>
+<tr>
+<td><strong>d. Baseline the SCI (Software Carbon Intensity) emissions</strong></td>
+<td>- No measurement or baseline<br>- Unsure of software impact</td>
+<td>-</td>
+<td>- Initial data collection for key apps<br>- Some methods to quantify SCI</td>
+<td>-</td>
+<td>- Comprehensive SCI baseline for all critical apps<br>- Metrics updated regularly</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Take investigative steps to initiate the baseline</td>
+<td colspan="2">Review the initial data collected and understand any gaps and how they can be improved. Provide a method to improve.</td>
+<td colspan="2">All apps have baseline data to help drive data-based decision-making. Provide an approach to regularly update</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1oD_T6BDQqqr3grQnYEeIYTz4_hFSL02QFR02HtAl0MQ/edit?tab=t.0">SCI Baseline</a></td>
+</tr>
+<tr>
+<td><strong>e. Establish & collect carbon emissions data from cloud providers</strong></td>
+<td>- No systematic approach<br>- Ad hoc or no data from cloud</td>
+<td>-</td>
+<td>- Some data sharing agreements<br>- Partial coverage of cloud workloads</td>
+<td>-</td>
+<td>- Detailed, automated data feed from cloud providers<br>- Full coverage for all workloads</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">There is currently no method to collect carbon emission data from cloud providers, so we should initiate discussions on how to source this data.</td>
+<td colspan="2">Identify the gaps that exist in the cloud carbon emissions data</td>
+<td colspan="2">Automated approach to collect carbon data. Review external vendors that can supplement cloud data. Organisations can view carbon emissions vs cost for all services and make robust decisions.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/190OekzKn7EQhRki-Eh80vhWiOmOaHBCT8zuQzyx3SU4/edit?tab=t.0">Carbon Emissions from Cloud Providers</a></td>
+</tr>
+<tr>
+<td><strong>f. Set up governance & review process for OKRs/KPIs (carbon from software)</strong></td>
+<td>- No governance structure<br>- Irregular tracking</td>
+<td>-</td>
+<td>- Some oversight committee<br>- Regular but limited reviews</td>
+<td>-</td>
+<td>- Formal governance framework<br>- Frequent reviews & updates to software carbon OKRs/KPIs</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Initiate discussions to set up a governance structure</td>
+<td colspan="2">Roles and responsibilities of the oversight committee. Review the OKRs and KPIs for carbon.</td>
+<td colspan="2">Governance structure in place to review OKRs and KPIs for carbon. Continuously improve governance and review process</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/15Q5GgrO_9pz6610_xM8vEYRpECIgq4YkGIjKg9NbAUI/edit?tab=t.0">Governance Structure for OKRs and KPIs</a></td>
+</tr>
+<tr>
+<td><strong>g. Discuss options to track carbon emissions data</strong></td>
+<td>- No common tools/methods<br>- Sporadic conversations</td>
+<td>-</td>
+<td>- Some defined tools/processes<br>- Inconsistent adoption</td>
+<td>-</td>
+<td>- Organization wide tracking approach<br>- Standardized tools & processes for carbon data</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Open the discussions on how to track carbon emissions data</td>
+<td colspan="2">Identify the tools and processes that are available. Identify the gaps and provide recommendations what is required</td>
+<td colspan="2">The tracking process is complete. Data is available to all teams, and they can make decisions to reduce reductions. Determine the impact on costs, too.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1oAmr9QhPVYUJjYHXYL8jZsXaJ3fpPng6kzKTaya3L2Q/edit?tab=t.0">End to End Approach to Tracking Carbon Emissions</a></td>
+</tr>
+<tr>
+<td><strong>h. Compile the IT Sustainable Strategy (environmental metrics, OKRs, KPIs)</strong></td>
+<td>- Draft or fragmented docs<br>- Little leadership backing</td>
+<td>-</td>
+<td>- Partially integrated strategy<br>- Some alignment with corporate sustainability</td>
+<td>-</td>
+<td>- Comprehensive strategy with clear metrics & goals<br>- Fully endorsed by leadership</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Review existing strategies and establish a group to work on an IT sustainable strategy</td>
+<td colspan="2">Continuously review the strategy document with stakeholders and corporate sustainability teams. Incorporate feedback.</td>
+<td colspan="2">Clearly defined IT Sustainable strategy. Share with all stakeholders and leaders. Widely communicate the metrics and goals.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1bHiMDpRarMVRPFVFckkGq7jk-egQkp_uEcCVkc_E8mE/edit?tab=t.0">IT Sustainable Strategy</a></td>
+</tr>
+<tr>
+<td><strong>i. Continuously review & revise IT Sustainable Strategy (frequency set by Leadership & Oversight Committee)</strong></td>
+<td>- No formal updates<br>- Strategy static or outdated</td>
+<td>-</td>
+<td>- Periodic reviews<br>- Some improvements incorporated</td>
+<td>-</td>
+<td>- Routine, scheduled reviews<br>- Strategy evolves with organizational & market changes</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">No improvement approaches to update IT sustainability strategy.</td>
+<td colspan="2">Provide updates and determine the review and improvement process.</td>
+<td colspan="2">Establish a frequency of reviews. Determine processes for how to keep the strategy updated based on market and regulatory changes.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/13kIgbgK4p5dq3jHFvEdXeN7rHjB87hH0pz7Mj7vX8XA/edit?tab=t.0">Continuous Review of IT Sustainable Strategy</a></td>
+</tr>
+</table>
+
+### Checklist
+
+<table>
+<tr>
+<th>Task</th>
+<th></th>
+<th>Description</th>
+</tr>
+<tr>
+<td><strong>Does the IT organisation split their carbon emissions by Scope 1, 2, and 3?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Can ﻿the energy consumption data provide insights into procurement and usage from the IT organisation?<br><br>Revise energy consumption metrics to enable scope emission metrics</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>Yes</strong> → Determine the scope of emissions that impact the type of IT organisation (industry, vendor, software provider, consultant, etc.).<br><br>Continue with this stage</td>
+</tr>
+<tr>
+<td><strong>Does the organisation have defined OKR and KPIs for carbon emissions?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Go back to stage 3 and 4</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Reassess OKRs and KPIs based on current review and incorporate any updates</td>
+</tr>
+<tr>
+<td><strong>Does the organisation have a governance and review process set up to manage OKRs and KPIs for carbon emissions from software applications?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Move back to section 1.1 to establish a governance process.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with this stage</td>
+</tr>
+<tr>
+<td><strong>Does the organisation have all the data to track the OKR's and KPI's for carbon emissions from software applications?</strong></td>
+<td>-</td>
+<td>Move to Implementation Pillar if data needs to be captured for OKR & KPI tracking.</td>
+</tr>
+<tr>
+<td><strong>Are the tools to calculate carbon emissions, the data, and the processes in place to use in IT operations?</strong></td>
+<td>-</td>
+<td>Move to Implementation Pillar if data tooling needs to be created for operations use.<br><br>Proceed to the Operations Pillar once the implementation supports and makes all OKRs and KPIs available for use in IT operations.</td>
+</tr>
+<tr>
+<td><strong>Does the cloud hyperscaler provide a detailed breakdown of carbon emissions per application/subscription?</strong></td>
+<td>-</td>
+<td><strong>NO →</strong> Collaborate with the cloud provider to provide scope 3 emission data.</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES →</strong> Continue with this stage</td>
+</tr>
+<tr>
+<td><strong>Does the company have a comprehensive environmental strategy for its IT operations?</strong></td>
+<td>-</td>
+<td><strong>NO →</strong> Define the IT sustainability strategy incorporating environmental factors.<br><br>- Example - <a href="https://docs.google.com/document/d/1_HsDTcYr6V86IMVIiG24g2mtNy9slkI1XnITePepVxA/edit?tab=t.0">Template - IT Sustainable Strategy</a></td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES →</strong> Refine the IT sustainable strategy based on new decisions and/or regulations.<br><br>IT Infrastructure Strategy should cover responses to:<br><br>- Energy consu﻿mption OKR / KPIs<br><br>- Carbon emission﻿s OKR / KPIs<br><br>- Water OK﻿R / KPIs<br><br>- Electronic Waste﻿ OKR / KPIs<br><br>- Sustainable Procureme﻿nt OKR / KPIs</td>
+</tr>
+</table>
 
 ## Implementation Pillar
 Implementation within organisations is the structured process of executing the IT sustainable strategy and implementing the tools and processes to meet the objectives and KPI’s. Key components of this process include refining and enhancing tools to support organisational processes; setting up systems for effective data collection; and ensuring accuracy through validation. Tracking progress involves monitoring key performance indicators (KPIs) and analysing the data to assess performances and make informed adjustments. Data aggregation then compiles information from various sources to provide a comprehensive view, while trend analysis identifies patterns over time to guide strategic planning. Together, these elements ensure the effective and efficient implementation of organisational objectives.
