@@ -2900,39 +2900,81 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tbody>
 </table>
 
-### Stage 12 -- Decision-Making Tools
+#### Checklist
+<table border="1">
+<tbody>
+<tr>
+<td rowspan="2"><strong>After the baseline review, does the SME's require additional calculations of the carbon emissions?</strong></td>
+<td><strong>NO</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td><strong>YES</strong> → Determine the additional calculations and change processes, data, and tools to accommodate the changes</td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Does the organisation have practices for site reliability engineering?</strong></td>
+<td><strong>NO</strong> → Initiate discussions to set up site reliability engineering practices. Example - Site Reliability Engineering Approaches</td>
+</tr>
+<tr>
+<td><strong>YES</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Can the IT teams fulfil the IT sustainable strategy and fulfil business, cost, delivery outcomes and manage trade-offs?</strong></td>
+<td><strong>NO</strong> → Discuss with management the trade-offs and next steps.</td>
+</tr>
+<tr>
+<td><strong>YES</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Are there internal governance policies to monitor progress against baseline accuracy and address breaches of standards?</strong></td>
+<td><strong>NO</strong> → Set up governance policies<br>Example - Governance Policy Approach</td>
+</tr>
+<tr>
+<td><strong>YES</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Is the IT organisation mature enough to introduce carbon budgeting processes or improve them?</strong></td>
+<td><strong>NO</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td><strong>YES</strong> → Carbon Budgets - Example Carbon Budgets</td>
+</tr>
+</tbody>
+</table>
+
+# Operational Pillar
+
+Operational strategies within organisations are essential for maximising overall performance, advancing sustainability initiatives, and achieving key business objectives in a competitive and rapidly evolving landscape. These strategies embrace a comprehensive range of methods, frameworks, and practices aimed at enhancing efficiency and effectiveness across various operational domains while aligning with broader organisational goals. By integrating sustainability into operational strategies, organisations can reduce their environmental impacts, drive innovation, create value for stakeholders, and improve resilience in the face of regulatory, market, and societal changes.
+
+An operational strategy is a vital framework for enhancing organisational performance, driving sustainability, and achieving key business objectives. It involves a coordinated set of practices and methods aimed at improving efficiency, effectiveness, and environmental responsibility across all operational areas. By lining up these parts with goals, an operational strategy encourages new ideas, adaptability, and value creation while lowering the impact on the environment. This feature helps a business succeed in the long term in a way that is both competitive and sustainable. This pillar will continuously evolve based on the strategy and implementation pillar.
+
+## Stage 12 -- Decision-Making Tools
 
 Training on leveraging advanced analytics, data-driven frameworks, and scenario planning to support informed and strategic decisions that balance cost, performance, and sustainability goals.
 
 *Key Personas -- Technology Innovator, Programme Manager, Product Owner*
 
-#### Capability Assessment for Stage 12 - Decision-Making Tools
+### Capability Assessment for Stage 12 - Decision-Making Tools
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Decision-Making Tools</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Decision-Making Tools</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Complete training plans for carbon emissions.</strong></td>
-<td>- No formal training<br>- Limited awareness</td>
+<td>- No formal training<br><br>- Limited awareness</td>
 <td>-</td>
-<td>- Basic training plan<br>- Some staff participation</td>
+<td>- Basic training plan<br><br>- Some staff participation</td>
 <td>-</td>
-<td>- Comprehensive training program<br>- Ongoing staff development & certification</td>
+<td>- Comprehensive training program<br><br>- Ongoing staff development & certification</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2943,17 +2985,15 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/presentation/d/1-pxJTz5fVY3jNN4cplYcudWlS5uUT64BHy9ke4FmGiM/edit#slide=id.g329a3e80289_0_320">Training Plan</a><br><br><a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1-pxJTz5fVY3jNN4cplYcudWlS5uUT64BHy9ke4FmGiM/edit#slide=id.g329a3e8028_0_320">Training Plan</a> (Strategy pillar - Stage 4)<br><br><a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
 </tr>
 <tr>
 <td><strong>b. Monitor training.</strong></td>
-<td>- No monitoring<br>- Training impact unknown</td>
+<td>- No monitoring<br><br>- Training impact unknown</td>
 <td>-</td>
-<td>- Some tracking of attendance<br>- Limited feedback loops</td>
+<td>- Some tracking of attendance<br><br>- Limited feedback loops</td>
 <td>-</td>
-<td>- Continuous monitoring & assessment<br>- Actionable improvements made regularly</td>
+<td>- Continuous monitoring & assessment<br><br>- Actionable improvements made regularly</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2964,107 +3004,106 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a> (Strategy pillar - Stage 4)</td>
 </tr>
 <tr>
 <td><strong>c. Educate the IT teams on the tool used for carbon emissions.</strong></td>
-<td>- No specific tool training<br>- Limited user adoption</td>
+<td>- No specific tool training<br><br>- Limited user adoption</td>
 <td>-</td>
-<td>- Some tool introductions<br>- Partial usage across IT teams</td>
+<td>- Some tool introductions<br><br>- Partial usage across IT teams</td>
 <td>-</td>
-<td>- Structured, ongoing tool education<br>- High adoption & proficiency</td>
+<td>- Structured, ongoing tool education<br><br>- High adoption & proficiency</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2">Raise awareness about sustainability.<br><br><strong>Introduce the tool briefly.</strong></td>
+<td colspan="2">Raise awareness about sustainability.<br><br>Introduce the tool briefly.</td>
 <td colspan="2">Host basic tool training sessions.<br><br>Create support resources</td>
 <td colspan="2">Provide advanced training and role specific education.<br><br>Establish a feedback and mentorship system.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a><br><br><a href="https://docs.google.com/document/d/1hjsa6FrE3DwGGa4yMURXByNP06TfNHOTPdpq93TLTZQ/edit?tab=t.0">Training on Dashboard and Workflow Tool</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a> (Implementation Pillar - Stage 8)<br><br><a href="https://docs.google.com/document/d/1hjsa6FrE3DwGGa4yMURXByNP06TfNHOTPdpq93TLTZQ/edit?tab=t.0">Training on Dashboard and Workflow Tool</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Does the team have the knowledge and skills required to measure and track carbon emissions?</strong></td>
-<td>- <strong>YES</strong> → Move to the next step</td>
+<td>-</td>
+<td><strong>YES</strong> → Move to the next step</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>NO</strong> → develop a training plan for IT Teams<br><br>External Resources:<br>- GSF Principles<br>- GSF Fundamentals Course<br>- CNCF (Cloud Native Computing First)<br>- FinOps Sustainability</td>
+<td>-</td>
+<td><strong>NO</strong> → develop a training plan for IT Teams<br><br>External Resources:<br><br>- GSF Principles<br><br>- GSF Fundamentals Course<br><br>- CNCF (Cloud Native Computing First)<br><br>- FinOps Sustainability</td>
 </tr>
 <tr>
 <td><strong>IT sustainability training plan</strong></td>
-<td>- Example <a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
+<td>-</td>
+<td>Example <a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
 </tr>
 </tbody>
 </table>
 
-### Stage 13 -- Transformation Execution
+## Stage 13 -- Transformation Execution
 
 We are implementing structured methodologies and change management practices to effectively transition to more sustainable and efficient operational models, ensuring alignment with long-term strategic goals.
 
 *Key Personas -- Programme Manager, Product Owner, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Cloud Engineer*
 
-#### Capability Assessment for Stage 13 - Transformation Execution
+### Capability Assessment for Stage 13 - Transformation Execution
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Transformation Execution</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Transformation Execution</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Determine whether IT sustainability is implemented in the project/change section of the organisation.</strong></td>
-<td>- No formal consideration of IT sustainability<br>- Sporadic or ad hoc inclusions</td>
+<td>- No formal consideration of IT sustainability<br><br>- Sporadic or ad hoc inclusions</td>
 <td>-</td>
-<td>- Some sustainability considerations<br>- Partial integration in project/change processes</td>
+<td>- Some sustainability considerations<br><br>- Partial integration in project/change processes</td>
 <td>-</td>
-<td>- Embedded sustainability in all project/change efforts<br>- Proactive alignment with sustainability goals</td>
+<td>- Embedded sustainability in all project/change efforts<br><br>- Proactive alignment with sustainability goals</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2">Add a "Sustainability Impact" section to all project-charter and change-request templates---simple prompts: energy impact, CO₂e estimate, mitigation plan.</td>
+<td colspan="2">Add a "Sustainability Impact" section to all project-charter and change-request templates ---simple prompts: energy impact, CO₂e estimate, mitigation plan.</td>
 <td colspan="2">Train Project & Change Managers on a sustainability checklist<br><br>Embed sustainability scoring in dashboards and scorecards.</td>
 <td colspan="2">Automate sustainability KPIs in project dashboards---live CO₂e forecasts, energy cost, and alignment to corporate carbon targets pulled from data lake into PPM tool; alerts fire if a project drifts above threshold.<br><br>Run a quarterly portfolio sustainability audit.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/12Kavgl09Rk-xbyNsK_dMuhL7mGoqFkAtTWvlSGOOcF8/edit?tab=t.0">Project Sustainable Processes and Guidance</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/12Kavgl09Rk-xbyNsK_dMuhL7mGoqFkAtTWvlSGOOcF8/edit?tab=t.0">Project Sustainable Processes and Guidance</a></td>
 </tr>
 <tr>
 <td><strong>b. Implement the metrics in the software lifecycle methodology used by the IT organisation.</strong></td>
-<td>- Metrics not incorporated<br>- Minimal or no tracking</td>
+<td>- Metrics not incorporated<br><br>- Minimal or no tracking</td>
 <td>-</td>
-<td>- Some sustainability metrics included<br>- Partial tracking in lifecycle stages</td>
+<td>- Some sustainability metrics included<br><br>- Partial tracking in lifecycle stages</td>
 <td>-</td>
-<td>- Comprehensive metrics fully integrated<br>- Automated tracking throughout the lifecycle</td>
+<td>- Comprehensive metrics fully integrated<br><br>- Automated tracking throughout the lifecycle</td>
 <td>-</td>
 </tr>
 <tr>
@@ -3075,894 +3114,858 @@ We are implementing structured methodologies and change management practices to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1speVjZhEUx_-lb9NIP0lmrGRTkYDpTwx_dZ6XncYuAI/edit?tab=t.0">Project Sustainable Metrics</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1speVjZhEUx_-lb9NIP0lmrGRTkYDpTwx_dZ6XncYuAI/edit?tab=t.0">Project Sustainable Metrics</a></td>
 </tr>
 <tr>
 <td><strong>c. Implement the metrics into other frameworks used in the IT organisation (e.g., DORA, deployment frequency).</strong></td>
-<td>- No extension of sustainability metrics<br>- Siloed data and processes</td>
+<td>- No extension of sustainability metrics<br><br>- Siloed data and processes</td>
 <td>-</td>
-<td>- Some metrics implemented in selected frameworks<br>- Basic alignment with existing performance measures</td>
+<td>- Some metrics implemented in selected frameworks<br><br>- Basic alignment with existing performance measures</td>
 <td>-</td>
-<td>- Sustainability metrics deeply embedded in all relevant frameworks<br>- Holistic, real-time performance and impact reporting</td>
+<td>- Sustainability metrics deeply embedded in all relevant frameworks<br><br>- Holistic, real-time performance and impact reporting</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Decide the sustainability counterpart for each framework KPI (e.g., add *g CO₂e per deployment* beside "Deployment Frequency", *kWh per incident* beside "MTTR").<br><br>Add fields in existing dashboards. extend the DevOps/DORA database or Excel sheet with empty carbon-metric columns so teams get used to seeing (and soon filling) them.</td>
 <td colspan="2">Instrument one pipeline end-to-end -- integrate CodeCarbon or cloud CI APIs into a flagship repo so every build records *g CO₂e per deployment* automatically alongside DORA stats.<br><br>Update performance reviews.</td>
-<td colspan="2">Enable carbon scorecards in real time.<br><br>Configure alert rules that fire when either reliability OR carbon KPIs breach targets (e.g., high CO₂e per deployment triggers the same escalation workflow as MTTR breaches).</td>
+<td colspan="2">Enable carbon scorecards in real time.<br><br>Configure alert rules that fire when either reliability or carbon KPIs breach targets (e.g., high CO₂e per deployment triggers the same escalation workflow as MTTR breaches).</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a> (Implementation Pillar - Stage 8)</td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Implement metrics into the project frameworks used in the IT organisation</strong></td>
-<td>- Implement the carbon emission metric into the software application life-cycle methodology<br>- Agile methodology<br>- Scrum methodology<br>- Lean methodology<br>- Waterfall methodology<br>- Extreme Programming (XP) methodology<br>- Scrumban methodology<br>- Feature-driven development (FDD) methodology<br>- DevOps methodology<br>- Prince2 methodology</td>
+<td>-</td>
+<td>Implement the carbon emission metric into the software application life-cycle methodology<br><br>- Agile methodology<br><br>- Scrum methodology<br><br>- Lean methodology<br><br>- Waterfall methodology<br><br>- Extreme Programming (XP) methodology<br><br>- Scrumban methodology<br><br>- Feature-driven development (FDD) methodology<br><br>- DevOps methodology<br><br>- Prince2 methodology</td>
 </tr>
 <tr>
 <td><strong>Implement monitoring practices into the project frameworks used in the IT organisation</strong></td>
-<td>- Implement the monitoring of the carbon emission metrics, utilising SRE and <a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a></td>
+<td>-</td>
+<td>Implement the monitoring of the carbon emission metrics, utilising SRE and <a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a></td>
 </tr>
 </tbody>
 </table>
 
-### Stage 14 -- Prioritisation of Energy-Efficient Solutions
+## Stage 14 -- Prioritisation of Energy-Efficient Solutions
 
 Identifying and prioritising initiatives that promote the use of energy-efficient technologies and processes, reducing both operational costs and carbon footprints.
 
 *Key Personas -- Programme Manager, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Cloud Engineer*
 
-#### Capability Assessment for Stage 14 - Prioritisation of Energy-Efficient Solutions
+### Capability Assessment for Stage 14 - Prioritisation of Energy-Efficient Solutions
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Prioritisation of Energy-Efficient Solutions</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Prioritisation of Energy-Efficient Solutions</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Determine the type of software --- new or existing.</strong></td>
-<td>- No formal classification<br>- Ad hoc approach to new vs. existing software</td>
+<td>- No formal classification<br><br>- Ad hoc approach to new vs. existing software<br><br>- Add sustainability as a criteria</td>
 <td>-</td>
-<td>- Some criteria for classifying<br>- Partial consideration of energy needs</td>
+<td>- Some criteria for classifying<br><br>- Partial consideration of energy needs</td>
 <td>-</td>
-<td>- Clear process to classify<br>- Energy impact regularly assessed for each category</td>
+<td>- Clear process to classify<br><br>- Energy impact regularly assessed for each category</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Create a simple intake form -- add two mandatory fields to the project‐initiation template: (a) Software Type ("New Build" / "Enhancement" / "Maintenance-only") and (b) Expected Sustainability Impact (High / Med / Low).<br><br>Stand-up a Lightweight Registry.</td>
+<td colspan="2">Embed Energy Estimation in Architecture Review -- require a quick g CO₂e forecast (e.g., using CodeCarbon sample run or cloud CI API) before the design sign-off for both new builds and major enhancements.<br><br>Maintain a living catalogue.</td>
+<td colspan="2">Automate tagging in CI/CD -- Git pre-commit hook or pipeline step reads repo metadata and writes "software_type=new/existing" and "carbon_score" labels into the CMDB automatically.<br><br>Introduce a type-based dashboard -- real-time Power BI/Grafana view that shows carbon intensity by software category.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
 </tr>
 <tr>
 <td><strong>b. For new software, determine the choice for hosting.</strong></td>
-<td>- Hosting choice not driven by energy concerns<br>- Minimal or no energy data used</td>
+<td>- Hosting choice not driven by energy concerns<br><br>- Minimal or no energy data used</td>
 <td>-</td>
-<td>- Some energy-efficiency considerations<br>- Partial alignment with sustainability goals</td>
+<td>- Some energy-efficiency considerations<br><br>- Partial alignment with sustainability goals</td>
 <td>-</td>
-<td>- Hosting decision fully integrates energy impact<br>- Ongoing review & optimization</td>
+<td>- Hosting decision fully integrate energy impact<br><br>- Ongoing review & optimization</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Establish a baseline: Record basic hosting details (provider, location) even if energy metrics aren't a deciding factor.\<br>Future-ready planning: Set criteria for eventual energy efficiency evaluation to enable easier transition later.</td>
+<td colspan="2">Initial provider assessment: Compare hosting providers based on available basic sustainability and efficiency certifications.\<br>Partial energy tracking: Implement rudimentary monitoring for high-level energy consumption patterns to start understanding impacts.</td>
+<td colspan="2">Full data-driven decision: Use detailed energy efficiency metrics (PUE, renewable energy usage) to guide initial selection.\<br>Continuous optimisation cycle: Schedule regular reviews of energy performance data and adjust hosting strategy accordingly (e.g., workload balancing, migrating to greener infrastructure).</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1Ale6q5pe2l2WthkSqORGYugf211AHqCAxlnwct3M6FM/edit?tab=t.0">Overview of Software Hosting Considerations</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Ale6q5pe2l2WthkSqORGYugf211AHqCAxlnwct3M6FM/edit?tab=t.0">Overview of Software Hosting Considerations</a><br><br><a href="https://docs.google.com/document/d/1dfgF1snCly7SmWkotD_Y1KaVHrXZ26FtGyud9yod7Uk/edit?tab=t.0">Hosting Application - Questions</a><br><br><a href="https://docs.google.com/document/d/1tX7uFhF4G2jOVfbXI7k7Ndg9FIxgNlYBz-1qxKqougA/edit?tab=t.0">Hosting Factors and Considerations</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Types of software application</strong></td>
-<td>- Example -<a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
+<td>-</td>
+<td>Example -<a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
 </tr>
 <tr>
 <td><strong>Where will the application be hosted?</strong></td>
-<td>- Example - <a href="https://docs.google.com/document/d/1dfgF1snCly7SmWkotD_Y1KaVHrXZ26FtGyud9yod7Uk/edit?tab=t.0">Hosting Application - Questions</a></td>
+<td>-</td>
+<td>Example - <a href="https://docs.google.com/document/d/1dfgF1snCly7SmWkotD_Y1KaVHrXZ26FtGyud9yod7Uk/edit?tab=t.0">Hosting Application - Questions</a></td>
 </tr>
 <tr>
 <td><strong>Software hosting options</strong></td>
-<td>- Example - <a href="https://docs.google.com/document/d/1tX7uFhF4G2jOVfbXI7k7Ndg9FIxgNlYBz-1qxKqougA/edit?tab=t.0">Hosting Factors and Considerations</a></td>
+<td>-</td>
+<td>Example - <a href="https://docs.google.com/document/d/1tX7uFhF4G2jOVfbXI7k7Ndg9FIxgNlYBz-1qxKqougA/edit?tab=t.0">Hosting Factors and Considerations</a></td>
 </tr>
 </tbody>
 </table>
 
-### Stage 15 -- Integrate Eco-Friendly Practices
+## Stage 15 -- Integrate Eco-Friendly Practices
 
 Embedding sustainability into day-to-day operations, including the adoption of circular economy principles, waste reduction practices, and sustainable procurement policies.
 
 *Key Personas -- Programme Manager, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Cloud Engineer*
 
-#### Capability Assessment for Stage 15 - Integrate Eco-Friendly Practices
+### Capability Assessment for Stage 15 - Integrate Eco-Friendly Practices
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Integrate Eco-Friendly Practices</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Integrate Eco-Friendly Practices</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Check whether the baseline data is available for types of software.</strong></td>
-<td>- No formal baseline data<br>- Ad hoc data collection</td>
+<td>- No formal baseline data<br><br>- Ad hoc data collection</td>
 <td>-</td>
-<td>- Partial baseline data<br>- Some tools/processes in place</td>
+<td>- Partial baseline data<br><br>- Some tools/processes in place</td>
 <td>-</td>
-<td>- Comprehensive data sets<br>- Automated collection & ongoing validation</td>
+<td>- Comprehensive data sets<br><br>- Automated collection & ongoing validation</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Identify Critical Metrics: Determine essential data points needed to establish a basic software baseline.\<br>Manual Data Gathering: Initiate ad hoc data collection exercises (e.g., surveys, simple logging) to capture initial baseline insights.</td>
+<td colspan="2">Enhance Existing Tools: Expand current data-gathering tools and processes to cover identified gaps.\<br>Standardise Procedures: Implement basic standardisation to ensure consistent partial baseline data collection across projects.</td>
+<td colspan="2">Automate Collection: Integrate or upgrade to automated systems for continuous baseline data gathering.\<br>Regular Validation: Establish routines for ongoing data validation and benchmarking to maintain accurate and reliable baselines.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1zm1yxrquCiNRsNsI2PLFSNP0gzloKxc0Xqd7JZxQb3Y/edit?tab=t.0">Reference Database Schema</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1zm1yxrquCiNRsNsI2PLFSNP0gzloKxc0Xqd7JZxQb3Y/edit?tab=t.0">Reference Database Schema</a><br><br><a href="https://docs.google.com/document/d/1wxI5lGpKvq2lthUMwySsbTGFaJ2sqT1RDu_GfVd4hrc/edit?tab=t.0">Baseline Data</a></td>
 </tr>
 <tr>
 <td><strong>b. Ensure there are regular reviews of carbon emissions across different environments.</strong></td>
-<td>- Rare or no reviews<br>- Reactive approach to emissions</td>
+<td>- Rare or no reviews<br><br>- Reactive approach to emissions</td>
 <td>-</td>
-<td>- Scheduled reviews<br>- Limited automation or consistency</td>
+<td>- Scheduled reviews<br><br>- Limited automation or consistency</td>
 <td>-</td>
-<td>- Frequent, structured reviews<br>- Fully automated tracking & alerts</td>
+<td>- Frequent, structured reviews<br><br>- Fully automated tracking & alerts</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate Basic Checks: Begin periodic manual reviews to identify major emission sources.\<br>Incident-Driven Reviews: Conduct assessments after notable issues or incidents to build awareness.</td>
+<td colspan="2">Establish Regular Intervals: Set consistent monthly or quarterly reviews for carbon emissions.\<br>Implement Basic Automation: Introduce simple automated reports or dashboards to enhance visibility and consistency.</td>
+<td colspan="2">Deploy Comprehensive Automation: Integrate real-time carbon monitoring tools with automated reporting and alerts.\<br>Structured Continuous Improvement: Schedule regular team reviews to evaluate insights, respond promptly to alerts, and continuously optimise emissions across environments.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1EMipYY9_khKHWKf47tOF_0gcbX5zGd36EJyv0P-lhl8/edit?tab=t.0">Spec for Carbon Usage Tool</a><br><br><a href="https://docs.google.com/document/d/1WdXbQdF1Vyty45dRW4WTIrpeIvBNX26-02NP5bQHsxg/edit?tab=t.0">Carbon Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Implement governance and communications for regular reviews.</strong></td>
-<td>- No governance framework<br>- Minimal awareness or communication</td>
+<td>- No governance framework<br><br>- Minimal awareness or communication</td>
 <td>-</td>
-<td>- Basic governance processes<br>- Occasional stakeholder updates</td>
+<td>- Basic governance processes<br><br>- Occasional stakeholder updates</td>
 <td>-</td>
-<td>- Formal governance structure<br>- Transparent, consistent comms for all stakeholders</td>
+<td>- Formal governance structure<br><br>- Transparent, consistent comms for all stakeholders</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Establish Initial Accountability: Identify responsible individuals or teams to start basic governance.<br><br>Raise Awareness: Begin sharing informal updates or insights internally to gradually increase stakeholder awareness.</td>
+<td colspan="2">Define Clear Processes: Develop a basic governance framework outlining roles, responsibilities, and frequency of stakeholder updates.<br><br>Consistent Communication Channels: Establish periodic updates via straightforward channels (email summaries, internal meetings).</td>
+<td colspan="2">Create Comprehensive Governance Charter: Document formal governance structures, clearly defining roles, responsibilities, review cycles, and decision-making processes.<br><br>Regular, Transparent Communications: Implement consistent, transparent communications (dashboards, reports, town halls) ensuring all stakeholders remain informed and engaged.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1sFdUNppxGpohi1UK8j8X96ln-XAxZ5xJvqwNJ0ePHO8/edit?tab=t.0">SDLC Checklist</a><br><br><a href="https://docs.google.com/document/d/1m_xExt3NVJp0HVZLvAFj10unoND2Q2LrjJyACTdm0cw/edit?tab=t.0">Governance Comms Guide</a></td>
 </tr>
 </tbody>
 </table>
 
-**Outputs:**
+### Checklist
 
-a. This is a reference database for baseline emissions. Example - [Reference Database Schema](https://docs.google.com/document/d/1zm1yxrquCiNRsNsI2PLFSNP0gzloKxc0Xqd7JZxQb3Y/edit?tab=t.0)
-
-b. Energy / Carbon Usage tool for production applications. Example - [Spec for Carbon Usage Tool](https://docs.google.com/document/d/1EMipYY9_khKHWKf47tOF_0gcbX5zGd36EJyv0P-lhl8/edit?tab=t.0)
-
-c. SDLC checklist. Example - [SDLC Checklist](https://docs.google.com/document/d/1sFdUNppxGpohi1UK8j8X96ln-XAxZ5xJvqwNJ0ePHO8/edit?tab=t.0)
-
-#### Checklist
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Has the application team set regular reviews of the carbon emissions in production, test, and dev environments?</strong></td>
-<td>- <strong>YES →</strong> Review the carbon emissions usage metric database for application type and utilise insights for software development process<br>- Move to the next stage (16)</td>
+<td>-</td>
+<td><strong>YES →</strong> Review the carbon emissions usage metric database for application type and utilise insights for software development process<br><br>- Move to the next stage (16)</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>NO →</strong> Move back to Implementation Pillar and create a reference database for baseline and application-type carbon emissions</td>
+<td>-</td>
+<td><strong>NO →</strong> Move back to Implementation Pillar and create a reference database for baseline and application-type carbon emissions</td>
+</tr>
+<tr>
+<td><strong>Are operations and SDLC releases supporting strategy and business outcomes?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Refine processes in the implementation and operational stages</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td><strong>Are operations in line with or responsive to both existing and upcoming regulations?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Refine processes in the operational stages to respond to upcoming regulations</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td><strong>Is more data needed to better inform operational decisions or measure progress?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Refine data in the operational stages to perform better decisions</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with next steps</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 16 - Green Non-Functional Requirements
+## Stage 16 - Green Non-Functional Requirements
 
 The process involves defining and incorporating environmental sustainability considerations, such as energy efficiency, carbon neutrality, and resource optimisation, in the design and development of IT systems, products, and infrastructure.
 
 *Key Personas -- Programme Manager, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Infrastructure Engineer*
 
-#### Capability Assessment for Stage 16 - Green Non-Functional Requirements
+### Capability Assessment for Stage 16 - Green Non-Functional Requirements
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Green Non-Functional Requirements</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Green Non-Functional Requirements</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Plan software application (architecture & NFRs).</strong></td>
-<td>- No structured planning<br>- Ad hoc approach to NFRs</td>
+<td>- No structured planning<br><br>- Ad hoc approach to NFRs</td>
 <td>-</td>
-<td>- Some planning methods<br>- Partial incorporation of NFRs</td>
+<td>- Some planning methods<br><br>- Partial incorporation of NFRs</td>
 <td>-</td>
-<td>- Formal, documented planning<br>- Comprehensive NFR integration</td>
+<td>- Formal, documented planning<br><br>- Comprehensive NFR integration</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Identify Essential Sustainable NFRs:\<br>Informally list sustainability-related NFRs (energy efficiency, carbon footprint).\<br>Basic Documentation:\<br>Document quick notes on sustainability aspects considered during initial planning discussions.</td>
+<td colspan="2">Implement checklists or basic templates that explicitly include sustainability considerations (e.g., energy efficiency, hardware utilisation).\<br>Partial Integration into Architecture Reviews:\<br>Schedule regular reviews specifically aimed at evaluating how well sustainability NFRs are addressed in current designs and planning efforts.</td>
+<td colspan="2">Clearly document comprehensive sustainability NFRs, including energy usage, carbon intensity, resource efficiency, and scalability to sustainable infrastructure.<br><br>Embed structured sustainability assessments into each phase of architectural planning and validation (initial design, reviews, implementation).\<br>Regularly validate compliance and performance against sustainability NFR criteria, ensuring continuous improvement through lifecycle management.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1QR3i1y6McZKcrUo0tdmqfAiBA1kPNW31C7GuAVrNNV0/edit?tab=t.0">Sustainable NFR</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1QR3i1y6McZKcrUo0tdmqfAiBA1kPNW31C7GuAVrNNV0/edit?tab=t.0">Sustainable NFR</a><br><br><a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a></td>
 </tr>
 <tr>
 <td><strong>b. Determine application architecture based on requirements.</strong></td>
-<td>- Architecture decisions undocumented<br>- Minimal sustainability consideration</td>
+<td>- Architecture decisions undocumented<br><br>- Minimal sustainability consideration</td>
 <td>-</td>
-<td>- Some architectural guidelines<br>- Limited sustainability alignment</td>
+<td>- Some architectural guidelines<br><br>- Limited sustainability alignment</td>
 <td>-</td>
-<td>- Robust architectural framework<br>- Strong sustainability focus</td>
+<td>- Robust architectural framework<br><br>- Strong sustainability focus</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Create simple notes or informal logs capturing key architecture decisions, including any initial sustainability thoughts.<br><br>Introduce discussions highlighting the importance of sustainability in architecture during initial meetings, even informally.</td>
+<td colspan="2">Create basic architecture templates or checklists that explicitly reference key sustainability aspects like energy efficiency and resource use.<br><br>Set up periodic review sessions to assess whether the architecture aligns partially with identified sustainability goals.</td>
+<td colspan="2">Implement formal, detailed guidelines for architecture that explicitly incorporate sustainability measures (energy use, carbon intensity, scalability, renewable resources).<br><br>Conduct ongoing structured reviews and validations throughout all project phases to ensure strong alignment and adherence to sustainability objectives.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1FKQi7W7Tc_5FnDdCcjfBLNb7nRQF3Mg93RPzGvarC9A/edit?tab=t.0">Architecture for the Application</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1FKQi7W7Tc_5FnDdCcjfBLNb7nRQF3Mg93RPzGvarC9A/edit?tab=t.0">Architecture for the Application</a><br><br><a href="https://docs.google.com/document/d/1QVxeuqDgJ6hmFW6DpfN-8GlFE0BObYmz4ONQ8-6Xz9Y/edit?tab=t.0">Architecture Design</a></td>
 </tr>
 <tr>
 <td><strong>c. Include vendor & procurement options/decisions.</strong></td>
-<td>- No formal vendor evaluation<br>- Ad hoc procurement</td>
+<td>- No formal vendor evaluation<br><br>- Ad hoc procurement</td>
 <td>-</td>
-<td>- Some vendor selection criteria<br>- Partial sustainability weighting</td>
+<td>- Some vendor selection criteria<br><br>- Partial sustainability weighting</td>
 <td>-</td>
-<td>- Comprehensive vendor assessment<br>- Sustainability & carbon metrics integrated</td>
+<td>- Comprehensive vendor assessment<br><br>- Sustainability & carbon metrics integrated</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Develop a simple checklist to record basic vendor details, including preliminary sustainability-related questions.<br><br>Informally discuss sustainability considerations during vendor interactions to begin influencing decisions.</td>
+<td colspan="2">Include clear but basic sustainability factors (e.g., renewable energy usage, basic emissions data) in vendor selection criteria.<br><br>Assign partial weighting to sustainability within the vendor evaluation scorecard, ensuring it influences decision-making.</td>
+<td colspan="2">Establish detailed vendor assessment criteria that fully integrate sustainability metrics (e.g., carbon footprint, energy sourcing, environmental certifications).<br><br>Regularly review and validate vendor sustainability performance, updating procurement strategies based on robust sustainability data and performance trends.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/156RiVVLX0NuW4pght8AIHSxakJb3TmwFeVbW7XySo7U/edit?tab=t.0#heading=h.egep57lmbmps">Vendor Procurement Guide</a><br><br><a href="https://docs.google.com/document/d/1WdhuzuO3oYphUTxnqJL_lbm3UHoiTO8yZIHLA2byxAU/edit?tab=t.0">Regulatory Vendor Documentation</a></td>
 </tr>
 <tr>
 <td><strong>d. Ensure architecture reviews during planning & development.</strong></td>
-<td>- Irregular or nonexistent reviews<br>- Limited stakeholder input</td>
+<td>- Irregular or no existent reviews<br><br>- Limited stakeholder input</td>
 <td>-</td>
-<td>- Scheduled reviews<br>- Some documentation & feedback loops</td>
+<td>- Scheduled reviews<br><br>- Some documentation & feedback loops</td>
 <td>-</td>
-<td>- Continuous review process<br>- Automated checks & cross-functional input</td>
+<td>- Continuous review process<br><br>- Automated checks & cross-functional input</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Introduce informal, periodic architecture check-ins to identify major issues early.<br><br>Invite stakeholders informally to provide input on key architecture decisions, promoting early collaboration.</td>
+<td colspan="2">Set consistent, documented intervals (monthly or per milestone) for architecture reviews with clearly defined objectives.<br><br>Document key decisions, feedback received, and action items from each review session to enhance traceability and accountability.</td>
+<td colspan="2">Integrate automated tools for real-time checks and validation of architectural compliance and sustainability criteria.<br><br>Implement structured channels to capture ongoing feedback from diverse stakeholders (development, operations, sustainability teams) continuously, ensuring comprehensive alignment.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1FaXhd0kAnFjxfI7recY-KfDRZvJneq6qeN48o1r6-mk/edit?tab=t.0#heading=h.egep57lmbmps">Architecture Review Guide</a><br><br><a href="https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0">Application Carbon Metrics</a></td>
 </tr>
 <tr>
 <td><strong>e. Check decisions against carbon-reducing principles.</strong></td>
-<td>- No carbon principles applied<br>- Unclear or ad hoc approach</td>
+<td>- No carbon principles applied<br><br>- Unclear or ad hoc approach</td>
 <td>-</td>
-<td>- Some carbon guidelines<br>- Partial alignment in decisions</td>
+<td>- Some carbon guidelines<br><br>- Partial alignment in decisions</td>
 <td>-</td>
-<td>- Formal, embedded carbon principles<br>- Documented alignment & traceability</td>
+<td>- Formal, embedded carbon principles<br><br>- Documented alignment & traceability</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Introduce team discussions about carbon reduction and its importance in decision-making.<br><br>Start informal tracking of any sustainability considerations made during project decisions.</td>
+<td colspan="2">Create a basic set of carbon-reducing guidelines to reference during key decision points.<br><br>Implement simple checklists or templates to partially assess how decisions align with established carbon guidelines.</td>
+<td colspan="2">Establish detailed, documented carbon-reduction principles integrated fully into decision-making processes.<br><br>Implement formal systems for tracking and documenting decision alignment against carbon principles, with regular validation and reporting for accountability and continuous improvement.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1YXtx8Ga6LsjXgUcou1tfrK1m2D30RQB3vDZZolZSseM/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Principles Guide</a></td>
 </tr>
 <tr>
 <td><strong>f. Check production app carbon emissions vs. forecast targets.</strong></td>
-<td>- No emissions tracking<br>- Ad hoc or minimal forecasting</td>
+<td>- No emissions tracking<br><br>- Ad hoc or minimal forecasting</td>
 <td>-</td>
-<td>- Basic tracking<br>- Some variance analysis vs. targets</td>
+<td>- Basic tracking<br><br>- Some variance analysis vs. targets</td>
 <td>-</td>
-<td>- Automated tracking & forecasting<br>- Ongoing variance analysis & remediation</td>
+<td>- Automated tracking & forecasting<br><br>- Ongoing variance analysis & remediation</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Develop basic forecasts using industry averages or informal estimates to set initial carbon benchmarks.<br><br>Begin manual, periodic reviews to compare rough emission estimates with these basic forecasts.</td>
+<td colspan="2">Implement basic tracking tools or spreadsheets to regularly record actual carbon emissions.<br><br>Schedule regular reviews to analyse variances between actual emissions and forecasted targets, highlighting areas that need attention.</td>
+<td colspan="2">Integrate comprehensive tools for continuous monitoring and real-time reporting of actual emissions against forecasted targets.<br><br>Set up automated alerts for emission deviations and establish structured processes for immediate remediation and continuous performance improvement.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/12r68V_1QY3HPIdlItimVwemFgzC7RQVRsXJEY1TDMHM/edit?tab=t.0#heading=h.kc6nhew940la">Carbon Emission Tracking Guide</a></td>
 </tr>
 <tr>
 <td><strong>g. Ensure AI components are reviewed for energy efficiency.</strong></td>
-<td>- No AI-specific review<br>- Energy usage unknown</td>
+<td>- No AI-specific review<br><br>- Energy usage unknown</td>
 <td>-</td>
-<td>- Some energy-focused checks<br>- Limited AI governance</td>
+<td>- Some energy-focused checks<br><br>- Limited AI governance</td>
 <td>-</td>
-<td>- Comprehensive AI energy review<br>- Embedded in all AI lifecycle stages</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>h. Optimize AI models by evaluating options.</strong></td>
-<td>- No optimization<br>- Default AI settings used</td>
-<td>-</td>
-<td>- Periodic optimization<br>- Limited tooling or analysis</td>
-<td>-</td>
-<td>- Rigorous, ongoing optimization<br>- Advanced tools & systematic evaluation</td>
+<td>- Comprehensive AI energy review<br><br>- Embedded in all AI lifecycle stages</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Perform a basic, informal audit to estimate AI-related energy consumption.\<br>Introduce informal discussions highlighting the importance of AI energy efficiency within the team.</td>
+<td colspan="2">Develop simple checklists or criteria to assess energy efficiency in key AI components during initial development phases.<br><br>Implement periodic reviews focusing explicitly on the energy impact of AI algorithms and training processes.</td>
+<td colspan="2">Integrate formal, detailed energy-efficiency criteria into every stage of the AI lifecycle (design, training, deployment, and maintenance).<br><br>Deploy automated monitoring tools to continuously track energy consumption, perform regular analyses, and proactively optimise AI components for maximum energy efficiency.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1SJf4OC52TNpzKvlZeRsXt-w95mvkZq7oR1RSwBCX_D8/edit?tab=t.0#heading=h.q5798snkh2cr">AI Energy Review Guide</a></td>
+</tr>
+<tr>
+<td><strong>h. Optimise AI models by evaluating options.</strong></td>
+<td>- No optimization<br><br>- Default AI settings used</td>
+<td>-</td>
+<td>- Periodic optimization<br><br>- Limited tooling or analysis</td>
+<td>-</td>
+<td>- Rigorous, ongoing optimization<br><br>- Advanced tools & systematic evaluation</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Evaluate the default AI model's energy and resource efficiency to create baseline metrics.<br><br>Start exploring basic optimisation techniques like model compression or simpler architectures to improve efficiency.</td>
+<td colspan="2">Establish regular intervals (monthly or quarterly) to evaluate model performance and resource usage.<br><br>Use simple tools and techniques (e.g., pruning, quantisation) to periodically refine and optimise AI models for better efficiency.</td>
+<td colspan="2">Deploy advanced tools for continuous monitoring, automated benchmarking, hyperparameter tuning, and resource-aware model selection.<br><br>Continuously evaluate and adjust AI models systematically, ensuring sustained improvements in performance, accuracy, and resource efficiency.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
 </tr>
 <tr>
 <td><strong>i. Check environment-level carbon emissions vs. forecasts.</strong></td>
-<td>- No environment-specific tracking<br>- Inconsistent or incomplete data</td>
+<td>- No environment-specific tracking<br><br>- Inconsistent or incomplete data</td>
 <td>-</td>
-<td>- Some environment-level checks<br>- Basic forecasting process</td>
+<td>- Some environment-level checks<br><br>- Basic forecasting process</td>
 <td>-</td>
-<td>- Automated, environment-level monitoring<br>- Real-time analytics & alerting</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>j. Optimize the application for production environments.</strong></td>
-<td>- No optimization strategy for non-prod/prod environments<br>- Reactive approach only</td>
-<td>-</td>
-<td>- Some standard practices<br>- Limited performance or carbon checks</td>
-<td>-</td>
-<td>- Proactive optimization strategy<br>- Continuous performance & carbon monitoring</td>
+<td>- Automated, environment-level monitoring<br><br>- Real-time analytics & alerting</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start manually tracking emissions at the environment level (dev, test, prod) to establish initial baselines.\<br>Create simple emissions forecasts using generic benchmarks for each environment to enable initial comparison.</td>
+<td colspan="2">Establish structured, consistent tracking for each environment to ensure reliable emission data collection.<br><br>Conduct regular (monthly or quarterly) comparisons of actual emissions against basic forecasts to highlight variances clearly.</td>
+<td colspan="2">Integrate automated, real-time analytics tools specifically tracking carbon emissions across each environment.<br><br>Implement automatic alerts for deviations from forecasts, supported by structured processes for rapid remediation and continuous optimisation.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2">Production Optimization</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1aXqq4cYLSn3sKFi_ohd-4L51-8HpaxfkHtrbLV_sk3g/edit?tab=t.0#heading=h.fuqdfx46zljb">Environment Carbon Monitoring Guide</a></td>
+</tr>
+<tr>
+<td><strong>j. Optimise the application for production environments. </strong></td>
+<td>- No optimisation strategy for non-prod/prod environments<br><br>- Reactive approach only</td>
+<td>-</td>
+<td>- Some standard practices<br><br>- Limited performance or carbon checks</td>
+<td>-</td>
+<td>- Proactive optimisation strategy<br><br>- Continuous performance & carbon monitoring</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Perform initial assessments to document basic performance and carbon impact in non-prod/prod environments.<br><br>Set up simple, manual tracking of critical metrics (e.g., response time, resource utilisation) to support reactive troubleshooting.</td>
+<td colspan="2">Implement basic performance and carbon footprint assessments (e.g., using standard benchmarks and simple tools) at set intervals.<br><br>Regularly review application metrics (e.g., CPU utilisation, energy use) to identify and apply straightforward optimisations (e.g., resource tuning, basic caching).</td>
+<td colspan="2">Integrate advanced performance and carbon monitoring solutions providing real-time analytics and alerts.<br><br>Continuously analyse metrics to proactively identify optimisation opportunities, consistently applying improvements and maintaining detailed documentation for transparency and traceability.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1nGnFicNe2UUxApFYEIxGbaUYeVrJMjRWHK9498MapTM/edit?tab=t.0">Production Optimisation</a></td>
 </tr>
 <tr>
 <td><strong>k. Determine carbon emissions results based on architecture, code, or implementation.</strong></td>
-<td>- No structured analysis<br>- Emissions impacts not considered</td>
+<td>- No structured analysis<br><br>- Emissions impacts not considered</td>
 <td>-</td>
-<td>- Some code/architecture reviews<br>- Partial carbon impact assessments</td>
+<td>- Some code/architecture reviews<br><br>- Partial carbon impact assessments</td>
 <td>-</td>
-<td>- Some code/architecture reviews<br>- Partial carbon impact assessments</td>
+<td>- Some code/architecture reviews<br><br>- Partial carbon impact assessments</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Perform basic estimates or manual reviews of carbon impacts from code and architecture to understand initial emissions.<br><br>Initiate informal discussions to introduce the concept and importance of carbon emissions related to software architecture and coding practices.</td>
+<td colspan="2">Develop and apply basic checklists or guidelines to assess the carbon impact during key code or architecture review phases.<br><br>Schedule regular but limited code and architecture reviews specifically focused on identifying areas of high emissions impact.</td>
+<td colspan="2">Integrate automated tools for ongoing, detailed assessments of carbon emissions at the code and architecture level.<br><br>Establish structured feedback loops and continuous improvement practices, ensuring regular updates, comprehensive documentation, and proactive emissions reduction actions.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/13VXaQ1iMj9eBORuiOciqfSRQyccjqGlFbXqfVXMvc-I/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Emissions Arch to Imp Guide</a></td>
 </tr>
 <tr>
 <td><strong>l. Implement continuous monitoring.</strong></td>
-<td>- Ad hoc or manual monitoring<br>- Inconsistent data collection</td>
+<td>- Ad hoc or manual monitoring<br><br>- Inconsistent data collection</td>
 <td>-</td>
-<td>- Basic automated monitoring<br>- Some alerting & reporting</td>
+<td>- Basic automated monitoring<br><br>- Some alerting & reporting</td>
 <td>-</td>
-<td>- Fully automated, continuous monitoring<br>- Proactive alerts & integrated dashboards</td>
+<td>- Fully automated, continuous monitoring<br><br>- Proactive alerts & integrated dashboards</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Set consistent intervals (e.g., weekly or monthly) for basic manual data collection and monitoring.<br><br>Keep simple records or logs of monitoring results to establish an initial baseline.</td>
+<td colspan="2">Deploy simple monitoring tools or scripts that automatically collect and record key metrics at regular intervals.<br><br>Set up automated notifications or simple reports to inform stakeholders of significant events or threshold breaches.</td>
+<td colspan="2">Integrate advanced automated monitoring systems providing real-time data, proactive alerting, and predictive analytics.<br><br>Develop real-time dashboards that consolidate monitoring data, ensuring transparency, proactive issue detection, and swift remediation actions.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1B-kywjoS8eILXd_RhXH9tEwG5aMa8Gv1lAdOc2MxIQM/edit?tab=t.0">Continuous Improvement Environment Metrics</a></td>
 </tr>
 </tbody>
 </table>
 
-**Outputs:**
+### Checklist
 
-a. Sustainable NFR. Example - [Sustainable NFR](https://docs.google.com/document/d/1QR3i1y6McZKcrUo0tdmqfAiBA1kPNW31C7GuAVrNNV0/edit?tab=t.0)
-
-b. Application carbon metrics. Example [Application Carbon Metrics](https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0)
-
-c. Architecture design and decisions and rationale. Example - [Architecture Design](https://docs.google.com/document/d/1QVxeuqDgJ6hmFW6DpfN-8GlFE0BObYmz4ONQ8-6Xz9Y/edit?tab=t.0)
-
-d. Production based application optimisation decisions and rationale. Example - [Production Optimization](https://docs.google.com/document/d/1nGnFicNe2UUxApFYEIxGbaUYeVrJMjRWHK9498MapTM/edit?tab=t.0)
-
-e. Architecture review and decisions. Example - [Architecture Review](https://docs.google.com/document/d/1TVvIlgUJxdlAyCh4C3B4o-Sdin3LRJ4BBAtwxnV-I3o/edit?tab=t.0)
-
-#### Checklist
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Planning the Software application</strong></td>
-<td>- Example - <a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a></td>
+<td>-</td>
+<td>Example - <a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a></td>
 </tr>
 <tr>
 <td><strong>Determine the architecture for the application, based on the business requirements for the solution</strong></td>
-<td>- Example - <a href="https://docs.google.com/document/d/1FKQi7W7Tc_5FnDdCcjfBLNb7nRQF3Mg93RPzGvarC9A/edit?tab=t.0">Architecture for the Application</a></td>
+<td>-</td>
+<td>Example - <a href="https://docs.google.com/document/d/1FKQi7W7Tc_5FnDdCcjfBLNb7nRQF3Mg93RPzGvarC9A/edit?tab=t.0">Architecture for the Application</a></td>
 </tr>
 <tr>
 <td><strong>AI - model optimisations</strong></td>
-<td>- Example - <a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
+<td>-</td>
+<td>Example - <a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
 </tr>
 </tbody>
 </table>
 
-### Stage 17 -- Energy / Carbon Metrics from Dev / Test Environments
+## Stage 17 -- Energy / Carbon Metrics from Dev / Test Environments
 
 Establishing robust mechanisms to measure, monitor, and optimise the energy and carbon impact of development, testing, and operational processes, ensuring alignment with sustainability benchmarks.
 
 *Key Personas -- Project Manager, Architect, Cloud Architect, Data Architect, Infrastructure Engineer, Cloud Developer, Cloud Security Specialist, Cloud Operations Manager, SRE -- Cloud Engineer, Dev Ops Engineer*
 
-#### Capability Assessment for Stage 17 - Energy / Carbon Metrics from Dev / Test Environments
+### Capability Assessment for Stage 17 - Energy / Carbon Metrics from Dev / Test Environments
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Energy / Carbon Metrics from Dev / Test Environments</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Energy / Carbon Metrics from Dev / Test Environments</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Develop the software with carbon emissions and energy usage considerations.</strong></td>
-<td>- No formal process<br>- Ad hoc awareness only</td>
+<td>- No formal process<br><br>- Ad hoc awareness only</td>
 <td>-</td>
-<td>- Some guidelines for energy efficiency<br>- Limited enforcement</td>
+<td>- Some guidelines for energy efficiency<br><br>- Limited enforcement</td>
 <td>-</td>
-<td>- Formal, documented practices<br>- Regularly enforced & measured</td>
+<td>- Formal, documented practices<br><br>- Regularly enforced & measured</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Conduct initial training or discussions highlighting energy efficiency and carbon impacts.<br><br>Start informally recording any sustainability considerations or actions taken during development.</td>
+<td colspan="2">Create basic, documented guidelines highlighting best practices for energy-efficient software design and coding.<br><br>Conduct periodic checks to ensure partial adherence to these energy-efficiency guidelines.</td>
+<td colspan="2">Establish detailed, formal documentation clearly outlining mandatory energy-efficiency and carbon reduction practices.<br><br>Regularly measure adherence through automated tools and regular audits, consistently enforcing compliance and reporting transparently on results and improvements.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a><br><br><a href="https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0">Application Carbon Metrics</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a> (Implementation pillar - Stage 16)<br><br><a href="https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0">Application Carbon Metrics</a> (Implementation pillar - Stage 16)</td>
 </tr>
 <tr>
 <td><strong>b. Store carbon emission metrics from the development environment.</strong></td>
-<td>- No tracking of carbon metrics<br>- Data not retained</td>
+<td>- No tracking of carbon metrics<br><br>- Data not retained</td>
 <td>-</td>
-<td>- Some manual data capture<br>- Inconsistent or partial storage</td>
+<td>- Some manual data capture<br><br>- Inconsistent or partial storage</td>
 <td>-</td>
-<td>- Automated metric capture<br>- Centralized, consistent database</td>
+<td>- Automated metric capture<br><br>- Centralized, consistent database</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin manual collection of initial carbon emission data at significant development points.<br><br>Create a basic spreadsheet or local file to retain initial carbon metric data for reference.</td>
+<td colspan="2">Define clear guidelines and frequency for manually recording carbon metrics consistently.<br><br>Organise data into structured, shared storage (e.g., shared spreadsheets or simple databases) accessible to the team.</td>
+<td colspan="2">Deploy integrated tools that automatically capture real-time carbon emission metrics.<br><br>Store metrics in a centralised, structured database, ensuring reliable data access and consistency, and enabling detailed analytics and reporting.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1NiVrGKi8oCN1TB-s2cc-QLZFc1Zw2XK3MfrsusYMji4/edit?tab=t.0">Development Environment Metrics</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1NiVrGKi8oCN1TB-s2cc-QLZFc1Zw2XK3MfrsusYMji4/edit?tab=t.0">Development Environment Metrics</a></td>
 </tr>
 <tr>
 <td><strong>c. Test the software with business, architecture & carbon considerations.</strong></td>
-<td>- Carbon considerations ignored in testing<br>- Focus purely on functional testing</td>
+<td>- Carbon considerations ignored in testing<br><br>- Focus purely on functional testing</td>
 <td>-</td>
-<td>- Some carbon-related test cases<br>- Limited coverage or frequency</td>
+<td>- Some carbon-related test cases<br><br>- Limited coverage or frequency</td>
 <td>-</td>
-<td>- Comprehensive testing approach<br>- Carbon metrics is a standard metric that is tested</td>
+<td>- Comprehensive testing approach<br><br>- Carbon metrics is a standard metric that is tested</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin informal discussions about the importance of including carbon impact in testing.<br><br>Start manually evaluating basic carbon impacts informally during existing test cycles.</td>
+<td colspan="2">Create specific test scenarios targeting high-impact areas like energy usage, resource efficiency, or carbon footprint.<br><br>Integrate carbon-specific test cases into standard testing cycles, although coverage may initially be limited.</td>
+<td colspan="2">Fully integrate comprehensive carbon emission and energy usage metrics into automated and manual testing suites.<br><br>Conduct systematic reviews, track trends, and proactively address deviations to continuously optimise software for minimal carbon impact.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Ni12x-PNxig8tWdFdeLjqVVPfMzbcmLAZkfVdXxfQtU/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Testing Guide</a></td>
 </tr>
 <tr>
 <td><strong>d. Store carbon emission metrics from the test environment.</strong></td>
-<td>- No metric collection during testing<br>- Data unavailable post-test</td>
+<td>- No metric collection during testing<br><br>- Data unavailable post-test</td>
 <td>-</td>
-<td>- Partial or manual metric capture<br>- Sporadic storage</td>
+<td>- Partial or manual metric capture<br><br>- Sporadic storage</td>
 <td>-</td>
-<td>- Fully automated capture<br>- Central repository integrated with QA</td>
+<td>- Fully automated capture<br><br>- Central repository integrated with QA</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate informal collection of simple metrics (e.g., CPU usage, test duration) to estimate emissions.\<br>Record metrics manually using basic tools like spreadsheets, enabling initial post-test analysis.</td>
+<td colspan="2">Set guidelines for consistently capturing carbon metrics manually during specific testing cycles.<br><br>Organise data systematically in shared locations (e.g., collaborative spreadsheets or simple databases) for improved accessibility and consistency.</td>
+<td colspan="2">Integrate automated solutions for continuous, detailed collection of carbon emission metrics within the test environment.\<br>Use a centralised database fully integrated with QA systems, ensuring comprehensive, real-time access, reporting, and analysis capabilities.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1cXEIfgWfk9A2C4GWNe_Yy2TSr5XimlInI3Ss4wLydL8/edit?tab=t.0">Test Environment Metrics</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1cXEIfgWfk9A2C4GWNe_Yy2TSr5XimlInI3Ss4wLydL8/edit?tab=t.0">Test Environment Metrics</a></td>
 </tr>
 <tr>
 <td><strong>e. Deploy the application into production.</strong></td>
-<td>- Deployment with no carbon impact tracking<br>- No integrated sustainability checks</td>
+<td>- Deployment with no carbon impact tracking<br><br>- No integrated sustainability checks</td>
 <td>-</td>
-<td>- Some checks included<br>- Limited or optional gating for carbon considerations</td>
+<td>- Some checks included<br><br>- Limited or optional gating for carbon considerations</td>
 <td>-</td>
-<td>- Formal gating with carbon goals<br>- Deployment guided by sustainability targets</td>
+<td>- Formal gating with carbon goals<br><br>- Deployment guided by sustainability targets</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Introduce informal pre-deployment checks focused on resource usage and initial carbon impact estimates.<br><br>Educate deployment teams informally about the significance of sustainability in deployments.</td>
+<td colspan="2">Develop straightforward criteria or checklists covering energy efficiency and carbon emissions to review before deployment.<br><br>Implement optional gates or checkpoints to evaluate carbon impact, with some deployments undergoing these reviews.</td>
+<td colspan="2">Enforce mandatory sustainability and carbon emissions criteria as part of deployment approval processes.<br><br>Regularly measure post-deployment sustainability performance, adjusting deployment strategies proactively to align consistently with sustainability targets.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1vlgA3EpISrMxbG3GG1eW5NeGPvcqyNmJed6mIxuBK3Y/edit?tab=t.0#heading=h.q5798snkh2cr">Deployment Carbon Guide</a></td>
 </tr>
 <tr>
 <td><strong>f. Store carbon emission metrics from the production environment.</strong></td>
-<td>- No production metrics<br>- No feedback loop</td>
+<td>- No production metrics<br><br>- No feedback loop</td>
 <td>-</td>
-<td>- Some production metric capture<br>- Limited or manual collation</td>
+<td>- Some production metric capture<br><br>- Limited or manual collation</td>
 <td>-</td>
-<td>- Continuous, automated metric capture<br>- Data fed into analytics platform</td>
+<td>- Continuous, automated metric capture<br><br>- Data fed into analytics platform</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin capturing essential carbon-related metrics (e.g., basic energy consumption, CPU usage) manually at regular intervals.<br><br>Store collected metrics informally using simple tools like spreadsheets to enable initial analysis and create a feedback loop.</td>
+<td colspan="2">Set clear guidelines and intervals (e.g., weekly or monthly) for consistent manual capture of carbon emission metrics.<br><br>Organise data systematically in structured shared storage (e.g., collaborative documents, databases) to support limited analytics and reporting.</td>
+<td colspan="2">Deploy automated systems for continuous and detailed carbon metric collection from the production environment.<br><br>Feed collected data directly into a centralised analytics platform, enabling real-time monitoring, alerting, trend analysis, and proactive sustainability management.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1fdATBbOObA1w5Z5OimN_DHutWtA5PFWXmBEI1KKfQwY/edit?tab=t.0">Production Environment Metrics</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1fdATBbOObA1w5Z5OimN_DHutWtA5PFWXmBEI1KKfQwY/edit?tab=t.0">Production Environment Metrics</a></td>
 </tr>
 <tr>
 <td><strong>g. Review carbon emissions against the project priorities.</strong></td>
-<td>- No formal review process<br>- Emissions not compared with priorities</td>
+<td>- No formal review process<br><br>- Emissions not compared with priorities</td>
 <td>-</td>
-<td>- Periodic reviews<br>- Some correlation with project objectives</td>
+<td>- Periodic reviews<br><br>- Some correlation with project objectives</td>
 <td>-</td>
-<td>- Ongoing, structured reviews<br>- Carbon goals embedded in overall project KPIs</td>
+<td>- Ongoing, structured reviews<br><br>- Carbon goals embedded in overall project KPIs</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Conduct initial informal reviews comparing carbon emissions to basic project priorities to create awareness.<br><br>Keep simple records or notes to capture initial findings and foster early conversations about sustainability impacts.</td>
+<td colspan="2">Implement periodic reviews (e.g., monthly or quarterly) explicitly comparing emissions data with key project priorities.<br><br>Document clear correlations between carbon emissions performance and specific project goals, identifying gaps and areas for improvement.</td>
+<td colspan="2">Fully integrate carbon emissions targets into overall project KPIs, making sustainability goals integral to project success metrics.<br><br>Deploy continuous monitoring tools for real-time tracking, structured review processes, and transparent reporting of carbon performance against established project KPIs.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/12CETPPwOjJrrNWI4iFgBZMWjUatn5-jI8PXoVT2pAe0/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Review KPI Guide</a></td>
 </tr>
 <tr>
 <td><strong>h. Analyse carbon emission data for insights and improvements.</strong></td>
-<td>- No analysis or improvement plan<br>- Data sits unused</td>
+<td>- No analysis or improvement plan<br><br>- Data sits unused</td>
 <td>-</td>
-<td>- Occasional analysis or reports<br>- Limited improvement actions</td>
+<td>- Occasional analysis or reports<br><br>- Limited improvement actions</td>
 <td>-</td>
-<td>- Full analytics integration<br>- Iterative improvements with clear accountability</td>
+<td>- Full analytics integration<br><br>- Iterative improvements with clear accountability</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin reviewing existing carbon emission data to identify simple trends or anomalies.<br><br>Create basic reports or summaries to share insights internally and stimulate discussion.</td>
+<td colspan="2">Implement periodic (monthly or quarterly) detailed reviews of carbon emission data for deeper insights.<br><br>Identify and implement straightforward actions (e.g., resource optimisation or energy reduction in high-use areas) based on insights gained.</td>
+<td colspan="2">Deploy comprehensive analytics platforms to continuously monitor, analyse, and generate insights from carbon emission data.<br><br>Embed structured, iterative improvement cycles into regular project management processes, with clearly defined roles, responsibilities, and accountability for achieving continuous carbon reductions.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1Ts9iuE9Hb6KUSqOmPhXRTLOEdUAMZD6ofpEZiyRpeoA/edit?tab=t.0">Comparative Data and Insights</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Ts9iuE9Hb6KUSqOmPhXRTLOEdUAMZD6ofpEZiyRpeoA/edit?tab=t.0">Comparative Data and Insights</a></td>
 </tr>
 </tbody>
 </table>
 
-**Outputs:**
-
-> The focus is on development environment metrics. Example - [Development Environment Metrics](https://docs.google.com/document/d/1NiVrGKi8oCN1TB-s2cc-QLZFc1Zw2XK3MfrsusYMji4/edit?tab=t.0)
->
-> Test environment carbon metrics. Example [Test Environment Metrics](https://docs.google.com/document/d/1cXEIfgWfk9A2C4GWNe_Yy2TSr5XimlInI3Ss4wLydL8/edit?tab=t.0)
->
-> The production environment includes carbon metrics. Example [Production Environment Metrics](https://docs.google.com/document/d/1fdATBbOObA1w5Z5OimN_DHutWtA5PFWXmBEI1KKfQwY/edit?tab=t.0)
->
-> The focus is on continuous improvement environment metrics. Example - [Continuous Improvement Environment Metrics](https://docs.google.com/document/d/1B-kywjoS8eILXd_RhXH9tEwG5aMa8Gv1lAdOc2MxIQM/edit?tab=t.0)
->
-> This study focuses on comparing data and insights. Example - [Comparative Data and Insights](https://docs.google.com/document/d/1Ts9iuE9Hb6KUSqOmPhXRTLOEdUAMZD6ofpEZiyRpeoA/edit?tab=t.0)
-
-### Stage 18 -- Energy / Carbon Metrics from Decommissioned Plans
+## Stage 18 -- Energy / Carbon Metrics from Decommissioned Plans
 
 Developing comprehensive decommissioning strategies that quantify and minimise the environmental impact of retiring outdated systems and infrastructure while maximising recycling and reuse opportunities.
 
 *Key Personas -- Project Manager, Architect, Cloud Architect, Data Architect, Infrastructure Engineer, Cloud Developer, Cloud Security Specialist, Cloud Operations Manager, SRE -- Cloud Engineer, Dev Ops Engineer*
 
-#### Capability Assessment for Stage 18 - Energy / Carbon Metrics from Decommissioned Plans
+### Capability Assessment for Stage 8 - Energy / Carbon Metrics from Decommissioned Plans
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Energy / Carbon Metrics from Decommissioned Plans</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Energy / Carbon Metrics from Decommissioned Plans</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Review tradeoffs between IT sustainability and other requirements.</strong></td>
-<td>- No formal tradeoff discussions<br>- Ad hoc or siloed approach</td>
+<td>- No formal tradeoff discussions<br><br>- Ad hoc or siloed approach</td>
 <td>-</td>
-<td>- Some documented discussions<br>- Partial integration with project planning</td>
+<td>- Some documented discussions<br><br>- Partial integration with project planning</td>
 <td>-</td>
-<td>- Well-defined tradeoff framework<br>- Sustainability consistently weighed against other requirements</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1b7Foivo3cchdPYEbAV6L0k8rBBAA5kxCykTx54dHRNQ/edit?tab=t.0">Trade off Decisions</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>b. Determine if there are any decommission plans (hardware and software).</strong></td>
-<td>- No formal decommission strategy<br>- Reactive or on-demand disposal</td>
-<td>-</td>
-<td>- Basic plan for some assets<br>- Limited alignment with sustainability goals</td>
-<td>-</td>
-<td>- Comprehensive decommission strategy<br>- Proactive approach for sustainability and cost savings</td>
+<td>- Well-defined tradeoff framework<br><br>- Sustainability consistently weighed against other requirements</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Schedule informal meetings involving multiple stakeholders to begin discussing sustainability alongside other project requirements.<br><br>Record basic notes from these initial discussions.</td>
+<td colspan="2">Schedule formal, periodic discussions explicitly focused on evaluating sustainability tradeoffs within project planning phases.<br><br>Clearly document the outcomes of these discussions, including rationales for decisions balancing sustainability with other project requirements.</td>
+<td colspan="2">Implement a structured, documented framework clearly outlining criteria and processes for evaluating sustainability against other project priorities.<br><br>Consistently apply the framework in all major decisions</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1b7Foivo3cchdPYEbAV6L0k8rBBAA5kxCykTx54dHRNQ/edit?tab=t.0">Trade off Decisions</a> (Implementation pillar - Stage 11)</td>
+</tr>
+<tr>
+<td><strong>b. Determine if there are any decommissioning plans (hardware and software).</strong></td>
+<td>- No formal decommissioning strategy<br><br>- Reactive or on-demand disposal</td>
+<td>-</td>
+<td>- Basic plan for some assets<br><br>- Limited alignment with sustainability goals</td>
+<td>-</td>
+<td>- Comprehensive decommissioning strategy<br><br>- Proactive approach for sustainability and cost savings</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Start informally identifying hardware and software assets nearing end-of-life.<br><br>Document ad-hoc disposal decisions to raise initial awareness about decommissioning practices.</td>
+<td colspan="2">Define basic criteria for identifying when assets should be decommissioned based on age, functionality, and basic sustainability guidelines.<br><br>Include basic sustainability considerations (e.g., recycling, responsible disposal practices) in initial decommissioning processes.</td>
+<td colspan="2">Create detailed policies and guidelines for proactively identifying and managing hardware and software decommissioning, fully integrating sustainability and cost-efficiency considerations.<br><br>Establish ongoing processes to track asset lifecycle, proactively schedule sustainable disposal or recycling, and consistently evaluate outcomes for continuous improvement.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1sasKo_-HQpxEwZAfCixdzlV62X1nDBbPBxLchQlrv0A/edit?tab=t.0#heading=h.q5798snkh2cr">Decommissioning Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Capture decommission carbon emission data.</strong></td>
-<td>- No metrics captured<br>- No tracking post-decommission</td>
+<td>- No metrics captured<br><br>- No tracking post-decommission</td>
 <td>-</td>
-<td>- Some metrics tracked<br>- Inconsistent or partial data collection</td>
+<td>- Some metrics tracked<br><br>- Inconsistent or partial data collection</td>
 <td>-</td>
-<td>- Automated, comprehensive capture<br>- Data feeds into sustainability reporting</td>
+<td>- Automated, comprehensive capture<br><br>- Data feeds into sustainability reporting</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start informally noting basic carbon-related data (e.g., estimated emissions from disposal processes).\<br>Use simple manual records (like spreadsheets) to retain initial emission estimates post-decommission.</td>
+<td colspan="2">Develop guidelines for regularly and consistently capturing key carbon emission data during decommissioning.<br><br>Store data systematically, even if manually, in structured repositories accessible to relevant teams.</td>
+<td colspan="2">Integrate automated tools that capture detailed carbon emission metrics throughout the decommissioning lifecycle.<br><br>Feed automated data into central sustainability reporting platforms, enabling real-time tracking, analysis, and comprehensive sustainability reporting.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1VMbrm6a-p96UqS5u84XrCYn4gnDJXmOMOsLjJkpAme0/edit?tab=t.0">Carbon Data from Decommissioned Applications</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1VMbrm6a-p96UqS5u84XrCYn4gnDJXmOMOsLjJkpAme0/edit?tab=t.0">Carbon Data from Decommissioned Applications</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<td><strong>Are operations and SDLC releases supporting strategy and business outcomes?</strong></td>
-<td>- <strong>NO</strong> → Refine processes in the implementation and operational stages</td>
+<td><strong>Has the review of trade-offs between IT sustainability been conducted?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Refine the trade-off criteria</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Continue with next steps</td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with next steps</td>
 </tr>
 <tr>
-<td><strong>Are operations in line with or responsive to both existing and upcoming regulations?</strong></td>
-<td>- <strong>NO</strong> → Refine processes in the operational stages to respond to upcoming regulations</td>
-</tr>
-<tr>
-<td></td>
-<td>- <strong>YES</strong> → Continue with next steps</td>
-</tr>
-<tr>
-<td><strong>Is more data needed to better inform operational decisions or measure progress?</strong></td>
-<td>- <strong>NO</strong> → Refine data in the operational stages to perform better decisions</td>
+<td><strong>Has the decommissioning gap analysis been conducted (hardware and software)?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Conduct the gap analysis and create a decommissioning strategy</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Continue with next steps</td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with next steps</td>
+</tr>
+<tr>
+<td><strong>Is the decommissioning carbon data being captured?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Capture the carbon data from decommissioning plans</td>
+</tr>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with next steps</td>
 </tr>
 </tbody>
 </table>
@@ -3977,22 +3980,17 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 
 *Key Personas -- Board of Directors, Executive Leadership Team, internal Regulator, Compliance Officer, ESG Leader(s)*
 
-#### Capability Assessment for Stage 19 - Governance
+### Capability Assessment for Stage 19 - Governance
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Governance</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Governance</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4008,15 +4006,13 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Assign initial team members responsible for informal compliance monitoring. Conduct basic, informal checks of regulations across key jurisdictions periodically, documenting any key findings.</td>
+<td colspan="2">Clearly define roles and responsibilities for regularly reviewing jurisdictional regulations. Set structured intervals (e.g., quarterly) for reviewing regulatory updates and capturing relevant changes in documentation.</td>
+<td colspan="2">Formally establish a specialised governance unit responsible for proactively monitoring and interpreting regulatory changes across all jurisdictions. Formally establish a specialised governance unit responsible for proactively monitoring and interpreting regulatory changes across all jurisdictions.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1Hpn396Aq3RvvNrxvmiOU5ZeEk9V6vSuQiMyk6SNmcMM/edit?tab=t.0">Regulations and Compliance ToR</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Hpn396Aq3RvvNrxvmiOU5ZeEk9V6vSuQiMyk6SNmcMM/edit?tab=t.0">Regulations and Compliance ToR</a></td>
 </tr>
 <tr>
 <td><strong>b. Set up regular reviews of the governance approach and continuously refine.</strong></td>
@@ -4029,56 +4025,58 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Establish basic intervals (e.g., annually) to review governance practices.<br><br>Informally document governance gaps or inefficiencies to identify initial refinement opportunities.</td>
+<td colspan="2">Conduct governance review meetings quarterly or biannually to discuss current effectiveness and gather stakeholder feedback.<br><br>Document actionable insights and begin systematically incorporating key stakeholder suggestions into governance updates.</td>
+<td colspan="2">Establish structured, ongoing processes for regularly capturing governance feedback and performance data, supported by automated monitoring tools.<br><br>Regularly update governance frameworks to proactively address changing organisational priorities.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1DHZbsUOOnWtttFAqu1hnEV7pl1UAPONjWitCZVhseeQ/edit?tab=t.0">Governance Review Guide</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Does the organisation have a department/team that regularly reviews external regulations per jurisdiction?</strong></td>
-<td>- <strong>NO</strong> → Are there regular reviews of the governance approach?<br>- Ensure the governance committee for compliance has a shared mission, approach, and meeting cadence for reviews.<br>- Foster communication to keep compliance and regulations team aligned with committee decisions</td>
+<td>-</td>
+<td><strong>NO</strong> → Are there regular reviews of the governance approach?<br>- Ensure the governance committee for compliance has a shared mission, approach, and meeting cadence for reviews.<br>- Foster communication to keep compliance and regulations team aligned with committee decisions</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Move to stage 21</td>
+<td>-</td>
+<td><strong>YES</strong> → Move to stage 21</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 20 -- Environmental Regulations
+## Stage 20 -- Environmental Regulations
 
 Adherence to environmental regulations ensures organisations operate within legal boundaries while reducing their ecological footprints.
 
 *Key Personas -- Internal Regulator, Compliance Officer, Compliance Team, ESG Leader(s)*
 
-#### Capability Assessment for Stage 20 - Environmental Regulations
+### Capability Assessment for Stage 20 - Environmental Regulations
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Environmental Regulations</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Environmental Regulations</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4094,15 +4092,13 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start conducting informal regulatory checks periodically to understand compliance needs.<br><br>Educate teams through informal discussions or briefings on the importance of regulatory assessment.</td>
+<td colspan="2">Create simple regulatory assessment templates or checklists tailored to key business areas.<br><br>Set regular intervals (e.g., quarterly) for teams to formally review regulatory changes relevant to their functions.</td>
+<td colspan="2">Document detailed regulatory assessment procedures fully aligned with business objectives across all departments.<br><br>Integrate automated tools and regular reporting mechanisms.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1iZQJjw2OOQfJsQWEd7Sgp9GxXuwbVMWzky2Zj_ekTzw/edit?tab=t.0">Regulation Assessment Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Hire SMEs where there are knowledge gaps.</strong></td>
@@ -4115,15 +4111,13 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Conduct a quick internal assessment to pinpoint critical areas lacking specialised knowledge.<br><br>Start the recruitment or contracting process to secure initial SMEs for the most critical identified gaps.</td>
+<td colspan="2">Clearly define roles and responsibilities for SMEs involved in projects, ensuring accountability.<br><br>Introduce structured sessions or regular meetings for SMEs to share insights informally across teams.</td>
+<td colspan="2">Establish permanent SME roles across critical domains, with clear accountability and integration into teams.<br><br>Create formalized knowledge transfer programs</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
 </tr>
 <tr>
 <td><strong>c. Continuously review the regulations.</strong></td>
@@ -4136,15 +4130,13 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Set up informal yet regular sessions to start capturing regulatory updates.<br><br>Begin informal documentation of key regulations impacting the organisation.</td>
+<td colspan="2">Implement structured, scheduled reviews (e.g., quarterly) to systematically track regulatory updates.<br><br>Clearly document regulatory changes identified during each review, noting impacts and actions needed.</td>
+<td colspan="2">Integrate advanced automated systems for continuous monitoring of regulatory changes.<br><br>Fully integrate regulatory updates into governance and risk management processes, ensuring real-time assessment, proactive response, and comprehensive reporting.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/10NDRrjhANFW72xPrsB7ttH3gT7vXQ8QYDa0pL8RkL2Q/edit?tab=t.0">Regulatory Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>d. Teams to monitor upcoming regulations.</strong></td>
@@ -4157,60 +4149,63 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Identify and subscribe to basic industry or regulatory newsletters and updates.<br><br>Schedule occasional informal team meetings to briefly review upcoming regulatory changes.</td>
+<td colspan="2">Set up automated email alerts or notifications from key regulatory bodies or industry groups.<br><br>Conduct scheduled team meetings (monthly or quarterly) to assess notifications received and plan necessary actions.</td>
+<td colspan="2">Utilise automated regulatory tracking platforms for continuous, real-time monitoring of upcoming regulations.<br><br>Regularly analyse regulatory developments</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Pmoc7bOTrYwbHdrLqYwoClY5tEWLNDBELWzjXvF5ezE/edit?tab=t.0#heading=h.1riqgzvsntrk">Regulation Monitoring Guide</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Are the teams assessing regulations in the jurisdictions where the company is operating?</strong></td>
-<td>- <strong>NO</strong> →<br>- Ensure teams are trained and knowledgeable enough for regulatory analysis in the relevant jurisdictions</td>
+<td>-</td>
+<td><strong>NO</strong> →<br>- Ensure teams are trained and knowledgeable enough for regulatory analysis in the relevant jurisdictions</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Move to stage 21</td>
+<td>-</td>
+<td><strong>YES</strong> → Move to stage 21</td>
 </tr>
 <tr>
 <td><strong>Continuously review the regulations by monitoring meetings and any other format based on the regulator communications approach</strong></td>
-<td>- Formalize responsibilities of the team to monitor jurisdictions and update on communications<br>- Example <a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
+<td>-</td>
+<td>Formalize responsibilities of the team to monitor jurisdictions and update on communications<br>- Example <a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
 </tr>
 </tbody>
 </table>
 
-### Stage 21 -- Assessment of Upcoming Regulations
+## Stage 21 -- Assessment of Upcoming Regulations
 
 Actively analysing upcoming regulations allows organisations to anticipate changes and adjust strategies to remain compliant and competitive.
 
 *Key Personas -- Internal Regulator, Compliance Officer, Compliance Team, ESG Leader(s)*
 
-#### Capability Assessment for Stage 21 - Assessment of Upcoming Regulations
+### Capability Assessment for Stage 21 - Assessment of Upcoming Regulations
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Assessment of Upcoming Regulations</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Assessment of Upcoming Regulations</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4226,15 +4221,13 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate basic introductions or informal meetings with relevant regulatory contacts.<br><br>Keep simple records of any informal discussions or correspondences to build an initial regulatory relationship history.</td>
+<td colspan="2">Schedule periodic (e.g., quarterly or biannual) formal meetings with key regulators to maintain ongoing dialogue.<br><br>Prepare agendas and discussion points aligning partially with known regulatory priorities, documenting outcomes clearly.</td>
+<td colspan="2">Establish regular, structured interactions (monthly or as-needed basis) with regulators to proactively address emerging issues and align closely with regulatory expectations.<br><br>Share proactively and transparently with regulators, involving them in discussions on strategic initiatives, compliance planning, and collaborative problem-solving.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/18twVr3xA_LLMLyYS0yNN8e48YXIkxF29MkPuqmy-stU/edit?tab=t.0">Regulator Meetings Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Regular updates from policymakers.</strong></td>
@@ -4247,15 +4240,13 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Subscribe to relevant industry and policymaker newsletters or communications.<br><br>Keep basic records of any received ad hoc updates or notices to raise initial internal awareness.</td>
+<td colspan="2">Schedule periodic internal briefings or compile newsletters summarising recent policy changes.<br><br>Share summarised updates internally with relevant teams, enhancing general awareness and preparedness.</td>
+<td colspan="2">Use specialised policy monitoring platforms providing real-time updates and analytics.<br><br>Regularly analyse policy updates, proactively integrate insights into strategic business planning, and adjust organisational strategies accordingly.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1wwLkDMRezPDPGLAOa1SyvmYKtcN2osl84LDfvOkF9Ek/edit?tab=t.0">Policy Updates Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Updates from industry stakeholders & consumers.</strong></td>
@@ -4268,36 +4259,32 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Establish informal communication channels with key industry stakeholders and consumers.<br><br>Start basic documentation of any informal feedback received to identify preliminary trends and concerns.</td>
+<td colspan="2">Schedule periodic (quarterly or biannual) meetings or surveys with stakeholders to collect structured input.<br><br>Integrate key insights from stakeholder sessions into initial planning processes, documenting decisions influenced by stakeholder input.</td>
+<td colspan="2">Develop structured channels (e.g., advisory groups, ongoing surveys, collaborative platforms) to facilitate continuous stakeholder input.<br><br>Fully integrate stakeholder insights systematically into strategic planning, decision-making, and improvement processes, regularly communicating outcomes back to stakeholders.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1USVfag_Fg45JqR87TteCuGBBbxEjvITZZ6Q7J5OLmcQ/edit?tab=t.0">Stakeholder Feedback Guide</a></td>
 </tr>
 <tr>
-<td><strong>d. Split the updates into mandatory, voluntary, & disclosures.</strong></td>
-<td>- No formal categorization<br>- Updates treated uniformly</td>
+<td><strong>d. Split the updates into mandatory, voluntary and disclosures.</strong></td>
+<td>- No formal categorisation<br>- Updates treated uniformly</td>
 <td>-</td>
-<td>- Basic categorization<br>- Some processes to handle each category differently</td>
+<td>- Basic categorisation<br>- Some processes to handle each category differently</td>
 <td>-</td>
 <td>- Clear, systematic classification<br>- Tailored processes for each category</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin informally distinguishing updates into simple categories (mandatory, voluntary, disclosure).<br><br>Conduct brief discussions or training sessions on why categorising updates is beneficial.</td>
+<td colspan="2">Document basic definitions and examples for mandatory, voluntary, and disclosure categories.<br><br>Introduce simple procedures or workflows for each category, such as mandatory updates prioritised for immediate action.</td>
+<td colspan="2">Create detailed guidelines clearly defining criteria and processes for classifying updates into mandatory, voluntary, and disclosures.<br><br>Implement fully customised handling procedures and dedicated resources for each category, ensuring systematic prioritisation, compliance management, and reporting.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Jr9vNDWzziIrURlerTqiOcPZcwrc1w7iREtsKidtcxI/edit?tab=t.0">Update Classification Guide</a></td>
 </tr>
 <tr>
 <td><strong>e. Assess the impact of regulations on company operations & products.</strong></td>
@@ -4310,19 +4297,17 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start informal discussions to identify obvious regulatory impacts on key operations and products.<br><br>Record initial observations and reactive responses in a simple log or spreadsheet for future reference.</td>
+<td colspan="2">Develop basic templates or checklists for systematically assessing regulatory impacts on critical areas.<br><br>Schedule regular sessions to partially integrate regulatory impact findings into operational and product planning meetings.</td>
+<td colspan="2">Establish formal guidelines and automated tools to continuously evaluate regulatory impacts on all operations and products.<br><br>Regularly review and fully incorporate impact assessment results into strategic decision-making processes, with clear documentation and accountability.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Tb_bASdwKNwnUGHYvhSG64ldaVLNDVMd0-4paleAn5Q/edit?tab=t.0">Regulation Impact Guide</a></td>
 </tr>
 <tr>
 <td><strong>f. Set up a database/tool to manage all regulations (risks, timelines, etc.).</strong></td>
-<td>-No centralized tool<br>- Regulations tracked ad hoc</td>
+<td>-No centralised tool<br>- Regulations tracked ad hoc</td>
 <td>-</td>
 <td>- Some basic repository<br>- Limited features or manual updates</td>
 <td>-</td>
@@ -4331,60 +4316,63 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Establish a basic shared document or spreadsheet to consolidate regulatory information.<br><br>Designate an individual or team to oversee basic data maintenance and updates.</td>
+<td colspan="2">Organise existing information systematically (e.g., by jurisdiction, compliance area, or timeline).<br><br>Implement regular intervals (weekly or monthly) for manual data updates to maintain accuracy and relevance.</td>
+<td colspan="2">Implement a robust, automated regulatory management system capable of real-time updates, notifications, and analytics.<br><br>Integrate the system with existing business processes and provide universal access across the organisation, encouraging proactive compliance management.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Funnel updates from external teams, policymakers, industry peers, stakeholders, and consumers to understand general sentiment around upcoming regulations</strong></td>
+<td>-</td>
 <td>- Mandatory (involuntary regulations) -- legally required<br>- Voluntary frameworks not legally enforced<br>- Disclosures -- often required by regulations or based on frameworks</td>
 </tr>
 <tr>
 <td><strong>Do the compliance and regulations teams have a central database of all the regulations and their associated requirements, risks, timelines and impacts on the organisation?</strong></td>
-<td>- <strong>NO →</strong> Implement a database/tool to capture all the regulation requirements and associated risks.<br>- Example <a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
+<td>-</td>
+<td><strong>NO →</strong> Implement a database/tool to capture all the regulation requirements and associated risks.<br>- Example <a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Move to stage 22</td>
+<td>-</td>
+<td><strong>YES</strong> → Move to stage 22</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 22 -- Gap Analysis
+## Stage 22 -- Gap Analysis
 
 Conducting a gap analysis identifies areas where current practices fall short of regulatory requirements, enabling targeted improvements.
 
 *Key Personas - IT Leader(s), Internal Regulator, Compliance Officer, Compliance team, ESG Leader(s), Regulatory SMEs*
 
-#### Capability Assessment for Stage 22 - Gap Analysis
+### Capability Assessment for Stage 22 - Gap Analysis
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Gap Analysis</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Gap Analysis</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4400,15 +4388,13 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Conduct informal, periodic reviews to identify obvious compliance gaps with new regulations.<br><br>Start maintaining simple records or notes from these initial checks to raise awareness and inform future reviews.</td>
+<td colspan="2">Establish periodic (e.g., quarterly) structured sessions focused on identifying compliance gaps systematically.<br><br>Clearly document identified gaps, potential risks, and basic follow-up actions, ensuring some accountability and traceability.</td>
+<td colspan="2">Develop detailed guidelines, templates, and criteria for regularly conducting thorough gap analyses across all regulatory changes.<br><br>Clearly document identified gaps, define detailed action plans, assign clear responsibilities, and monitor progress regularly through comprehensive reporting and tracking mechanisms.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Cl4bzsyR0-toY-CWphaNxWMAUga_Fxr_6rAnjqNWS88/edit?tab=t.0">Regulation Gap Analysis Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Implement a continuous improvement process to monitor regulations.</strong></td>
@@ -4421,15 +4407,13 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Schedule informal meetings periodically to discuss recent regulatory issues and responses.<br><br>Document and communicate initial findings internally to increase team awareness about the need for improvement.</td>
+<td colspan="2">Schedule structured, periodic reviews (e.g., quarterly) of regulatory monitoring processes.<br><br>Document feedback and regulatory changes, adjusting monitoring processes accordingly.</td>
+<td colspan="2">Set clear, continuous monitoring and feedback loops using defined KPIs and automated tracking tools.<br><br>Regularly evaluate effectiveness, implement systematic adjustments, and maintain comprehensive documentation of improvements for accountability and transparency.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/10L6bq9xOOGPg1LpEUOOos1Vv6lmYs7sMg_HCQ4u95F0/edit?tab=t.0">Regulation Monitoring Guide</a> (Compliance and Regulations pillar - Stage 20)</td>
 </tr>
 <tr>
 <td><strong>c. Set up a process to conduct gap analysis.</strong></td>
@@ -4437,20 +4421,18 @@ Conducting a gap analysis identifies areas where current practices fall short of
 <td>-</td>
 <td>- Some guidelines for gap analysis<br>- Inconsistent application</td>
 <td>-</td>
-<td>- Robust, standardized gap analysis process<br>- Fully documented & consistently applied</td>
+<td>- Robust, standardised gap analysis process<br>- Fully documented & consistently applied</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin informal sessions to identify obvious compliance gaps from new regulatory changes.<br><br>Maintain simple logs or records to note identified gaps and preliminary actions.</td>
+<td colspan="2">Create simple, structured checklists or templates to conduct gap analysis more consistently.<br><br>Schedule periodic (e.g., quarterly) gap analysis reviews, even if basic, ensuring consistent but limited application.</td>
+<td colspan="2">Develop detailed, formalised procedures, guidelines, and templates for conducting systematic gap analyses.<br><br>Implement regular, structured schedules for thorough gap analyses, maintaining detailed documentation, tracking actions, and ensuring organisational accountability.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1GKCXH8OAH5ww7gwtmykhSPwkMCSHEirqwyWmtLNdcNg/edit?tab=t.0">Compliance Regulations Gap Analysis Report</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1GKCXH8OAH5ww7gwtmykhSPwkMCSHEirqwyWmtLNdcNg/edit?tab=t.0">Compliance Regulations Gap Analysis Report</a></td>
 </tr>
 <tr>
 <td><strong>d. Assess the severity of new and updated regulations.</strong></td>
@@ -4463,89 +4445,92 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Begin informal meetings to discuss and highlight differences in regulatory impacts.<br><br>Maintain simple notes or records of initial impressions about potential severity levels.</td>
+<td colspan="2">Develop simple criteria (e.g., high/medium/low impact) to classify regulatory changes.<br><br>Regularly schedule meetings to consistently apply basic severity classifications to new regulatory updates.</td>
+<td colspan="2">Define detailed, documented thresholds and clear guidelines for systematically assessing the severity of regulatory changes.<br><br>Implement structured, regular assessments ensuring the severity framework is applied consistently across all regulatory updates, supported by clear documentation and reporting.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1h-WVBdJs7qjHpTBJov_bVeDSAcqAlGWwBJfwBC5iIDU/edit?tab=t.0">Severity Assessment Guide</a></td>
 </tr>
 <tr>
-<td><strong>e. Record all the gap analysis in the database/tool.</strong></td>
-<td>- No central record<br>- Gap findings often lost or undocumented</td>
+<td><strong>e. Record all the regulatory gap analysis in the database/tool.</strong></td>
+<td>- No central record for regulations<br>- Gap findings often lost or undocumented</td>
 <td>-</td>
 <td>- Basic data capture<br>- Partial consolidation in spreadsheets or simple tools</td>
 <td>-</td>
-<td>- Automated, centralized database/tool<br>- Real-time updates & reporting capabilities</td>
+<td>- Automated, centralised database/tool<br>- Real-time updates & reporting capabilities</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start using simple, shared spreadsheets or documents to capture initial gap findings.<br><br>Designate individuals to regularly update and maintain these initial records to prevent loss of information.</td>
+<td colspan="2">Develop basic templates and processes for consistently documenting regulatory gap analysis results in structured formats.<br><br>Store documents systematically in a centralised location accessible to relevant stakeholders, ensuring partial consolidation and improved accessibility.</td>
+<td colspan="2">Implement comprehensive automated tools or platforms for real-time capture and consolidation of gap analysis findings.<br><br>Ensure the tool provides immediate reporting capabilities, visual dashboards, and automated notifications to stakeholders, facilitating proactive compliance management.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/12ExPE53Xwoy9Y_3qNbW9BAVho_x8T1ekDvR3tDsbrAo/edit?tab=t.0">Gap Analysis Database Guide</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Does the IT organisation have a process to conduct a gap analysis of the new and updated regulations impacting it?</strong></td>
-<td>- <strong>NO</strong> → Is there a continuous process to conduct gap analysis on all new and updated regulations?<br>- Set up cadence frequency, process, and resources to support gap analysis.</td>
+<td>-</td>
+<td><strong>NO</strong> → Is there a continuous process to conduct gap analysis on all new and updated regulations?<br>- Set up cadence frequency, process, and resources to support gap analysis.</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Example - <a href="https://docs.google.com/document/d/1GKCXH8OAH5ww7gwtmykhSPwkMCSHEirqwyWmtLNdcNg/edit?tab=t.0">Compliance Regulations Gap Analysis Report</a></td>
+<td>-</td>
+<td><strong>YES</strong> → Example - <a href="https://docs.google.com/document/d/1GKCXH8OAH5ww7gwtmykhSPwkMCSHEirqwyWmtLNdcNg/edit?tab=t.0">Compliance Regulations Gap Analysis Report</a></td>
 </tr>
 <tr>
 <td><strong>Assess the severity of the new / updated regulations with the current regulations and disclosures</strong></td>
-<td>- Critical gaps: non-compliance risks (e.g. missing audits or reports)</td>
+<td>-</td>
+<td>Critical gaps: non-compliance risks (e.g. missing audits or reports)</td>
 </tr>
 <tr>
 <td></td>
-<td>- Moderate gaps: inefficiencies in regulations and disclosures</td>
+<td>-</td>
+<td>Moderate gaps: inefficiencies in regulations and disclosures</td>
 </tr>
 <tr>
 <td></td>
-<td>- Minor gaps: best practice misalignments</td>
+<td>-</td>
+<td>Minor gaps: best practice misalignments</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 23 -- Stakeholder Management
+## Stage 23 -- Stakeholder Management
 
 Effective stakeholder management fosters collaboration and trust, ensuring alignment between internal teams and external partners on sustainability initiatives.
 
 *Key Personas -- Board of Directors, Executive Leadership Team, ESG Leader(s), CSR Team, IT Leader(s)*
 
-#### Capability Assessment for Stage 23 - Stakeholder Management
+### Capability Assessment for Stage 23 - Stakeholder Management
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Stakeholder Management</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Stakeholder Management</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4561,18 +4546,16 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Informally identify key individuals within IT and related business areas who should be involved.<br><br>Schedule initial discussions to raise awareness and start informal engagement in regulatory review activities.</td>
+<td colspan="2">Develop initial documentation clarifying basic stakeholder roles and responsibilities for regulatory management.<br><br>Set periodic meetings to engage identified stakeholders, gradually improving consistency and clarity in regulatory management efforts.</td>
+<td colspan="2">Clearly document roles, responsibilities, and accountability for each stakeholder in regulatory review and management processes.<br><br>Schedule regular, structured meetings and communications, ensuring continuous, documented engagement and systematic regulatory management.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/14E4gsCbUcJqXBSzL4Sxzau5IgktFDMgodFZF-OgT4GY/edit?tab=t.0">Stakeholder Regulation Guide</a></td>
 </tr>
 <tr>
-<td><strong>b. Review the gap analysis with all stakeholders.</strong></td>
+<td><strong>b. Review the regulatory gap analysis with all stakeholders.</strong></td>
 <td>- Gap analysis results rarely shared<br>- Limited or no feedback loops</td>
 <td>-</td>
 <td>- Some reviews with stakeholders<br>- Occasional feedback & action items</td>
@@ -4582,15 +4565,13 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Share gap analysis findings informally with key stakeholders through initial meetings or emails.<br><br>Gather informal feedback from stakeholders to raise awareness and establish initial dialogue.</td>
+<td colspan="2">Schedule periodic stakeholder meetings (e.g., quarterly) to discuss gap analysis findings and implications.<br><br>Clearly record stakeholder feedback and preliminary action items from these meetings, ensuring basic follow-up and accountability.</td>
+<td colspan="2">Conduct regular, scheduled reviews with clearly defined agendas, structured documentation, and consistent participation from stakeholders.<br><br>Maintain comprehensive records of stakeholder feedback, agreed-upon action plans, assigned responsibilities, and systematically track progress with clear reporting mechanisms.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1GRiSZOcD3AHEjKHxIs8xfdAk6F3LcC0_p6XDf-YfiH4/edit?tab=t.0">Gap Analysis Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Manage the decisions and actions.</strong></td>
@@ -4603,175 +4584,168 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start informally capturing decisions and actions in simple shared documents or notes.<br><br>Designate an individual or small team responsible for updating and maintaining these initial records.</td>
+<td colspan="2">Create basic templates or checklists to document decisions and corresponding actions consistently.<br><br>Schedule periodic meetings to review progress on documented actions, ensuring basic follow-up and partial accountability.</td>
+<td colspan="2">Deploy advanced tools or platforms designed for detailed tracking and governance of decisions and actions, including clear assignment of accountability.<br><br>Establish regular, structured reporting and update processes to monitor progress.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1X8zxaA7ttHBtWaWOMlroNWY4PUpC4bHHYNSPLiBcWkA/edit?tab=t.0">Minutes and Actions Report</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1X8zxaA7ttHBtWaWOMlroNWY4PUpC4bHHYNSPLiBcWkA/edit?tab=t.0">Minutes and Actions Report</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Does the IT organisation have stakeholders that are responsible for managing upcoming regulations and changes to existing ones?</strong></td>
-<td>- NO **→** Establish leadership and oversight committee -- Move to Strategy Pillar</td>
+<td>-</td>
+<td>NO <strong>→</strong> Establish leadership and oversight committee -- Move to Strategy Pillar</td>
 </tr>
 <tr>
 <td></td>
-<td>- YES → Review the gap analysis output with all stakeholders.<br>- Document decisions, next steps, actions, and timelines.</td>
+<td>-</td>
+<td>YES → Review the gap analysis output with all stakeholders.<br>- Document decisions, next steps, actions, and timelines.</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 24 -- Environmental Regulatory Reporting
+## Stage 24 -- Environmental Regulatory Reporting
 
-**Accurate environmental regulation reporting demonstrates accountability by transparently communicating an organization's sustainability performance.**
+Environmental regulatory reporting in an organisation involves systematically capturing, analysing, and transparently disclosing environmental performance data to demonstrate compliance, accountability, and continuous improvement towards sustainability objectives.
 
 *Key Personas - Board of Directors, Executive Leadership Team, ESG Leader(s), CSR Team, Internal Regulators, Compliance Officer, IT Leader(s)*
 
-#### Capability Assessment for Stage 24 - Environmental Regulatory Reporting
+### Capability Assessment for Stage 24 - Environmental Regulatory Reporting
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Environmental Regulatory Reporting</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Environmental Regulatory Reporting</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>a. Review the tradeoffs between IT sustainability and other requirements.</strong></td>
-<td>- No formal tradeoff process<br>- Ad hoc or siloed decision-making</td>
+<td><strong>a. Capturing environmental data</strong></td>
+<td>- Data captured manually or ad-hoc.<br>- Limited coverage of required environmental metrics;</td>
 <td>-</td>
-<td>- Some formal discussions<br>- Partial documentation of tradeoffs</td>
+<td>- Regular, structured data collection processes<br>- Partial automation and digitisation</td>
 <td>-</td>
-<td>- Clearly defined framework for tradeoffs<br>- Sustainability fully integrated into decision-making</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>b. Determine if there are any decommission plans (hardware & software).</strong></td>
-<td>- No formal decommission strategy<br>- Reactive or case-by-case decommission</td>
-<td>-</td>
-<td>- Basic decommission approach<br>- Partial alignment with sustainability objectives</td>
-<td>-</td>
-<td>- Comprehensive decommission strategy<br>- Proactive planning to minimize environmental impact</td>
+<td>- Real-time, automated data capture<br>- Comprehensive coverage of all relevant environmental metrics</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Start using standardised templates or spreadsheets to document key metrics regularly.<br><br>Clearly define essential environmental data points (e.g., energy, water, waste) for initial consistent capture.</td>
+<td colspan="2">Establish routine schedules (e.g., monthly, quarterly) for data capture.<br><br>Deploy basic sensors or monitoring devices to partially automate data collection and improve data accuracy and efficiency.</td>
+<td colspan="2">Implement fully automated environmental management systems (EMS) or IoT-based sensors for continuous, real-time data collection.<br><br>Ensure comprehensive data integration into centralised platforms enabling real-time analysis, reporting, and proactive environmental management.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Gl58RwQ5gwht3-fT80neZtkqiAb-KNxV2Kz48XGVhAw/edit?tab=t.0#heading=h.hf0wutymkdnq">Environmental Data Guide</a></td>
 </tr>
 <tr>
-<td><strong>c. Capture the decommission carbon emission data.</strong></td>
-<td>- No data captured<br>- Emissions from decommission not tracked</td>
+<td><strong>b. Analysing environmental data</strong></td>
+<td>- Minimal analysis performed<br>- Basic metrics summarised</td>
 <td>-</td>
-<td>- Some manual data collection<br>- Limited tracking or reporting</td>
+<td>- Regular data analysis to identify trends<br>- Use of basic analytical tools and visualisation</td>
 <td>-</td>
-<td>- Automated, detailed capture<br>- Data integrated into sustainability reports</td>
+<td>- Advanced analytical capabilities leveraging predictive analytics<br>- Analysis directly informs strategic decisions</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Regularly compile basic environmental metrics into compliance reports.<br><br>Summarise key environmental data in simple tables or basic reports without deep analysis or insights.</td>
+<td colspan="2">Schedule periodic analyses (monthly or quarterly) to identify trends, anomalies, or compliance risks.<br><br>Adopt tools such as Excel or simple dashboard solutions to visualise trends and communicate internally.</td>
+<td colspan="2">Leverage predictive analytics, scenario modelling, and comprehensive benchmarking software.<br><br>Regularly provide detailed analytical insights to senior management</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1lvXUomBUqTsF4v2trnX6Anlf3LZxEViopTGBWxP7R6U/edit?tab=t.0">Environmental Analysis Guide</a></td>
+</tr>
+<tr>
+<td><strong>c. Transparently disclosing environmental performance</strong></td>
+<td>- Limited internal reporting<br>- Minimal external transparency or stakeholder communication</td>
+<td>-</td>
+<td>- Regular internal and external reporting<br>- Improved transparency through structured reporting formats</td>
+<td>-</td>
+<td>- Comprehensive and frequent external reporting<br>- Full transparency and active engagement with stakeholders</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Action Steps</strong></td>
+<td colspan="2">Produce essential regulatory reports.<br><br>Establish initial communication channels</td>
+<td colspan="2">Regularise reporting processes.<br><br>Introduce third-party validation.</td>
+<td colspan="2">Adopt recognised reporting standards.<br><br>Proactively engage stakeholders.</td>
+</tr>
+<tr>
+<td><strong>Example docs</strong></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1OffL3AyZLQGuEAY5gXHGFGup5HE2uNts4J530eDaSLE/edit?tab=t.0#heading=h.t7bnolaa32x2">Environmental Disclosure Guide</a></td>
 </tr>
 </tbody>
 </table>
 
-**Outputs:**
+### Checklist
 
-b. Transition Plan. Example [Transition Plan](https://docs.google.com/document/d/1ma9Nfxj3jcGrlHA9S3n6i4gYExNxvRBulZ6UvZ5yun4/edit?tab=t.0)
-
-#### Checklist
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<td><strong>Has the organisation established a team across compliance, internal regulators, product managers, IT leaders, procurement teams, and ESG teams to produce a transition plan?</strong></td>
-<td>- <strong>NO</strong> **→** Establish the internal SMEs that can provide input and guidance to create a transition plan</td>
+<td><strong>Does the organisation have clearly defined environmental metrics?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> <strong>→</strong> Define metrics and ensure consistent data collection and accuracy<br><br><strong>YES</strong> <strong>→</strong> Continue to the next step</td>
 </tr>
 <tr>
-<td><strong>Has the organisation established a team across compliance, internal regulators, product managers, IT leaders, procurement teams, and ESG teams to produce a transition plan?</strong></td>
-<td>- <strong>YES</strong> **→** Continue to the next step</td>
+<td><strong>Does the organisation regularly analyse environmental data to identify trends and risks?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> <strong>→</strong> Set up regular data analysis for identifying issues early.<br><br><strong>YES</strong> <strong>→</strong> Continue to the next step</td>
 </tr>
 <tr>
-<td><strong>Establish a transition plan for the new and changed regulations</strong></td>
-<td>- Review regulations and impact across geographies, frameworks, standards, industry pacts, and voluntary disclosures.</td>
-</tr>
-<tr>
-<td><strong>Scope 1, 2 and 3 emissions</strong></td>
-<td>- Determine the impact of the regulations on scope 1, 2 and 3 emissions</td>
+<td><strong>Is the organisation transparent and regularly disclosing environmental performance to stakeholders?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> <strong>→</strong> Improve transparency through regular disclosures by maintaining stakeholder trust and regulatory compliance<br><br><strong>YES</strong> <strong>→</strong> Continue to monitor environmental metrics.</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 25 -- Communications
+## Stage 25 -- Communications
 
 Clear communication strategies ensure that sustainability goals, progress, and challenges are effectively conveyed to all relevant stakeholders.
 
 *Key Personas -- ESG Leader(s), CSR Team, Internal Regulators, Compliance Officer, Regulatory SMEs*
 
-#### Capability Assessment for Stage 25 - Communications
+### Capability Assessment for Stage 25 - Communications
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Communications</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Communications</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4787,15 +4761,13 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Establish regular intervals (e.g., weekly or monthly emails) to provide basic updates.<br><br>Hold informal team briefings or meetings to improve awareness about the transition objectives and timeline.</td>
+<td colspan="2">Create consistent key messages outlining transition objectives, benefits, and expectations.<br><br>Conduct regular awareness sessions or workshops for IT teams to explain and discuss the transition plan clearly.</td>
+<td colspan="2">Develop and document a comprehensive communication strategy clearly aligned with project timelines, roles, and responsibilities.<br><br>Regularly update communication outcomes within governance structures, ensuring transparency, feedback loops, and clear accountability.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1K9g47dyFQVQ6O4E61NujrIcdm2tOO1KU5PhSb_cBXp4/edit?tab=t.0">Regulatory Communication Plan</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1K9g47dyFQVQ6O4E61NujrIcdm2tOO1KU5PhSb_cBXp4/edit?tab=t.0">Regulatory Communication Plan</a></td>
 </tr>
 <tr>
 <td><strong>b. Establish training for upcoming regulatory changes within timelines.</strong></td>
@@ -4808,68 +4780,57 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Conduct informal assessments to identify critical areas where training is most urgently needed.<br><br>Set up basic sessions or informal meetings to discuss key regulatory changes and initial implications.</td>
+<td colspan="2">Plan periodic (e.g., quarterly) training sessions specifically focused on upcoming regulations.<br><br>Establish simple documentation (attendance logs, brief feedback forms) to ensure participation and basic knowledge retention.</td>
+<td colspan="2">Create detailed training plans with clearly defined timelines, objectives, and roles and responsibilities.<br><br>Systematically track training participation, measure effectiveness through assessments, and use feedback for continuous refinement and improvement of training content and delivery.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1WoHCK_0GHI7CFHURPtDDszfZxQZ1y17CJokxeZaa18M/edit?tab=t.0">Regulatory Training Plan</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>c. Assess the impact of regulations on the vendor.</strong></td>
-<td>- Vendor impact not considered<br>- Minimal or no engagement</td>
-<td>-</td>
-<td>- Partial engagement with vendors<br>- Some documented assessments or feedback loops</td>
-<td>-</td>
-<td>- Proactive, collaborative vendor assessments<br>- Continuous monitoring of vendor compliance & alignment</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1WdhuzuO3oYphUTxnqJL_lbm3UHoiTO8yZIHLA2byxAU/edit?tab=t.0">Regulatory Vendor Documentation</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1WoHCK_0GHI7CFHURPtDDszfZxQZ1y17CJokxeZaa18M/edit?tab=t.0">Regulatory Training Plan</a></td>
 </tr>
 </tbody>
 </table>
 
-#### Checklist
+### Checklist
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Communicate the transition plan and details with the IT leadership and oversight committee.</strong></td>
-<td>- Example <a href="https://docs.google.com/document/d/1ma9Nfxj3jcGrlHA9S3n6i4gYExNxvRBulZ6UvZ5yun4/edit?tab=t.0">Transition Plan</a></td>
+<td></td>
+<td>Example <a href="https://docs.google.com/document/d/1ma9Nfxj3jcGrlHA9S3n6i4gYExNxvRBulZ6UvZ5yun4/edit?tab=t.0">Transition Plan</a></td>
 </tr>
 <tr>
 <td><strong>Has the IT organisation been trained on the new and updated regulatory changes, and what is required to fulfil the timeline?</strong></td>
-<td>- <strong>NO</strong> → Create detailed training plans of all changes, schedule and deliver training.</td>
+<td>-</td>
+<td><strong>NO</strong> → Create detailed training plans of all changes, schedule and deliver training.</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Continue with the next step</td>
+<td>-</td>
+<td><strong>YES</strong> → Continue with the next step</td>
 </tr>
 <tr>
 <td><strong>Do the new or updated regulations have an impact on vendors?</strong></td>
-<td>- <strong>NO</strong> → Move to stage 26.</td>
+<td>-</td>
+<td><strong>NO</strong> → Move to stage 26.</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES →</strong> Communicate impact to vendors and establish a monitoring process.<br>- Create the documentation / content that is to be shared with the vendors<br>- Share the plans and the timelines with the vendors<br>- Establish the governance process to monitor the vendors</td>
+<td>-</td>
+<td><strong>YES →</strong> Communicate impact to vendors and establish a monitoring process.<br>- Create the documentation / content that is to be shared with the vendors<br>- Share the plans and the timelines with the vendors<br>- Establish the governance process to monitor the vendors</td>
 </tr>
 </tbody>
 </table>
 
-### Stage 26 -- Business Delivery
+## Stage 26 -- Business Delivery
 
 Compliance and regulations are critical components of organisational sustainability efforts--- ensuring that companies meet legal requirements, disclose their sustainability measures, and align these efforts with broader business objectives. These strategies involve implementing governance structures, adhering to environmental regulations, and proactively assessing new regulatory developments. By conducting gap analyses, managing stakeholder relationships, and ensuring transparent reporting, organisations can address deficiencies and foster accountability. Effective communication and integration of compliance measures in business operations enable companies to enhance their environmental performance while achieving operational excellence and long-term value creation.
 
@@ -4877,22 +4838,17 @@ Integrating compliance into business delivery ensures sustainability objectives 
 
 *Key Personas -- Board of Directors, Executive Leadership Team, ESG Leader(s), CSR Team, IT Leader(s), Internal Regulators, Compliance Officer, Compliance Team, Procurement Team, Internal Auditor, Product Manager*
 
-#### Capability Assessment for Stage 26 - Business Delivery
+### Capability Assessment for Stage 26 - Business Delivery
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Business Delivery</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Business Delivery</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
@@ -4908,15 +4864,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate informal coordination.<br><br>Document initial integration efforts</td>
+<td colspan="2">Develop basic guidelines.<br><br>Schedule regular reviews</td>
+<td colspan="2">Formalise comprehensive approach<br><br>Embed integration into governance</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1njGK2UDhlNS-NiQ9BXgZQ4xV61lWOBLkDAZg-VT5Mtw/edit?tab=t.0">IT Regulatory Integration</a></td>
 </tr>
 <tr>
 <td><strong>b. Embed the regulatory changes into existing processes.</strong></td>
@@ -4929,15 +4883,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate basic process reviews.<br><br>Raise initial awareness.</td>
+<td colspan="2">Document initial process changes.<br><br>Conduct basic training sessions.</td>
+<td colspan="2">Establish detailed integration guidelines.<br><br>Regularly review and refine processes.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1G-oD37DYuERRdTuR2XYdshlEEulP65KNzKo1OpVLrpw/edit?tab=t.0">Embedding Regulatory Changes</a></td>
 </tr>
 <tr>
 <td><strong>c. Split the regulations across the scope emissions.</strong></td>
@@ -4950,15 +4902,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate scope awareness.<br><br>Identify basic emission sources.</td>
+<td colspan="2">Define and document scopes.<br><br>Implement initial data collection.</td>
+<td colspan="2">Comprehensive emissions mapping.<br><br>Integrate continuous data updates.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1LGh9oosfBcLeqEYjEkKyzuFKULVhI9u4p_9sZBcBjsM/edit?tab=t.0">Scope Emissions Mapping</a></td>
 </tr>
 <tr>
 <td><strong>d. Analyse database for carbon usage metrics with current IT sustainability OKRs/KPIs & required changes.</strong></td>
@@ -4971,15 +4921,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate basic data review.<br><br>Establish initial linkages.</td>
+<td colspan="2">Formalise regular analysis.<br><br>Strengthen alignment.</td>
+<td colspan="2">Implement automated analytics.<br><br>Integrate continuous improvement.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1T8tqmUf2qOxPJDkVGSnjMYjfDUTqJbMd0nNCiIVDdns/edit?tab=t.0#heading=h.t7bnolaa32x2">Carbon Metrics Analysis</a></td>
 </tr>
 <tr>
 <td><strong>e. Analyse additional data requirements.</strong></td>
@@ -4992,15 +4940,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate an informal data review.<br><br>Document initial observations.</td>
+<td colspan="2">Conduct a structured gap assessment.<br><br>Develop an initial acquisition plan.</td>
+<td colspan="2">Implement continuous data gap analysis.<br><br>Develop a robust acquisition strategy.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1IddBaHR1aygYvNBpNZLXw6VbdOomcHKYYv5sxDSTDYM/edit?tab=t.0">Data Requirements Analysis</a></td>
 </tr>
 <tr>
 <td><strong>f. Plan changes to IT's sustainable OKRs/KPIs.</strong></td>
@@ -5013,15 +4959,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initial awareness discussions.<br><br>Identify initial sustainability goals.</td>
+<td colspan="2">Conduct stakeholder workshops.<br><br>Document preliminary revisions.</td>
+<td colspan="2">Comprehensive stakeholder engagement.<br><br>Develop robust revised OKRs/KPIs</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1mhJVmVnHTFnu3ccBt0HhkYu74MOToaO9tb_2Ut0RBms/edit?tab=t.0">IT Sustainability OKRs Guide</a></td>
 </tr>
 <tr>
 <td><strong>g. Establish a process for the IT organisation to review regulatory data requirements.</strong></td>
@@ -5034,15 +4978,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Initiate informal reviews.<br><br>Document initial observations.</td>
+<td colspan="2">Establish regular review sessions.<br><br>Document review findings.</td>
+<td colspan="2">Develop comprehensive review framework.<br><br>Integrate with governance and improvement.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1I5raJrsivGBbUuppXB_110qcqEFmyfsne8yeP4nXE88/edit?tab=t.0#heading=h.17bcw7nk2vsc">IT Regulatory Data Review</a></td>
 </tr>
 <tr>
 <td><strong>h. Change methodologies & processes based on regulatory requirements.</strong></td>
@@ -5055,73 +4997,80 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Identify initial compliance needs.<br><br>Start initial documentation.</td>
+<td colspan="2">Conduct structured reviews.<br><br>Document partial changes.</td>
+<td colspan="2">Develop comprehensive updates.<br><br>Implement regular compliance reviews</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1TlIA3WlSz9nVCCIwb02o0R4bW1ypwSZ8ygzPnY3es1k/edit?tab=t.0">Regulatory Change Guide</a><br><br><a href="https://docs.google.com/document/d/1t_IUEklFFOnEMfotc9ZKljsrIcOgObCexSeqtxgzeFg/edit?tab=t.0">Public Regulatory Reports</a><br><br><a href="https://docs.google.com/document/d/1DxyNMn2vrpvXcfbnacUglqcIL8L4FUSHngqK6dp_Hx0/edit?tab=t.0">Internal Regulatory Reports</a></td>
 </tr>
 </tbody>
 </table>
 
-**Outputs:**
+### Checklist
 
-a. Public Regulatory Reports. Example [Public Regulatory Reports](https://docs.google.com/document/d/1t_IUEklFFOnEMfotc9ZKljsrIcOgObCexSeqtxgzeFg/edit?tab=t.0)
-
-b. Internal Regulatory Reports. Example [Internal Regulatory Reports](https://docs.google.com/document/d/1DxyNMn2vrpvXcfbnacUglqcIL8L4FUSHngqK6dp_Hx0/edit?tab=t.0)
-
-#### Checklist
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Response</th>
+<th>Action</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td><strong>Does the IT organisation have an approach to embed the new or updated changes into their IT operations?</strong></td>
-<td>- <strong>NO</strong> → Embed the regulatory changes and approaches into key processes and forums</td>
+<td>-</td>
+<td><strong>NO</strong> → Embed the regulatory changes and approaches into key processes and forums</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Separate the regulations based on hosting types</td>
+<td>-</td>
+<td><strong>YES</strong> → Separate the regulations based on hosting types</td>
 </tr>
 <tr>
 <td><strong>Do the new or updated regulations need additional data for energy/carbon emissions?</strong></td>
-<td>- <strong>NO</strong> → Continue to the next step</td>
+<td>-</td>
+<td><strong>NO</strong> → Continue to the next step</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Further analysis to establish if data is available and impact on current processes<br>- Add the additional data requirements in the implementation pillar</td>
+<td>-</td>
+<td><strong>YES</strong> → Further analysis to establish if data is available and impact on current processes<br>- Add the additional data requirements in the implementation pillar</td>
 </tr>
 <tr>
-<td><strong>Do the current IT sustainable OKR's and KPI's for energy and carbon usage need to be reviewed and updated based on the new or updated regulations?</strong></td>
-<td>- <strong>NO</strong> → Continue to the next step</td>
+<td><strong>Do the current IT sustainable OKR\'s and KPI\'s for energy and carbon usage need to be reviewed and updated based on the new or updated regulations?</strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Continue to the next step</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Update OKR's and KPI's across pillars.<br>- Strategy discussion to update the OKR's and KPIs<br>- Update the OKR's and KPI's in the implementation pillar<br>- Update the OKR's and KPI's in the operational pillar</td>
+<td>-</td>
+<td><strong>YES</strong> → Update OKR's and KPI's across pillars.<br>- Strategy discussion to update the OKR\'s and KPIs<br>- Update the OKR\'s and KPI\'s in the implementation pillar<br>- Update the OKR\'s and KPI\'s in the operational pillar</td>
 </tr>
 <tr>
 <td><strong>Does the organisation have a systematic review of the data required for regulations?</strong></td>
-<td>- <strong>NO</strong> → Set up a process to review the data for the regulations</td>
+<td>-</td>
+<td><strong>NO</strong> → Set up a process to review the data for the regulations</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Continue to the next step</td>
+<td>-</td>
+<td><strong>YES</strong> → Continue to the next step</td>
 </tr>
 <tr>
-<td><strong>Do the data, methodologies, and processes for the regulations require changing?</strong></td>
-<td>- <strong>NO</strong> → Review with senior leadership team before publishing to regulators.<br>- Publish and incorporate feedback from regulators into future compliance pillar cycles.</td>
+<td><strong>Do the data, methodologies, and processes for the regulations require changing? </strong></td>
+<td>-</td>
+<td><strong>NO</strong> → Review with senior leadership team before publishing to regulators.<br>- Publish and incorporate feedback from regulators into future compliance pillar cycles.</td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Make the changes and remodel, recalculate the data<br>- Update the data and methodologies or processes in the implementation pillar<br>- Update the data and methodologies or processes in the operational pillar</td>
+<td>-</td>
+<td><strong>YES</strong> → Make the changes and remodel, recalculate the data<br>- Update the data and methodologies or processes in the implementation pillar<br>- Update the data and methodologies or processes in the operational pillar</td>
 </tr>
 </tbody>
 </table>
-<tr>
-<td>
 
 ## Appendix
 
