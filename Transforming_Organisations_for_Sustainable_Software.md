@@ -2713,52 +2713,45 @@ Key areas of focus include the identification of patterns and trends to provide 
 
 #### Capability Assessment for Stage 11 - Trend Analysis
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
 <thead>
 <tr>
-<th rowspan="2">Key steps in Trend Analysis</th>
-<th colspan="2">Basic Maturity</th>
-<th colspan="2">Developing Maturity</th>
-<th colspan="2">Advanced Maturity</th>
-</tr>
-<tr>
-<th>Description</th>
+<th>Key steps in Trend Analysis</th>
+<th>Basic Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Developing Maturity</th>
 <th>Tick if done</th>
-<th>Description</th>
+<th>Advanced Maturity</th>
 <th>Tick if done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>a. Continuously check if baseline data in carbon temporal database for software applications needs further calculations.</strong></td>
-<td>- No ongoing checks<br>- Updates ad hoc</td>
+<td>- No ongoing checks<br><br>- Updates ad hoc</td>
 <td>-</td>
-<td>- Periodic reviews<br>- Some triggers for recalculation</td>
+<td>- Periodic reviews<br><br>- Some triggers for recalculation</td>
 <td>-</td>
-<td>- Automated, continuous checks<br>- Well-defined triggers for updates</td>
+<td>- Automated, continuous checks<br><br>- Well-defined triggers for updates</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Name a "Carbon-Calc Custodian." Give one data-platform engineer explicit ownership for factor libraries and formulas.<br><br>Create a Change-Log Register. Simple spreadsheet (date, source, factor, system affected) where any update request is logged.</td>
-<td colspan="2">Define trigger events v1. Document and publish the list: annual IEA grid factors, DEFRA release, provider (AWS CCFT/Azure EID) API change, new GHG-Protocol guidance, new hardware emission factors.<br><br>Implement a "Recalc Job on merge."</td>
+<td colspan="2">Define trigger events v1. Document and publish the list: annual IEA grid factors, provider (AWS CCFT/Azure EID) API change, new GHG-Protocol guidance, new hardware emission factors.<br><br>Implement a "Recalc Job on merge."</td>
 <td colspan="2">Automate update detection & recalculation pipeline.<br><br>Establish a monthly methodology board.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1GHidUxZay_u6K_KaFPOrgxdkTH0iPYs1TAa1Di5UEGE/edit?tab=t.0">Progressive Approach to Keep Carbon Emission Calculations Current</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1GHidUxZay_u6K_KaFPOrgxdkTH0iPYs1TAa1Di5UEGE/edit?tab=t.0">Progressive Approach to Keep Carbon Emission Calculations Current</a> (Implementation - pillar - Stage 10)</td>
 </tr>
 <tr>
 <td><strong>b. Provide approaches to manage trade-offs between carbon and other priorities to IT teams.</strong></td>
-<td>- No formal guidance<br>- Carbon vs. other priorities ad hoc</td>
+<td>- No formal guidance<br><br>- Carbon vs. other priorities ad hoc</td>
 <td>-</td>
-<td>- Some documented trade-off strategies<br>- Limited stakeholder training</td>
+<td>- Some documented trade-off strategies<br><br>- Limited stakeholder training</td>
 <td>-</td>
-<td>- Comprehensive frameworks<br>- Consistently applied & reviewed by all teams</td>
+<td>- Comprehensive frameworks<br><br>- Consistently applied & reviewed by all teams</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2769,38 +2762,34 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1g4nzQi2hY0ExK232fZEOg2_bYgKoA_Zq7YiYLJyL12E/edit?tab=t.0">Trade Off Decisions</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1g4nzQi2hY0ExK232fZEOg2_bYgKoA_Zq7YiYLJyL12E/edit?tab=t.0">Trade Off Decisions</a></td>
 </tr>
 <tr>
 <td><strong>c. Implement or embed carbon considerations into SRE practices.</strong></td>
-<td>- No carbon focus in SRE<br>- SRE purely operational</td>
+<td>- No carbon focus in SRE<br><br>- SRE purely operational</td>
 <td>-</td>
-<td>- Some carbon-related SRE metrics<br>- Partial alignment with SRE workflows</td>
+<td>- Some carbon-related SRE metrics<br><br>- Partial alignment with SRE workflows</td>
 <td>-</td>
-<td>- Fully integrated carbon-focused SRE<br>- Carbon metrics are core SRE KPIs</td>
+<td>- Fully integrated carbon-focused SRE<br><br>- Carbon metrics are core SRE KPIs</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Add Carbon Telemetry to "Four Golden Signals." Start collecting kWh / CPU-power for every service alongside latency, traffic, errors, saturation.<br><br>Create a "Green Incident Tag." Whenever an incident leads to excess compute (e.g., runaway autoscale), log it with a carbon tag so you can measure wasted CO₂e.</td>
-<td colspan="2">Define Carbon SLOs per Service Tier (e.g., "≤ 0.3 g CO₂e/request" for Tier-1 APIs); surface them in the same SLO dashboard as reliability targets.<br><br>Run Carbon Post-Mortems. Include estimated extra CO₂e emitted during major incidents; add 'energy fix-rate' tasks to the engineering backlog.</td>
+<td colspan="2">Define Carbon SLOs per Service Tier (e.g., "≤ 0.3 g CO₂e /request" for Tier-1 APIs); surface them in the same SLO dashboard as reliability targets.<br><br>Run Carbon Post-Mortems. Include estimated extra CO₂e emitted during major incidents; add 'energy fix-rate' tasks to the engineering backlog.</td>
 <td colspan="2">Automate carbon budgets in error budgets. If a service exceeds its CO₂e budget, trigger the same freeze on feature releases as for reliability breaches.<br><br>Carbon-aware autoscaling & rollouts.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1mkyawz725Cfwfh6Rf2-fAGLsCdXZli_xJgUswdbQ0iM/edit?tab=t.0">Site Reliability Engineering Approaches</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1mkyawz725Cfwfh6Rf2-fAGLsCdXZli_xJgUswdbQ0iM/edit?tab=t.0">Site Reliability Engineering Approaches</a></td>
 </tr>
 <tr>
 <td><strong>d. Continuously provide recommendations for trade-off strategies.</strong></td>
-<td>- No review mechanism<br>- Static or outdated guidelines</td>
+<td>- No review mechanism<br><br>- Static or outdated guidelines</td>
 <td>-</td>
-<td>- Regular updates<br>- Some stakeholder feedback considered</td>
+<td>- Regular updates<br><br>- Some stakeholder feedback considered</td>
 <td>-</td>
-<td>- Ongoing enhancement<br>- Proactive engagement with all stakeholders</td>
+<td>- Ongoing enhancement<br><br>- Proactive engagement with all stakeholders</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2811,17 +2800,15 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/18ax80o6SGTqa8N4QLPqmnneiHs2VHpB8ga44H3OabQI/edit?tab=t.0">Continuous Trade-off Management Framework</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/18ax80o6SGTqa8N4QLPqmnneiHs2VHpB8ga44H3OabQI/edit?tab=t.0">Continuous Trade-off Management Framework</a></td>
 </tr>
 <tr>
 <td><strong>e. Establish governance policies to monitor baseline data, data accuracy, and reviewing standards.</strong></td>
-<td>- No formal governance<br>- Little or no data validation</td>
+<td>- No formal governance<br><br>- Little or no data validation</td>
 <td>-</td>
-<td>- Some governance rules<br>- Inconsistent enforcement</td>
+<td>- Some governance rules<br><br>- Inconsistent enforcement</td>
 <td>-</td>
-<td>- Well-defined governance<br>- Automated checks & continuous audits</td>
+<td>- Well-defined governance<br><br>- Automated checks & continuous audits</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2832,17 +2819,15 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1FOwglA-6jR9jTDOENQSX57NQ6gJ54BPu_kXBlNBxmeA/edit?tab=t.0">Governance Policy Approach</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1FOwglA-6jR9jTDOENQSX57NQ6gJ54BPu_kXBlNBxmeA/edit?tab=t.0">Governance Policy Approach</a></td>
 </tr>
 <tr>
 <td><strong>f. Establish a culture of continuous improvement.</strong></td>
-<td>- No formal improvement process<br>- Reactive approach</td>
+<td>- No formal improvement process<br><br>- Reactive approach</td>
 <td>-</td>
-<td>- Some improvement initiatives<br>- Periodic retrospectives</td>
+<td>- Some improvement initiatives<br><br>- Periodic retrospectives</td>
 <td>-</td>
-<td>- Embedded in organisational DNA<br>- Ongoing feedback loops</td>
+<td>- Embedded in organisational DNA<br><br>- Ongoing feedback loops</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2853,127 +2838,67 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1TA9AbzfKnyBCgCncRXdeAx6N8tM3C3MvTGD8CBVLtu8/edit?tab=t.0">Roadmap to Embed a Culture of Continuous Improvement</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1TA9AbzfKnyBCgCncRXdeAx6N8tM3C3MvTGD8CBVLtu8/edit?tab=t.0">Roadmap to Embed a Culture of Continuous Improvement</a></td>
 </tr>
 <tr>
 <td><strong>g. Communicate the dashboard and any carbon scoring for software applications.</strong></td>
-<td>- No dashboards or scoring<br>- Internal knowledge only</td>
+<td>- No dashboards or scoring<br><br>- Internal knowledge only</td>
 <td>-</td>
-<td>- Basic dashboard<br>- Limited distribution or detail</td>
+<td>- Basic dashboard<br><br>- Limited distribution or detail</td>
 <td>-</td>
-<td>- Comprehensive, real-time dashboards<br>- Broad visibility across teams</td>
+<td>- Comprehensive, real-time dashboards<br><br>- Broad visibility across teams</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2">Define a "Carbon Score" metric (v0).<br><br>Prototype a Private Dashboard.</td>
+<td colspan="2">Define a "Carbon Score" metric (v0).<br><br>Prototype a private dashboard.</td>
 <td colspan="2">Publish to a wider audience<br><br>Add drill-down & context, include filters (team, service) and a tooltip that explains how the carbon score is calculated and why it matters.</td>
 <td colspan="2">Integrate with SSO & role based views, ensure every employee sees app-level scores in under three clicks, with exec summary tiles feeding OKR review decks automatically.<br><br>2. Enable alerting & training.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1OEsT9vHRunkLabOkarxrpu6kvfrzLF1G_o69-p8cfBg/edit?tab=t.0">Rollout Approach for Carbon Scoring Dashboards</a><br><br><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1OEsT9vHRunkLabOkarxrpu6kvfrzLF1G_o69-p8cfBg/edit?tab=t.0">Rollout Approach for Carbon Scoring Dashboards</a><br><br><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a> (Implementation Pillar - Stage 8)<br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotnkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a> (Strategy pillar - Stage 1)</td>
 </tr>
 <tr>
 <td><strong>h. Review carbon budgeting techniques.</strong></td>
-<td>- No budgeting approach<br>- Ad hoc spending or tracking</td>
+<td>- No budgeting approach<br><br>- Ad hoc spending or tracking</td>
 <td>-</td>
-<td>- Initial exploration of carbon budgets<br>- Some pilot programs</td>
+<td>- Initial exploration of carbon budgets<br><br>- Some pilot programs</td>
 <td>-</td>
-<td>- Established carbon budgeting<br>- Aligned with financial budgets & goals</td>
+<td>- Established carbon budgeting<br><br>- Aligned with financial budgets & goals</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Baseline, categorise and quantify current CO₂e by cost-centre (cloud, data-centre, devices) and publish a one-page "where our carbon money goes."<br><br>Assign a carbon budget owner -- name Finance + Sustainability co-owners to draft the first budgeting method (tons, intensity, or internal carbon price).</td>
-<td colspan="2">Run a pilot carbon budget -- select one product or BU, set an annual ton-CO₂e allowance alongside OPEX budget; track monthly in the same dashboard.<br><br>Introduce an internal carbon price (ICP) sandbox -- apply a notional $/tCO₂e to pilot spending and review cost-plus-carbon reports with stakeholders.</td>
+<td colspan="2">Run a pilot carbon budget -- select one product, set an annual ton-CO₂e allowance alongside OPEX budget; track monthly in the same dashboard.<br><br>Introduce an internal carbon price (ICP) sandbox -- apply a notional $/tCO₂e to pilot spending and review cost-plus-carbon reports with stakeholders.</td>
 <td colspan="2">Embed carbon budgets in annual planning -- every BU submits both financial and ton-CO₂e budgets; Finance system locks them at year start and reports variances quarterly.<br><br>Automate variance alerts & charge-backs.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/11vEt7loyAtplWd0xmE8l26E7irAnFxb8uZA8N8V8Vak/edit?tab=t.0">Introducing and Maturing Carbon Budgeting</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/11vEt7loyAtplWd0xmE8l26E7irAnFxb8uZA8N8V8Vak/edit?tab=t.0">Introducing and Maturing Carbon Budgeting</a></td>
 </tr>
 <tr>
 <td><strong>i. Assess whether the IT organization can establish carbon budgets for IT operations.</strong></td>
-<td>- No formal feasibility study<br>- Unclear ownership or accountability</td>
+<td>- No formal feasibility study<br><br>- Unclear ownership or accountability</td>
 <td>-</td>
-<td>- Preliminary assessment<br>- Some potential budget outlines</td>
+<td>- Preliminary assessment<br><br>- Some potential budget outlines</td>
 <td>-</td>
-<td>- Clear carbon budgeting framework<br>- Fully integrated with operational decisions</td>
+<td>- Clear carbon budgeting framework<br><br>- Fully integrated with operational decisions</td>
 <td>-</td>
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Nominate a carbon budget task force -- Finance (CFO delegate), Sustainability, Cloud/Infra Ops; publish a one-paragraph mandate.<br><br>Run a rapid feasibility scan.</td>
-<td colspan="2">Design budget scenarios, absolute-tonnes, intensity (g CO₂e/ $ revenue), or Internal Carbon Price; model cost & behaviour impact for two pilot BUs.<br><br>Pilot approval & kick-off -- secure exec sign-off for a six-month pilot: set a carbon allowance alongside OPEX, track monthly variances in the same dashboard.</td>
+<td colspan="2">Design budget scenarios, absolute-tonnes, intensity (g CO₂e/$ revenue), or Internal Carbon Price; model cost & behaviour impact for two pilot BUs.<br><br>Pilot approval & kick-off -- secure exec sign-off for a six-month pilot: set a carbon allowance alongside OPEX, track monthly variances in the same dashboard.</td>
 <td colspan="2">Embed carbon budgets in annual planning -- every BU submits both financial and ton-CO₂e budgets; Finance system locks them at year start and reports variances quarterly.<br><br>Automate variance alerts & charge-backs.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1hA9MbcG4l-luFO3vbHyqKko3jpTsw3qyE2XsneKcmA8/edit?tab=t.0">Carbon Budgets</a></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1hA9MbcG4l-luFO3vbHyqKko3jpTsw3qyE2XsneKcmA8/edit?tab=t.0">Carbon Budgets</a></td>
 </tr>
 </tbody>
 </table>
-
-#### Checklist
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td><strong>After the baseline review, does the SME's require additional calculations of the carbon emissions?</strong></td>
-<td>- <strong>NO</strong> → Continue with next steps</td>
-</tr>
-<tr>
-<td></td>
-<td>- <strong>YES</strong> → Determine the additional calculations and change processes, data, and tools to accommodate the changes</td>
-</tr>
-<tr>
-<td><strong>Does the organisation have practices for site reliability engineering?</strong></td>
-<td>- <strong>NO</strong> → Initiate discussions to set up site reliability engineering practices. Example - <a href="https://docs.google.com/document/d/1mkyawz725Cfwfh6Rf2-fAGLsCdXZli_xJgUswdbQ0iM/edit?tab=t.0">Site Reliability Engineering Approaches</a></td>
-</tr>
-<tr>
-<td></td>
-<td>- <strong>YES</strong> → Continue with next steps</td>
-</tr>
-<tr>
-<td><strong>Can the IT teams fulfil the IT sustainable strategy and fulfil business, cost, delivery outcomes and manage trade-offs?</strong></td>
-<td>- <strong>NO</strong> → Discuss with management the trade-offs and next steps.</td>
-</tr>
-<tr>
-<td></td>
-<td>- <strong>YES</strong> → Continue with next steps</td>
-</tr>
-<tr>
-<td><strong>Are there internal governance policies to monitor progress against baseline accuracy and address breaches of standards?</strong></td>
-<td>- <strong>NO</strong> → Set up governance policies<br><br>Example - <a href="https://docs.google.com/document/d/1FOwglA-6jR9jTDOENQSX57NQ6gJ54BPu_kXBlNBxmeA/edit?tab=t.0">Governance Policy Approach</a></td>
-</tr>
-<tr>
-<td></td>
-<td>- <strong>YES</strong> → Continue with next steps</td>
-</tr>
-<tr>
-<td><strong>Is the IT organisation mature enough to introduce carbon budgeting processes or improve them?</strong></td>
-<td>- <strong>NO</strong> → Continue with next steps</td>
-</tr>
-<tr>
-<td></td>
-<td>- <strong>YES</strong> → Carbon Budgets - Example <a href="https://docs.google.com/document/d/1hA9MbcG4l-luFO3vbHyqKko3jpTsw3qyE2XsneKcmA8/edit?tab=t.0">Carbon Budgets</a></td>
-</tr>
-</tbody>
-</table>
-# Operational Pillar
-
-Operational strategies within organisations are essential for maximising overall performance, advancing sustainability initiatives, and achieving key business objectives in a competitive and rapidly evolving landscape. These strategies embrace a comprehensive range of methods, frameworks, and practices aimed at enhancing efficiency and effectiveness across various operational domains while aligning with broader organisational goals. By integrating sustainability into operational strategies, organisations can reduce their environmental impacts, drive innovation, create value for stakeholders, and improve resilience in the face of regulatory, market, and societal changes.
-
-An operational strategy is a vital framework for enhancing organisational performance, driving sustainability, and achieving key business objectives. It involves a coordinated set of practices and methods aimed at improving efficiency, effectiveness, and environmental responsibility across all operational areas. By lining up these parts with goals, an operational strategy encourages new ideas, adaptability, and value creation while lowering the impact on the environment. This feature helps a business succeed in the long term in a way that is both competitive and sustainable. This pillar will continuously evolve based on the strategy and implementation pillar.
 
 ### Stage 12 -- Decision-Making Tools
 
