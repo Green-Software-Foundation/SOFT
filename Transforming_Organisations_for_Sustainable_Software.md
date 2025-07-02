@@ -5072,9 +5072,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-## Appendix
-
-### List of all the Example Documents
+## Appendix - List of all the Example Documents
 
 <table>
 <thead>
@@ -5821,7 +5819,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Strategy Pillar Personas
+### Appendix - Strategy Pillar Personas
 
 <table>
 <thead>
@@ -5879,7 +5877,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Implementation Pillar Personas
+### Appendix - Implementation Pillar Personas
 
 <table>
 <thead>
@@ -5972,7 +5970,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Operational Pillar Personas
+### Appendix - Operational Pillar Personas
 
 <table>
 <thead>
@@ -6121,7 +6119,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Compliance and Regulations Pillar Personas
+### Appendix - Compliance and Regulations Pillar Personas
 
 <table>
 <thead>
