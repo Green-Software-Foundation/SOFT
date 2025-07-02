@@ -173,15 +173,15 @@ In the context of an organisation, the strategy pillar refers to a comprehensive
 
 This pillar captures five key stages that propose essential questions and actions to consider. The following section highlights the key areas, the personas for each stage, and the underlying steps and outputs. The key focus is carbon emissions, but other metrics would follow the same process. The detailed framework and decision tree are available on request.
 
-### Stage 1 -- Strategy Formation
+### Stage 1 - Strategy Formation
 
 The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform their software sustainability. Many of the future steps will require governance decision-making based on relevance, priority, and magnitude of actions.
 
 Key areas of focus include analysis, planning, integration, and implementation, as well as inspection and adaptation.
 
-**Key Personas -- ESG Leader(s), Internal Regulations Manager(s), Leader(s), IT Leader(s)**
+**Key Personas - ESG Leader(s), Internal Regulations Manager(s), Leader(s), IT Leader(s)**
 
-### Capability Assessment for Stage 1 - Strategy Formation
+#### Capability Assessment for Stage 1 - Strategy Formation
 
 <table>
 <tr>
@@ -244,7 +244,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Initiate the analysis for internal and external factors for IT sustainability (carbon)</td>
 <td colspan="2">Assess with stakeholder to review the trends and continuously refine</td>
-<td colspan="2">Set up continuous monitoring and scenario based modelling based on use cases</td>
+<td colspan="2">Set up continuous monitoring and scenario-based modelling based on use cases</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
@@ -290,7 +290,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <tr>
@@ -345,15 +345,15 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 </table>
 
-## Stage 2 -- Principles
+### Stage 2 -- Principles
 
 The Principles Section involves the review and identification of relevant environmental metrics such as Energy Consumption, Water Usage, Electronic Waste, and Sustainable Procurement. Availability of data will inform which KPIs can be tracked and what missing data will need to be captured.
 
 Key areas of focus include the foundation for decision-making, strategy planning, and goal setting, which are embedded in the core principles, such as integrity, innovation, customer focus, and sustainability.
 
-**Key Personas -- IT Leader(s) and ESG Leader(s)**
+**Key Personas - IT Leader(s) and ESG Leader(s)**
 
-### Capability Assessment for Stage 2 - Principles
+#### Capability Assessment for Stage 2 - Principles
 
 <table>
 <tr>
@@ -462,7 +462,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <tr>
@@ -537,7 +537,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 </table>
 
-## Stage 3 -- Sustainable IT Objective Key Results (OKRs)
+### Stage 3 - Sustainable IT Objective Key Results (OKRs)
 
 The OKR section takes into account the business strategy, the importance of the metrics, and the availability of data from the previous sections. It then decides if certain performance metrics should be tracked as OKRs. The oversight committee/board from section 1 should be involved in the decision-making process.
 
@@ -545,7 +545,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 
 **Key Personas -- IT Leader(s), ESG Leader(s), Internal Auditor(s) and Finance manager(s)**
 
-### Capability Assessment for Stage 3 - Sustainability IT Objective Key Results (OKRs)
+#### Capability Assessment for Stage 3 - Sustainability IT Objective Key Results (OKRs)
 
 <table>
 <tr>
@@ -597,7 +597,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <tr>
@@ -647,9 +647,9 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 </table>
 
-## Stage 4 -- Training and Assessment
+### Stage 4 - Training and Assessment
 
-Effective training initiatives are essential for equipping teams with the necessary knowledge and competencies to embed and advance sustainable practices within an organisation. Such training programmes must clearly articulate sustainable development acronyms, relevant methodologies, best practices, and specific techniques to enable comprehensive understanding and effective implementation.
+Effective training initiatives are essential for equipping teams with the necessary knowledge and competencies to embed and advance sustainable practices within an organisation. Such training programmes must clearly articulate sustainable development acronyms, relevant methodologies, best practices, and specific techniques to enable a comprehensive understanding and effective implementation.
 
 Tracking the progress and effectiveness of training programmes is crucial. This includes maintaining detailed records of participation, gathering feedback from participants to evaluate training effectiveness, and assessing the ongoing application of knowledge and skills gained through training.
 
@@ -657,9 +657,9 @@ Complementing training efforts, regular assessments of an organisation's green m
 
 Key indicators of successful training and assessment programmes include participation statistics, qualitative feedback from training sessions, and quantitative scores derived from Green Maturity Matrix evaluations. Collectively, these metrics offer a comprehensive view of organisational readiness and progression towards sustainability goals.
 
-**Key Personas -- IT Leader(s) and ESG Leader(s)**
+**Key Personas - IT Leader(s) and ESG Leader(s)**
 
-### Capability Assessment for Stage 4 - Training and Assessment
+#### Capability Assessment for Stage 4 - Training and Assessment
 
 <table>
 <tr>
@@ -701,7 +701,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2">No tracking of number of individuals that have completed the training</td>
+<td colspan="2">No tracking of the number of individuals that have completed the training</td>
 <td colspan="2">Some monitoring of training data</td>
 <td colspan="2">Complete view of training statistics. Continuous updates to improve training and reporting.</td>
 </tr>
@@ -759,7 +759,7 @@ Key indicators of successful training and assessment programmes include particip
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">No or limited business impact and its impact on carbon (sustainability metrics)</td>
-<td colspan="2">Awareness of IT and its impact on carbon and business change. Further facilitation required to embed into business change processes.</td>
+<td colspan="2">Awareness of IT and its impact on carbon and business change. Further facilitation is required to embed into business change processes.</td>
 <td colspan="2">Robust approach of business change and its impact on carbon (sustainability metrics)</td>
 </tr>
 <tr>
@@ -778,7 +778,7 @@ Key indicators of successful training and assessment programmes include particip
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">No principles or awareness</td>
-<td colspan="2">Some principles exist but not applied in the organisation. Share and educate the green software principles. Keep the principles updated.</td>
+<td colspan="2">Some principles exist but are not applied in the organisation. Share and educate the green software principles. Keep the principles updated.</td>
 <td colspan="2">Comprehensive list of software principles and monitored throughout the software lifecycle. Continuously add new principles and re-educate the teams.</td>
 </tr>
 <tr>
@@ -787,7 +787,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <tr>
@@ -808,7 +808,7 @@ Key indicators of successful training and assessment programmes include particip
 <tr>
 <td><strong>Is the IT organisation educated to assess and reduce carbon emissions from software?</strong></td>
 <td>-</td>
-<td><strong>YES →</strong> the organisation should create a business impact assessment<br><br>Output: Write-up of business impact of green software for company</td>
+<td><strong>YES →</strong> the organisation should create a business impact assessment<br><br>Output: Write-up of business impact of green software for the company</td>
 </tr>
 <tr>
 <td></td>
@@ -822,15 +822,15 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 </table>
 
-## Stage 5 -- Measurement Targets
+### Stage 5 - Measurement Targets
 
 Key areas to focus include the measurement targets for KPI's and the ability to track progress and performance. The Measurement Targets section makes sure that the data being collected can be used to report to outside groups in a way that meets industry standards and to track progress against OKRs and introduce changes to the company's IT strategy that are sustainable.
 
 If all OKRs and KPIs are supported in the implementation and already available for use in IT operations, TOSS users can skip over the Implementation Pillar and move on to the Operations Pillar.
 
-**Key Personas -- IT Leader(s), ESG Leader(s), Internal Regulation Manager(s) and Internal Auditor(s)**
+**Key Personas - IT Leader(s), ESG Leader(s), Internal Regulation Manager(s) and Internal Auditor(s)**
 
-### Capability Assessment for Stage 5 - Measurement Targets
+#### Capability Assessment for Stage 5 - Measurement Targets
 
 <table>
 <tr>
@@ -892,7 +892,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">No agreed approach to categorise data centre (cloud) emissions</td>
-<td colspan="2">Emissions initiated based on on prem vs. cloud. Formal agreements required from all stakeholders</td>
+<td colspan="2">Emissions initiated based on on-prem vs. cloud. Formal agreements required from all stakeholders</td>
 <td colspan="2">All emissions are classified and widely shared throughout the organisation. Teams know how to capture the data to report the emissions. Continuously review the framework using standard definitions and approaches.</td>
 </tr>
 <tr>
@@ -968,7 +968,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 <tr>
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Open the discussions on how to track carbon emissions data</td>
-<td colspan="2">Identify the tools and processes that are available. Identify the gaps and provide recommendations what is required</td>
+<td colspan="2">Identify the tools and processes that are available. Identify the gaps and provide recommendations on what is required</td>
 <td colspan="2">The tracking process is complete. Data is available to all teams, and they can make decisions to reduce reductions. Determine the impact on costs, too.</td>
 </tr>
 <tr>
@@ -1015,7 +1015,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <tr>
@@ -1086,7 +1086,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </table>
 
 ## Implementation Pillar
-Implementation within organisations is the structured process of executing the IT sustainable strategy and implementing the tools and processes to meet the objectives and KPI’s. Key components of this process include refining and enhancing tools to support organisational processes; setting up systems for effective data collection; and ensuring accuracy through validation. Tracking progress involves monitoring key performance indicators (KPIs) and analysing the data to assess performances and make informed adjustments. Data aggregation then compiles information from various sources to provide a comprehensive view, while trend analysis identifies patterns over time to guide strategic planning. Together, these elements ensure the effective and efficient implementation of organisational objectives.
+Implementation within organisations is the structured process of executing the IT sustainable strategy and implementing the tools and processes to meet the objectives and KPI’s. Key components of this process include refining and enhancing tools to support organisational processes; setting up systems for effective data collection; and ensuring accuracy through validation. Tracking progress involves monitoring key performance indicators (KPIs) and analysing the data to assess performance and make informed adjustments. Data aggregation then compiles information from various sources to provide a comprehensive view, while trend analysis identifies patterns over time to guide strategic planning. Together, these elements ensure the effective and efficient implementation of organisational objectives.
 
 ### Stage 6 – Implementation / Refinement of Tooling
 
@@ -1094,7 +1094,7 @@ Key areas of focus include the evaluation and selection of tools.
 
 _Key Personas – IT Leader(s), Programme Manager(s), Procurement Manager(s), Finance Manager(s)_
 
-### Capability Assessment for Stage 6 - Implementation / Refinement of Tooling
+#### Capability Assessment for Stage 6 - Implementation / Refinement of Tooling
 
 <table>
 <tbody>
@@ -2180,7 +2180,7 @@ Data aggregation involves compiling carbon data from various sources to create a
 </table>
 <p>&nbsp;</p>
 
-### Stage 9 -- Validate Data Accuracy
+### Stage 9 - Validate Data Accuracy
 
 Validating data accuracy is essential to ensure the reliability of the data collected for carbon metrics. This type of validation involves checking the data for errors, inconsistencies, and completeness. Validation processes may include cross-referencing data with other sources, conducting audits, and using automated tools to detect anomalies. Accurate data is crucial for making sound decisions and assessments.
 
@@ -2240,7 +2240,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2">Name framework lead.<br><br>Agree taxonomy of software types - seek input from vendors and industry leads.<br><br>Draft baseline template</td>
+<td colspan="2">Name framework lead.<br><br>Agree on taxonomy of software types - seek input from vendors and industry leads.<br><br>Draft baseline template</td>
 <td colspan="2">Collect data from a pilot across the software categories.<br><br>Publish pilot report.</td>
 <td colspan="2">Train teams and certify usage.<br><br>Quarterly refresh and annual benchmark.</td>
 </tr>
@@ -2293,7 +2293,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 <td colspan="2"></td>
 </tr>
 <tr>
-<td><strong>e. Working with Compliance & Regulations team to review data.</strong></td>
+<td><strong>e. Working with the Compliance & Regulations team to review data.</strong></td>
 <td>- Minimal engagement<br>- Reactive to compliance needs</td>
 <td>-</td>
 <td>- Periodic reviews<br>- Some compliance alignment</td>
@@ -2364,7 +2364,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tbody>
 </table>
 
-### Stage 10 -- Tracking & Analysis Data Aggregation
+### Stage 10 - Tracking & Analysis Data Aggregation
 
 Tracking and analysis involve monitoring the progress and performance of implemented tools and processes for carbon. The process includes collecting data on key performance indicators (KPIs), analysing this data to assess performance against targets, and identifying trends or issues that need to be addressed. Effective tracking and analysis enable organisations to make informed decisions and necessary adjustments to their implementation plans.
 
@@ -2853,7 +2853,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 <td><strong>Action Steps</strong></td>
 <td colspan="2">Define a "Carbon Score" metric (v0).<br><br>Prototype a private dashboard.</td>
 <td colspan="2">Publish to a wider audience<br><br>Add drill-down & context, include filters (team, service) and a tooltip that explains how the carbon score is calculated and why it matters.</td>
-<td colspan="2">Integrate with SSO & role based views, ensure every employee sees app-level scores in under three clicks, with exec summary tiles feeding OKR review decks automatically.<br><br>2. Enable alerting & training.</td>
+<td colspan="2">Integrate with SSO & role-based views, ensure every employee sees app-level scores in under three clicks, with exec summary tiles feeding OKR review decks automatically.<br><br>2. Enable alerting & training.</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
@@ -2941,19 +2941,19 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tbody>
 </table>
 
-# Operational Pillar
+## Operational Pillar
 
 Operational strategies within organisations are essential for maximising overall performance, advancing sustainability initiatives, and achieving key business objectives in a competitive and rapidly evolving landscape. These strategies embrace a comprehensive range of methods, frameworks, and practices aimed at enhancing efficiency and effectiveness across various operational domains while aligning with broader organisational goals. By integrating sustainability into operational strategies, organisations can reduce their environmental impacts, drive innovation, create value for stakeholders, and improve resilience in the face of regulatory, market, and societal changes.
 
 An operational strategy is a vital framework for enhancing organisational performance, driving sustainability, and achieving key business objectives. It involves a coordinated set of practices and methods aimed at improving efficiency, effectiveness, and environmental responsibility across all operational areas. By lining up these parts with goals, an operational strategy encourages new ideas, adaptability, and value creation while lowering the impact on the environment. This feature helps a business succeed in the long term in a way that is both competitive and sustainable. This pillar will continuously evolve based on the strategy and implementation pillar.
 
-## Stage 12 -- Decision-Making Tools
+### Stage 12 - Decision-Making Tools
 
 Training on leveraging advanced analytics, data-driven frameworks, and scenario planning to support informed and strategic decisions that balance cost, performance, and sustainability goals.
 
 *Key Personas -- Technology Innovator, Programme Manager, Product Owner*
 
-### Capability Assessment for Stage 12 - Decision-Making Tools
+#### Capability Assessment for Stage 12 - Decision-Making Tools
 
 <table>
 <thead>
@@ -3028,7 +3028,7 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -3057,13 +3057,13 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tbody>
 </table>
 
-## Stage 13 -- Transformation Execution
+### Stage 13 -- Transformation Execution
 
 We are implementing structured methodologies and change management practices to effectively transition to more sustainable and efficient operational models, ensuring alignment with long-term strategic goals.
 
 *Key Personas -- Programme Manager, Product Owner, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Cloud Engineer*
 
-### Capability Assessment for Stage 13 - Transformation Execution
+#### Capability Assessment for Stage 13 - Transformation Execution
 
 <table>
 <thead>
@@ -3138,7 +3138,7 @@ We are implementing structured methodologies and change management practices to 
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -3162,13 +3162,13 @@ We are implementing structured methodologies and change management practices to 
 </tbody>
 </table>
 
-## Stage 14 -- Prioritisation of Energy-Efficient Solutions
+### Stage 14 -- Prioritisation of Energy-Efficient Solutions
 
 Identifying and prioritising initiatives that promote the use of energy-efficient technologies and processes, reducing both operational costs and carbon footprints.
 
 *Key Personas -- Programme Manager, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Cloud Engineer*
 
-### Capability Assessment for Stage 14 - Prioritisation of Energy-Efficient Solutions
+#### Capability Assessment for Stage 14 - Prioritisation of Energy-Efficient Solutions
 
 <table>
 <thead>
@@ -3224,7 +3224,7 @@ Identifying and prioritising initiatives that promote the use of energy-efficien
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -3253,13 +3253,13 @@ Identifying and prioritising initiatives that promote the use of energy-efficien
 </tbody>
 </table>
 
-## Stage 15 -- Integrate Eco-Friendly Practices
+### Stage 15 - Integrate Eco-Friendly Practices
 
 Embedding sustainability into day-to-day operations, including the adoption of circular economy principles, waste reduction practices, and sustainable procurement policies.
 
 *Key Personas -- Programme Manager, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Cloud Engineer*
 
-### Capability Assessment for Stage 15 - Integrate Eco-Friendly Practices
+#### Capability Assessment for Stage 15 - Integrate Eco-Friendly Practices
 
 <table>
 <thead>
@@ -3334,7 +3334,7 @@ Embedding sustainability into day-to-day operations, including the adoption of c
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -3388,13 +3388,13 @@ Embedding sustainability into day-to-day operations, including the adoption of c
 </tbody>
 </table>
 
-## Stage 16 - Green Non-Functional Requirements
+### Stage 16 - Green Non-Functional Requirements
 
 The process involves defining and incorporating environmental sustainability considerations, such as energy efficiency, carbon neutrality, and resource optimisation, in the design and development of IT systems, products, and infrastructure.
 
 *Key Personas -- Programme Manager, Project Manager, Business Analyst, DevOps Engineer, Data Architect, Cloud Architect, Infrastructure Engineer*
 
-### Capability Assessment for Stage 16 - Green Non-Functional Requirements
+#### Capability Assessment for Stage 16 - Green Non-Functional Requirements
 
 <table>
 <thead>
@@ -3640,7 +3640,7 @@ The process involves defining and incorporating environmental sustainability con
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -3669,13 +3669,13 @@ The process involves defining and incorporating environmental sustainability con
 </tbody>
 </table>
 
-## Stage 17 -- Energy / Carbon Metrics from Dev / Test Environments
+### Stage 17 - Energy / Carbon Metrics from Dev / Test Environments
 
 Establishing robust mechanisms to measure, monitor, and optimise the energy and carbon impact of development, testing, and operational processes, ensuring alignment with sustainability benchmarks.
 
 *Key Personas -- Project Manager, Architect, Cloud Architect, Data Architect, Infrastructure Engineer, Cloud Developer, Cloud Security Specialist, Cloud Operations Manager, SRE -- Cloud Engineer, Dev Ops Engineer*
 
-### Capability Assessment for Stage 17 - Energy / Carbon Metrics from Dev / Test Environments
+#### Capability Assessment for Stage 17 - Energy / Carbon Metrics from Dev / Test Environments
 
 <table>
 <thead>
@@ -3845,13 +3845,13 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tbody>
 </table>
 
-## Stage 18 -- Energy / Carbon Metrics from Decommissioned Plans
+### Stage 18 - Energy / Carbon Metrics from Decommissioned Plans
 
 Developing comprehensive decommissioning strategies that quantify and minimise the environmental impact of retiring outdated systems and infrastructure while maximising recycling and reuse opportunities.
 
 *Key Personas -- Project Manager, Architect, Cloud Architect, Data Architect, Infrastructure Engineer, Cloud Developer, Cloud Security Specialist, Cloud Operations Manager, SRE -- Cloud Engineer, Dev Ops Engineer*
 
-### Capability Assessment for Stage 8 - Energy / Carbon Metrics from Decommissioned Plans
+#### Capability Assessment for Stage 8 - Energy / Carbon Metrics from Decommissioned Plans
 
 <table>
 <thead>
@@ -3926,7 +3926,7 @@ Developing comprehensive decommissioning strategies that quantify and minimise t
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -3974,13 +3974,13 @@ Developing comprehensive decommissioning strategies that quantify and minimise t
 
 Compliance and regulations are essential for organisations to ensure transparency by disclosing sustainability efforts, meeting legal requirements, and aligning with business objectives. These strategies involve robust governance, proactive assessment of regulations, effective stakeholder management, and clear communication. By focusing on data gathering, auditing, and reporting, organisations can bridge gaps between current practices and regulatory demands, ensuring environmental accountability while driving business success.
 
-### Stage 19 -- Governance
+### Stage 19 - Governance
 
 Strong governance frameworks establish accountability and oversight, ensuring compliance strategies are effectively implemented and aligned with organisational goals.
 
 *Key Personas -- Board of Directors, Executive Leadership Team, internal Regulator, Compliance Officer, ESG Leader(s)*
 
-### Capability Assessment for Stage 19 - Governance
+#### Capability Assessment for Stage 19 - Governance
 
 <table>
 <thead>
@@ -4036,7 +4036,7 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4060,13 +4060,13 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 </tbody>
 </table>
 
-## Stage 20 -- Environmental Regulations
+### Stage 20 - Environmental Regulations
 
 Adherence to environmental regulations ensures organisations operate within legal boundaries while reducing their ecological footprints.
 
 *Key Personas -- Internal Regulator, Compliance Officer, Compliance Team, ESG Leader(s)*
 
-### Capability Assessment for Stage 20 - Environmental Regulations
+#### Capability Assessment for Stage 20 - Environmental Regulations
 
 <table>
 <thead>
@@ -4160,7 +4160,7 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4189,13 +4189,13 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tbody>
 </table>
 
-## Stage 21 -- Assessment of Upcoming Regulations
+### Stage 21 - Assessment of Upcoming Regulations
 
 Actively analysing upcoming regulations allows organisations to anticipate changes and adjust strategies to remain compliant and competitive.
 
 *Key Personas -- Internal Regulator, Compliance Officer, Compliance Team, ESG Leader(s)*
 
-### Capability Assessment for Stage 21 - Assessment of Upcoming Regulations
+#### Capability Assessment for Stage 21 - Assessment of Upcoming Regulations
 
 <table>
 <thead>
@@ -4327,7 +4327,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4356,13 +4356,13 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tbody>
 </table>
 
-## Stage 22 -- Gap Analysis
+### Stage 22 - Gap Analysis
 
 Conducting a gap analysis identifies areas where current practices fall short of regulatory requirements, enabling targeted improvements.
 
 *Key Personas - IT Leader(s), Internal Regulator, Compliance Officer, Compliance team, ESG Leader(s), Regulatory SMEs*
 
-### Capability Assessment for Stage 22 - Gap Analysis
+#### Capability Assessment for Stage 22 - Gap Analysis
 
 <table>
 <thead>
@@ -4475,7 +4475,7 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4514,13 +4514,13 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tbody>
 </table>
 
-## Stage 23 -- Stakeholder Management
+### Stage 23 - Stakeholder Management
 
 Effective stakeholder management fosters collaboration and trust, ensuring alignment between internal teams and external partners on sustainability initiatives.
 
 *Key Personas -- Board of Directors, Executive Leadership Team, ESG Leader(s), CSR Team, IT Leader(s)*
 
-### Capability Assessment for Stage 23 - Stakeholder Management
+#### Capability Assessment for Stage 23 - Stakeholder Management
 
 <table>
 <thead>
@@ -4595,7 +4595,7 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4619,13 +4619,13 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tbody>
 </table>
 
-## Stage 24 -- Environmental Regulatory Reporting
+### Stage 24 - Environmental Regulatory Reporting
 
 Environmental regulatory reporting in an organisation involves systematically capturing, analysing, and transparently disclosing environmental performance data to demonstrate compliance, accountability, and continuous improvement towards sustainability objectives.
 
 *Key Personas - Board of Directors, Executive Leadership Team, ESG Leader(s), CSR Team, Internal Regulators, Compliance Officer, IT Leader(s)*
 
-### Capability Assessment for Stage 24 - Environmental Regulatory Reporting
+#### Capability Assessment for Stage 24 - Environmental Regulatory Reporting
 
 <table>
 <thead>
@@ -4700,7 +4700,7 @@ Environmental regulatory reporting in an organisation involves systematically ca
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4729,13 +4729,13 @@ Environmental regulatory reporting in an organisation involves systematically ca
 </tbody>
 </table>
 
-## Stage 25 -- Communications
+### Stage 25 - Communications
 
 Clear communication strategies ensure that sustainability goals, progress, and challenges are effectively conveyed to all relevant stakeholders.
 
 *Key Personas -- ESG Leader(s), CSR Team, Internal Regulators, Compliance Officer, Regulatory SMEs*
 
-### Capability Assessment for Stage 25 - Communications
+#### Capability Assessment for Stage 25 - Communications
 
 <table>
 <thead>
@@ -4791,7 +4791,7 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -4830,7 +4830,7 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 </tbody>
 </table>
 
-## Stage 26 -- Business Delivery
+### Stage 26 - Business Delivery
 
 Compliance and regulations are critical components of organisational sustainability efforts--- ensuring that companies meet legal requirements, disclose their sustainability measures, and align these efforts with broader business objectives. These strategies involve implementing governance structures, adhering to environmental regulations, and proactively assessing new regulatory developments. By conducting gap analyses, managing stakeholder relationships, and ensuring transparent reporting, organisations can address deficiencies and foster accountability. Effective communication and integration of compliance measures in business operations enable companies to enhance their environmental performance while achieving operational excellence and long-term value creation.
 
@@ -4838,7 +4838,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 
 *Key Personas -- Board of Directors, Executive Leadership Team, ESG Leader(s), CSR Team, IT Leader(s), Internal Regulators, Compliance Officer, Compliance Team, Procurement Team, Internal Auditor, Product Manager*
 
-### Capability Assessment for Stage 26 - Business Delivery
+#### Capability Assessment for Stage 26 - Business Delivery
 
 <table>
 <thead>
@@ -5008,7 +5008,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Checklist
+#### Checklist
 
 <table>
 <thead>
@@ -5072,7 +5072,9 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-## Appendix - List of all the Example Documents
+## Appendix
+
+### List of all the Example Documents
 
 <table>
 <thead>
@@ -5819,7 +5821,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Appendix - Strategy Pillar Personas
+### Strategy Pillar Personas
 
 <table>
 <thead>
@@ -5877,7 +5879,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Appendix - Implementation Pillar Personas
+### Implementation Pillar Personas
 
 <table>
 <thead>
@@ -5970,7 +5972,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Appendix - Operational Pillar Personas
+### Operational Pillar Personas
 
 <table>
 <thead>
@@ -6119,7 +6121,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tbody>
 </table>
 
-### Appendix - Compliance and Regulations Pillar Personas
+### Compliance and Regulations Pillar Personas
 
 <table>
 <thead>
