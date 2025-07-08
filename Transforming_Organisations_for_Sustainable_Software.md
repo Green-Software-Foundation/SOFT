@@ -1,6 +1,6 @@
-# Transforming Organisations for Sustainable Software (TOSS) Framework
+# Sustainable Organisational Framework for Technology (SOFT)
 
-## Introduction to TOSS
+## Introduction to SOFT
 
 The Green Software Foundation has been building the methods, tools, standards, and patterns to help both developers and operational engineers embed green software practices. To first use these tools and embed them in organisations, we require a framework that provides changemakers with an approach to adopting, using, and reducing carbon emissions from running software applications.
 
@@ -15,18 +15,18 @@ There is also a project in progress that focuses on the maturity matrix model (C
 
 In simple terms, the maturity matrix model provides the assessment, and this project provides the adoption of green software practices.
 
-## Business Case for TOSS
-Business Benefits of the Transforming Organisations for Sustainable Software (TOSS) framework
+## Business Case for SOFT
+Business Benefits of the Sustainable Organisational Framework for Technology (SOFT) framework
 
-With the TOSS framework, businesses can build a foundation that will last for years to come for continuous improvement and change management in the long-term growth and use of their software operations. As opposed to tackling green software practices one at a time or as "point solutions," the TOSS framework can help an organization-wide change that makes the company's software practices more sustainable and more flexible. 
+With the SOFT framework, businesses can build a foundation that will last for years to come for continuous improvement and change management in the long-term growth and use of their software operations. As opposed to tackling green software practices one at a time or as "point solutions," the SOFT framework can help an organization-wide change that makes the company's software practices more sustainable and more flexible. 
 
-Benefits resulting from the implementation of the TOSS framework can be grouped into the two categories of operational resilience (internal) and reputation-building (external). Software that uses less energy and is less sensitive to changes in energy prices can save money; make the company more flexible and quick to respond to changes in regulations or reporting requirements; make software engineers more productive by standardising practices and lowering operational tech debt; and provide a framework that can be used to add any new tools, methods, or rules to software operations. Aside from direct cost savings, TOSS enables the added benefits of increased efficiency, transparency, and operational robustness. 
+Benefits resulting from the implementation of the SOFT framework can be grouped into the two categories of operational resilience (internal) and reputation-building (external). Software that uses less energy and is less sensitive to changes in energy prices can save money; make the company more flexible and quick to respond to changes in regulations or reporting requirements; make software engineers more productive by standardising practices and lowering operational tech debt; and provide a framework that can be used to add any new tools, methods, or rules to software operations. Aside from direct cost savings, SOFT enables the added benefits of increased efficiency, transparency, and operational robustness. 
 
-Regarding reputation-building, the incorporation of the TOSS framework can have consequential internal and external effects. A company with enduring sustainable practices can attract and retain a talent pool that has become increasingly purpose-driven. Moreover, employees who feel connected to the sustainable values of a company can innovate for efficiencies in further promoting sustainability. Externally, consumers or clients may choose a company based on its sustainability performance if they have sustainability concerns or are simply deciding between services/products, which also enhances the clients’ own sustainability profile. Finally, a consistent and purposeful approach to organisational software sustainability can enable a company to emerge as a thought leader in their industry or sector, benefiting both their brand's reputation and recognition.  
+Regarding reputation-building, the incorporation of the SOFT framework can have consequential internal and external effects. A company with enduring sustainable practices can attract and retain a talent pool that has become increasingly purpose-driven. Moreover, employees who feel connected to the sustainable values of a company can innovate for efficiencies in further promoting sustainability. Externally, consumers or clients may choose a company based on its sustainability performance if they have sustainability concerns or are simply deciding between services/products, which also enhances the clients’ own sustainability profile. Finally, a consistent and purposeful approach to organisational software sustainability can enable a company to emerge as a thought leader in their industry or sector, benefiting both their brand's reputation and recognition.  
 
-As software becomes a greater part of everyday business and personal life, it will inevitably produce unintended externalities. While technology can be a part of the solution, the TOSS framework builds a structure into companies to ensure it does not also become part of the problem as we collectively work towards a more sustainable world.  
+As software becomes a greater part of everyday business and personal life, it will inevitably produce unintended externalities. While technology can be a part of the solution, the SOFT framework builds a structure into companies to ensure it does not also become part of the problem as we collectively work towards a more sustainable world.  
 
-## How to Apply the TOSS Pillars
+## How to Apply the SOFT Pillars
 
 The four pillars are meant to provide a linear and continuous iteration cycle that companies can apply to their organisation's structure and operations to adjust to changes in both environmental and market demands.
 
@@ -70,11 +70,11 @@ The Pillars have been formatted as decision tree charts. This presentation choic
     </tr>
     <tr>
       <td><img src="/images/clarity.png" alt="clarity"></td>
-      <td>Outstanding questions that will need to be addressed within TOSS or in an organisation's application of TOSS.</td>
+      <td>Outstanding questions that will need to be addressed within SOFT or in an organisation's application of SOFT.</td>
     </tr>
     <tr>
       <td><img src="/images/output.png" alt="output"></td>
-      <td>The deliverable consists of the key pieces of written content or confirmed data that result from the step. Separated out as a deliverable since it will be needed as an input for future steps and adjusted as organisations iterate cycles of the TOSS framework.</td>
+      <td>The deliverable consists of the key pieces of written content or confirmed data that result from the step. Separated out as a deliverable since it will be needed as an input for future steps and adjusted as organisations iterate cycles of the SOFT framework.</td>
     </tr>
   
   </thead>
@@ -84,7 +84,7 @@ The Pillars have been formatted as decision tree charts. This presentation choic
 ### Engaging with the Framework
 The document aligns with the four decision-making frameworks developed for Strategy, Implementation, Operational, and Compliance and Regulations Pillars. Each framework has been developed in conjunction with Green Software Members as part of PhD research project in the form of an Action Research Group. 
 
-The pillars in the framework have been developed in a Miro board - [TOSS Workshops - Decision Trees - Miro](https://miro.com/app/board/uXjVK6P7Dv0=/). The Miro board view details the steps in each pillar as a flow diagram. This document supports the decision trees and provides additional context, checklists, outputs, in addition templates and guidance documentation.
+The pillars in the framework have been developed in a Miro board - [SOFT Workshops - Decision Trees - Miro](https://miro.com/app/board/uXjVK6P7Dv0=/). The Miro board view details the steps in each pillar as a flow diagram. This document supports the decision trees and provides additional context, checklists, outputs, in addition templates and guidance documentation.
 
 As the Miro board continues to be revised, this document will be updated to reflect the changes.
 
@@ -96,7 +96,7 @@ The document is split into the following key sections:
 - Implementation Pillar
 - Operational Pillar
 - Compliance and Regulations Pillar
-- Appendix listing all the templates and reference documents across TOSS
+- Appendix listing all the templates and reference documents across SOFT
 - Appendix detailing the personas for the Strategy pillar
 - Appendix detailing the personas for the Implementation pillar
 - Appendix detailing the personas for the Operations pillar
@@ -165,11 +165,11 @@ A checklist is a simple tool used to ensure that all necessary tasks, steps, or 
 | SME | Subject Matter Expert |
 | SRE | Site Reliability Engineer |
 | ToR | Terms of Reference |
-| TOSS | Transforming Organisations for Sustainable Software |
+| SOFT | Sustainable Organisational Framework for Technology |
 
 ## Strategy Pillar
 
-In the context of an organisation, the strategy pillar refers to a comprehensive plan developed to achieve specific long-term goals. The strategy pillar of the TOSS framework is all about creating and maintaining a long-lasting IT strategy that takes into account how the use and development of technology affects the environment. The pillar has scope to also incorporate social and governance topics in future iterations.
+In the context of an organisation, the strategy pillar refers to a comprehensive plan developed to achieve specific long-term goals. The strategy pillar of the SOFT framework is all about creating and maintaining a long-lasting IT strategy that takes into account how the use and development of technology affects the environment. The pillar has scope to also incorporate social and governance topics in future iterations.
 
 This pillar captures five key stages that propose essential questions and actions to consider. The following section highlights the key areas, the personas for each stage, and the underlying steps and outputs. The key focus is carbon emissions, but other metrics would follow the same process. The detailed framework and decision tree are available on request.
 
@@ -826,7 +826,7 @@ Key indicators of successful training and assessment programmes include particip
 
 Key areas to focus include the measurement targets for KPI's and the ability to track progress and performance. The Measurement Targets section makes sure that the data being collected can be used to report to outside groups in a way that meets industry standards and to track progress against OKRs and introduce changes to the company's IT strategy that are sustainable.
 
-If all OKRs and KPIs are supported in the implementation and already available for use in IT operations, TOSS users can skip over the Implementation Pillar and move on to the Operations Pillar.
+If all OKRs and KPIs are supported in the implementation and already available for use in IT operations, SOFT users can skip over the Implementation Pillar and move on to the Operations Pillar.
 
 **Key Personas - IT Leader(s), ESG Leader(s), Internal Regulation Manager(s) and Internal Auditor(s)**
 
