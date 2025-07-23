@@ -1,3 +1,12 @@
+---
+name: Case Study Template
+about: Case Study Template
+title: "[Case Study Template]"
+labels: Case Study Template
+assignees: seanmcilroy29
+
+---
+
 # SOFT Framework Analysis and Case Study Template
 
 ## Executive Summary 
