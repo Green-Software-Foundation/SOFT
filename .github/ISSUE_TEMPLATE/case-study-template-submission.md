@@ -7,74 +7,39 @@ assignees: seanmcilroy29
 
 ---
 
-# SOFT Framework Analysis and Case Study Template
+# SOFT Framework Case Study Template 
 
 ## Executive Summary 
 
-The **Sustainable Organisational Framework for Technology (SOFT)** is a comprehensive organisational transformation framework developed by the Green Software Foundation that helps organisations embed, transform, and utilise software emission calculation data for sustainable technology decision-making. The framework integrates seamlessly with the full GSF ecosystem, including the Software Carbon Intensity (SCI) specification, Green Software Maturity Matrix, Carbon Aware SDK, and Impact Framework to provide a structured pathway toward net-zero software emissions.
+The **Sustainable Organisational Framework for Technology (SOFT)** is a comprehensive organizational transformation framework developed by the Green Software Foundation that helps organizations systematically approach sustainable software practices through four foundational pillars: Strategy, Implementation, Operational, and Compliance & Regulations. This template captures case study results across all four pillars to document organizational transformation journeys.
 
-## Framework Structure and Components
+## Framework Overview - The Four Pillars
 
-### Three-Phase Organisational Transformation Model
+### Strategy Pillar
+Establishes the organizational vision, goals, and strategic approach to green software transformation, including executive commitment, resource allocation, and alignment with business objectives.
 
-The SOFT framework operates through a **decision tree methodology** with three core phases:
+### Implementation Pillar  
+Covers the technical and process changes required to embed sustainable software practices, including tool adoption, training programs, and integration with existing development workflows.
 
-**1. EMBED Phase** - Establishing green software practices within organisational processes
-- Integration of sustainability considerations into existing development workflows
-- Baseline assessment using the Green Software Maturity Matrix (5-level scale)
-- Initial training and awareness building across technical teams
+### Operational Pillar
+Focuses on day-to-day operations, monitoring, measurement, and continuous improvement of sustainable software practices across the organization.
 
-**2. TRANSFORM Phase** - Changing organisational culture and systems around sustainable software
-- Cross-functional integration between technology, operations, and sustainability teams  
-- Implementation of measurement systems using SCI specification and Impact Framework
-- Cultural shift toward carbon-aware decision making in technology choices
+### Compliance & Regulations Pillar
+Ensures alignment with regulatory requirements, industry standards, and reporting obligations related to environmental impact and sustainability.
 
-**3. USE Phase** - Actively leveraging software emissions data for strategic decision-making toward net zero targets
-- Real-time carbon-aware computing using Carbon Aware SDK
-- Cost-benefit analysis incorporating carbon offset requirements
-- Strategic technology decisions based on quantified environmental impact
+---
 
-### Key Assessment Domains
-
-**Organisational Maturity Assessment**
-- **Level 1 (Initial)**: Individual awareness, no organizational strategy
-- **Level 2 (Reactively Managed)**: Project-level initiatives, basic emissions knowledge
-- **Level 3 (Defined)**: Systematic training, established green software processes  
-- **Level 4 (Quantitatively Managed)**: Measurable goals, real-time optimization
-- **Level 5 (Optimizing)**: Continuous improvement, predictive workload management
-
-**Technical Integration Requirements**
-- Software Carbon Intensity (SCI) specification implementation (ISO/IEC 21031:2024)
-- Carbon Aware SDK integration for dynamic workload scheduling
-- Impact Framework deployment for comprehensive environmental measurement
-- Green Software Patterns adoption from GSF's curated database
-
-### Measurement Criteria and Success Indicators
-
-**Primary Technical Metrics**
-- **SCI Score**: Rate of carbon emissions per functional unit (lower is better)
-- **Carbon Awareness Adoption**: Percentage of workloads using carbon-aware scheduling
-- **Energy Efficiency Gains**: Measurable reduction in energy consumption
-- **Green Pattern Implementation**: Application of verified sustainable software patterns
-
-**Organisational Transformation Indicators**
-- **Maturity Matrix Progression**: Advancement through GSMM levels with documented evidence
-- **Training Completion**: GSF Practitioner certification rates across teams
-- **Policy Integration**: Sustainability embedded in architectural and procurement decisions
-- **Cross-functional Collaboration**: Effective cooperation between development, operations, and sustainability teams
-
-## Comprehensive Case Study Template for SOFT Framework Implementation
+## Case Study Template
 
 ### ORGANIZATIONAL INFORMATION
 
-**Organisation Profile**
+**Organization Profile**
 - **Organization Name**: _______________
 - **Industry Sector**: _______________
-- **Organisation Size**: - [ ] <250 employees - [ ] 250-1000 - [ ] 1000-5000 - [ ] >5000
-- **Geographic Scope**: - [ ] Local - [ ] National - [ ] Regional - [ ] Global
-- **Annual Revenue Range**: - [ ] <€40M - [ ] €40M-€100M - [ ] €100M-€500M - [ ] >€500M
-- **Primary Business Model**: - [ ] B2B - [ ] B2C - [ ] B2G - [ ] Hybrid
-- **Existing Sustainability Commitments**: - [ ] Net Zero Target - [ ] Science-Based Targets - [ ] UN Global Compact - [ ] Other: _______________
+- **Organization Size**: ☐ <250 employees ☐ 250-1000 ☐ 1000-5000 ☐ >5000
+- **Geographic Scope**: ☐ Local ☐ National ☐ Regional ☐ Global
+- **Annual Revenue Range**: ☐ <€40M ☐ €40M-€100M ☐ €100M-€500M ☐ >€500M
+- **Primary Business Model**: ☐ B2B ☐ B2C ☐ B2G ☐ Hybrid
 
 **Contact Information**
 - **Primary Contact**: _______________
@@ -83,169 +48,329 @@ The SOFT framework operates through a **decision tree methodology** with three c
 - **Secondary Contact**: _______________
 - **Submission Date**: _______________
 
-### BASELINE ASSESSMENT
+**Current Sustainability Context**
+- **Existing Net Zero Commitments**: ☐ Yes ☐ No | Target Year: _______________
+- **Science-Based Targets Initiative (SBTi)**: ☐ Committed ☐ Validated ☐ Not Involved
+- **Current Scope 1+2+3 Emissions (tCO2e)**: _______________
+- **Estimated Software Emissions (tCO2e)**: _______________
 
-**Current Green Software Maturity Level**
-- [ ] **Level 1 (Initial)**: Unpredictable, poorly controlled processes
-- [ ] **Level 2 (Reactively Managed)**: Per-project processes, often reactive  
-- [ ] **Level 3 (Defined)**: Standardized, documented, well-understood processes
-- [ ] **Level 4 (Quantitatively Managed)**: Processes are measured and controlled
-- [ ] **Level 5 (Optimizing)**: Continuous improvement based on quantitative feedback
+---
 
-**Pre-Implementation Organisational Capabilities**
-- **Existing Sustainability Initiatives**: _______________
-- **Current Carbon Measurement Practices**: _______________
-- **Technology Stack Assessment**: _______________
-- **Team Green Software Knowledge Level** (1-10 scale): _______________
-- **Executive Sustainability Commitment Level** (1-10 scale): _______________
+## STRATEGY PILLAR ASSESSMENT
 
-**Initial Carbon Footprint Assessment**
-- **Baseline SCI Scores** (if available):
-  - Application 1: _______________
-  - Application 2: _______________
-  - Application 3: _______________
-- **Total Estimated Software Carbon Emissions** (tCO2e annually): _______________
-- **Scope 1 Emissions from IT Operations**: _______________
-- **Scope 2 Emissions from Energy Consumption**: _______________
-- **Scope 3 Emissions from Software Supply Chain**: _______________
+### Strategic Vision and Leadership
 
-### SOFT FRAMEWORK IMPLEMENTATION
+**Executive Commitment Level**
+- **CEO/C-Suite Green Software Champion**: ☐ Yes ☐ No | Name: _______________
+- **Board-Level Sustainability Oversight**: ☐ Yes ☐ No
+- **Dedicated Chief Sustainability Officer**: ☐ Yes ☐ No
+- **Green Software Budget Allocation**: € _______________
+- **Strategic Priority Level** (1-10 scale): _______________
 
-**Phase 1: EMBED Implementation**
-- **Start Date**: _______________
-- **Duration**: _______________
-- **Team Size**: _______________
+**Strategic Goals and Targets**
+- **Primary Green Software Objective**: _______________
+- **Quantitative Targets Set**:
+  - SCI Score Reduction Target: _______________%
+  - Energy Efficiency Improvement: _______________%
+  - Carbon Emissions Reduction: _______________ tCO2e
+  - Timeline for Achievement: _______________
 
-*Training and Education*
-- **GSF Practitioner Certifications Completed**: _______________
-- **Internal Training Programs Developed**: - [ ] Yes - [ ] No
-- **Training Completion Rate**: _______________% 
-- **Key Topics Covered**: _______________
+**Business Case Development**
+- **ROI Projection for Green Software Initiatives**: _______________%
+- **Risk Mitigation Value**: _______________
+- **Brand and Reputation Benefits Identified**: ☐ Yes ☐ No
+- **Customer Demand Influence**: ☐ High ☐ Medium ☐ Low ☐ None
+- **Competitive Advantage Expected**: ☐ Yes ☐ No
 
-*Process Integration*
-- **Development Workflow Changes**: _______________
-- **Architectural Review Process Updates**: _______________
-- **Procurement Policy Modifications**: _______________
-- **Performance Testing Protocol Changes**: _______________
+**Stakeholder Alignment**
+- **IT Leadership Buy-in**: ☐ Strong ☐ Moderate ☐ Weak
+- **Development Team Engagement**: ☐ High ☐ Medium ☐ Low
+- **Operations Team Support**: ☐ High ☐ Medium ☐ Low
+- **Finance Team Understanding**: ☐ High ☐ Medium ☐ Low
+- **External Stakeholder Pressure**: ☐ High ☐ Medium ☐ Low ☐ None
 
-*Initial Tool Implementation*
-- **SCI Specification Adoption**: - [ ] Complete - [ ] Partial - [ ] Planned - [ ] Not Started
-- **Carbon Aware SDK Integration**: - [ ] Complete - [ ] Partial - [ ] Planned - [ ] Not Started
-- **Impact Framework Deployment**: - [ ] Complete - [ ] Partial - [ ] Planned - [ ] Not Started
-- **Green Software Patterns Applied**: _______________
+### Strategic Planning Results
 
-**Phase 2: TRANSFORM Implementation**
-- **Start Date**: _______________
-- **Duration**: _______________
-- **Cross-functional Team Composition**: _______________
+**Strategy Development Process**
+- **Strategic Planning Duration**: _______________ months
+- **External Consultants Engaged**: ☐ Yes ☐ No | Provider: _______________
+- **Green Software Maturity Assessment Completed**: ☐ Yes ☐ No
+- **Roadmap Development Methodology**: _______________
 
-*Organisational Changes*
-- **Governance Structure Modifications**: _______________
-- **KPI and Incentive Alignment**: _______________
-- **Budget Allocation for Green Software**: _______________
-- **Supplier Sustainability Requirements**: _______________
+**Resource Allocation Strategy**
+- **Total Investment Committed**: € _______________
+- **Human Resources Dedicated**: _______________ FTEs
+- **Technology Investment**: € _______________
+- **Training and Development Budget**: € _______________
+- **External Services Budget**: € _______________
 
-*Technical Infrastructure Changes*
-- **Monitoring and Measurement Systems**: _______________
-- **CI/CD Pipeline Integration**: _______________
-- **Cloud Migration Strategy Updates**: _______________
-- **Data Center Optimization Initiatives**: _______________
+**Success Metrics and KPIs Defined**
+- **Primary Success Metrics**: _______________
+- **Secondary Performance Indicators**: _______________
+- **Reporting Frequency**: ☐ Monthly ☐ Quarterly ☐ Biannually ☐ Annually
+- **Executive Dashboard Created**: ☐ Yes ☐ No
 
-*Cultural Transformation Indicators*
-- **Sustainability Discussion Integration**: - [ ] High - [ ] Medium - [ ] Low
-- **Developer Behavior Changes**: _______________
-- **Architecture Decision Modifications**: _______________
-- **Stakeholder Engagement Improvements**: _______________
+---
 
-**Phase 3: USE Implementation**
-- **Start Date**: _______________
-- **Duration**: _______________
-- **Strategic Integration Level**: _______________
+## IMPLEMENTATION PILLAR ASSESSMENT
 
-*Decision-Making Integration*
-- **Carbon Impact Consideration in Technology Choices**: - [ ] Always - [ ] Usually - [ ] Sometimes - [ ] Rarely
-- **Cost-Benefit Analysis Including Carbon**: - [ ] Implemented - [ ] Piloting - [ ] Planned - [ ] Not Planned
-- **Vendor Selection Criteria Updates**: _______________
-- **Investment Prioritization Changes**: _______________
+### Technical Implementation
 
-*Advanced Implementation*
-- **Carbon-Aware Computing Deployment**: _______________
-- **Predictive Carbon Analytics**: _______________
-- **Real-time Workload Optimization**: _______________
-- **Supply Chain Carbon Integration**: _______________
+**Green Software Foundation Tools Adoption**
+- **Software Carbon Intensity (SCI) Specification**:
+  - Implementation Status: ☐ Complete ☐ In Progress ☐ Planned ☐ Not Started
+  - Applications Measured: _______________
+  - Average Baseline SCI Score: _______________
+  - Current SCI Score: _______________
+  - Percentage Improvement: _______________%
 
-### TECHNICAL IMPLEMENTATION DETAILS
+- **Impact Framework (IF) Deployment**:
+  - Implementation Status: ☐ Complete ☐ In Progress ☐ Planned ☐ Not Started
+  - Environmental Impacts Measured: ☐ Carbon ☐ Water ☐ Energy ☐ Other: _______________
+  - Integration Method: ☐ API ☐ CLI ☐ Custom ☐ Hybrid
 
-**Software Carbon Intensity (SCI) Implementation**
-- **Applications Measured**: _______________
-- **Functional Units Defined**: _______________
-- **Measurement Frequency**: - [ ] Real-time - [ ] Daily - [ ] Weekly - [ ] Monthly - [ ] Quarterly
-- **Boundary Definitions**: _______________
+- **Carbon Aware SDK Integration**:
+  - Implementation Status: ☐ Complete ☐ In Progress ☐ Planned ☐ Not Started
+  - Workloads Optimized: _______________
+  - Average Carbon Intensity Reduction: _______________%
+  - Data Sources Used: ☐ WattTime ☐ ElectricityMaps ☐ Custom ☐ Multiple
 
-*SCI Calculation Details*
-```
-Application: _______________
-Formula: SCI = ((E * I) + M) per R
-- Energy (E): _______________
-- Carbon Intensity (I): _______________  
-- Embodied Carbon (M): _______________
-- Functional Unit (R): _______________
-- Final SCI Score: _______________
-```
+- **Green Software Patterns Applied**:
+  - Number of Patterns Implemented: _______________
+  - Most Effective Patterns: _______________
+  - Custom Patterns Developed: _______________
 
-**Carbon Aware SDK Implementation**
-- **Integration Method**: - [ ] API - [ ] CLI - [ ] Library - [ ] Custom
-- **Data Sources Used**: - [ ] WattTime - [ ] ElectricityMaps - [ ] Custom - [ ] Multiple
-- **Workload Types Optimized**: _______________
-- **Geographic Regions Covered**: _______________
-- **Automation Level**: - [ ] Fully Automated - [ ] Semi-Automated - [ ] Manual Triggers
+**Development Process Integration**
+- **CI/CD Pipeline Integration**: ☐ Complete ☐ Partial ☐ Planned ☐ Not Started
+- **Code Review Process Updates**: ☐ Yes ☐ No
+- **Architecture Review Criteria Updated**: ☐ Yes ☐ No
+- **Performance Testing Enhanced**: ☐ Yes ☐ No
+- **Deployment Strategy Changes**: _______________
 
-**Impact Framework Deployment**
-- **Environmental Impacts Measured**: - [ ] Carbon - [ ] Water - [ ] Energy - [ ] Land Use - [ ] Other: _______________
-- **Plugin Configuration**: _______________
-- **IMP File Maintenance Process**: _______________
-- **Integration with Existing Monitoring**: _______________
+### Training and Change Management
 
-**Green Software Patterns Applied**
-- **Pattern Categories Implemented**: _______________
-- **Custom Patterns Developed**: _______________
-- **Pattern Effectiveness Measurement**: _______________
-- **Team Adoption Rate**: _______________
+**Training Program Implementation**
+- **GSF Practitioner Certifications Achieved**: _______________
+- **Internal Training Program Developed**: ☐ Yes ☐ No
+- **Training Completion Rate**: _______________%
+- **Training Effectiveness Score** (1-10): _______________
 
-### RESULTS AND ACHIEVEMENTS
+**Change Management Approach**
+- **Change Management Framework Used**: _______________
+- **Communication Strategy Implemented**: ☐ Yes ☐ No
+- **Resistance Management Approach**: _______________
+- **Success Rate of Process Changes**: _______________%
 
-**Quantitative Results**
-- **SCI Score Improvements**:
-  - Baseline: _______________
-  - Current: _______________
-  - Percentage Improvement: _______________
+**Knowledge Transfer and Documentation**
+- **Best Practices Documentation Created**: ☐ Yes ☐ No
+- **Technical Guidelines Developed**: ☐ Yes ☐ No
+- **Lessons Learned Captured**: ☐ Yes ☐ No
+- **Knowledge Sharing Sessions Conducted**: _______________ sessions
+
+### Implementation Results
+
+**Technical Achievement Summary**
+- **Applications Successfully Transformed**: _______________
+- **Systems Integrated with Green Software Tools**: _______________
+- **Average Implementation Timeline**: _______________ months
+- **Budget Variance**: ± _______________%
+
+**Team Adoption Metrics**
+- **Developer Adoption Rate**: _______________%
+- **Operations Team Adoption Rate**: _______________%
+- **Architecture Team Integration**: _______________%
+- **Overall Team Satisfaction** (1-10 scale): _______________
+
+---
+
+## OPERATIONAL PILLAR ASSESSMENT
+
+### Day-to-Day Operations
+
+**Monitoring and Measurement Systems**
+- **Real-time Carbon Monitoring Implemented**: ☐ Yes ☐ No
+- **Automated Reporting Systems**: ☐ Yes ☐ No
+- **Dashboard and Visualization Tools**: _______________
+- **Data Collection Frequency**: ☐ Real-time ☐ Hourly ☐ Daily ☐ Weekly
+
+**Operational Process Changes**
+- **Incident Response Procedures Updated**: ☐ Yes ☐ No
+- **Capacity Planning Considerations**: ☐ Integrated ☐ Separate ☐ Not Considered
+- **Release Management Process Changes**: _______________
+- **Service Level Objectives (SLOs) Updated**: ☐ Yes ☐ No
+
+**Resource Optimization**
+- **Infrastructure Right-sizing Implemented**: ☐ Yes ☐ No
+- **Auto-scaling Based on Carbon Intensity**: ☐ Yes ☐ No
+- **Workload Scheduling Optimization**: ☐ Yes ☐ No
+- **Resource Utilization Improvement**: _______________%
+
+### Continuous Improvement
+
+**Performance Tracking**
+- **Carbon Emissions Tracking**: ☐ Automated ☐ Manual ☐ Hybrid
+- **Energy Efficiency Monitoring**: ☐ Yes ☐ No
+- **Cost Impact Analysis**: ☐ Regular ☐ Periodic ☐ Ad-hoc ☐ None
+- **Trend Analysis Capability**: ☐ Advanced ☐ Basic ☐ None
+
+**Optimization Activities**
+- **Regular Optimization Reviews**: ☐ Weekly ☐ Monthly ☐ Quarterly ☐ As Needed
+- **Automated Optimization Implemented**: ☐ Yes ☐ No
+- **Manual Optimization Frequency**: _______________
+- **Optimization Success Rate**: _______________%
+
+**Innovation and Experimentation**
+- **Green Software Innovation Projects**: _______________
+- **Pilot Programs Running**: _______________
+- **Research and Development Investment**: € _______________
+- **Innovation Success Rate**: _______________%
+
+### Operational Results
+
+**Performance Improvements**
+- **System Performance Impact**: ☐ Improved ☐ Neutral ☐ Degraded
+- **Reliability Metrics**: _______________
+- **User Experience Impact**: ☐ Positive ☐ Neutral ☐ Negative
+- **Operational Efficiency Gains**: _______________%
+
+**Resource and Cost Optimization**
+- **Infrastructure Cost Reduction**: _______________%
+- **Energy Cost Savings**: € _______________
+- **Operational Cost Impact**: ± _______________%
+- **Total Cost of Ownership Change**: ± _______________%
+
+**Team and Process Maturity**
+- **Operational Team Green Software Competency** (1-10): _______________
+- **Process Automation Level**: _______________%
+- **Incident Response Effectiveness**: ☐ Excellent ☐ Good ☐ Fair ☐ Poor
+- **Knowledge Transfer Effectiveness**: ☐ Excellent ☐ Good ☐ Fair ☐ Poor
+
+---
+
+## COMPLIANCE & REGULATIONS PILLAR ASSESSMENT
+
+### Regulatory Compliance
+
+**Current Regulatory Requirements**
+- **CSRD (Corporate Sustainability Reporting Directive)**: ☐ Applicable ☐ Not Applicable
+- **EU Taxonomy Compliance**: ☐ Required ☐ Voluntary ☐ Not Applicable
+- **SEC Climate Disclosure Rules**: ☐ Applicable ☐ Not Applicable
+- **Other Regional Regulations**: _______________
+
+**Compliance Implementation Status**
+- **CSRD Readiness Level**: ☐ Fully Ready ☐ Partially Ready ☐ Not Ready ☐ N/A
+- **Double Materiality Assessment Completed**: ☐ Yes ☐ No ☐ N/A
+- **Sustainability Reporting Framework**: ☐ GRI ☐ SASB ☐ TCFD ☐ Multiple ☐ Custom
+- **External Assurance Provider**: _______________
+
+### Standards and Frameworks Alignment
+
+**International Standards Compliance**
+- **ISO 14001 (Environmental Management)**: ☐ Certified ☐ Implementing ☐ Planned ☐ Not Applicable
+- **ISO 50001 (Energy Management)**: ☐ Certified ☐ Implementing ☐ Planned ☐ Not Applicable
+- **GHG Protocol Compliance**: ☐ Full ☐ Partial ☐ Not Implemented
+- **SBTi Validation**: ☐ Achieved ☐ In Process ☐ Planned ☐ Not Planned
+
+**Industry-Specific Requirements**
+- **Sector-Specific Sustainability Standards**: _______________
+- **Industry Reporting Requirements**: _______________
+- **Regulatory Body Oversight**: _______________
+- **Compliance Audit Frequency**: _______________
+
+### Data Governance and Reporting
+
+**Data Quality and Accuracy**
+- **Data Validation Processes**: ☐ Automated ☐ Manual ☐ Hybrid ☐ None
+- **Third-party Verification**: ☐ Yes ☐ No ☐ Planned
+- **Data Accuracy Level**: ☐ >95% ☐ 90-95% ☐ 80-90% ☐ <80%
+- **Data Completeness**: ☐ >95% ☐ 90-95% ☐ 80-90% ☐ <80%
+
+**Reporting and Disclosure**
+- **Sustainability Report Published**: ☐ Yes ☐ No ☐ Planned
+- **Software Carbon Footprint Disclosed**: ☐ Yes ☐ No ☐ Planned
+- **Reporting Frequency**: ☐ Annual ☐ Biannual ☐ Quarterly ☐ Other: _______________
+- **Stakeholder Communication Strategy**: _______________
+
+**Audit and Assurance**
+- **Internal Audit Capability**: ☐ Yes ☐ No ☐ Developing
+- **External Assurance Provider**: _______________
+- **Assurance Level**: ☐ Limited ☐ Reasonable ☐ None
+- **Audit Findings Resolution Rate**: _______________%
+
+### Risk Management and Controls
+
+**Compliance Risk Assessment**
+- **Regulatory Risk Assessment Completed**: ☐ Yes ☐ No ☐ In Progress
+- **High-Risk Areas Identified**: _______________
+- **Risk Mitigation Strategies**: _______________
+- **Risk Monitoring Frequency**: _______________
+
+**Control Framework**
+- **Green Software Governance Committee**: ☐ Established ☐ Planned ☐ Not Planned
+- **Roles and Responsibilities Defined**: ☐ Yes ☐ No ☐ Partially
+- **Control Testing Program**: ☐ Yes ☐ No ☐ Developing
+- **Compliance Monitoring Dashboard**: ☐ Yes ☐ No ☐ Planned
+
+### Compliance Results
+
+**Regulatory Compliance Status**
+- **Current Compliance Level**: ☐ Full Compliance ☐ Substantial Compliance ☐ Partial Compliance ☐ Non-Compliance
+- **Outstanding Compliance Issues**: _______________
+- **Regulatory Feedback Received**: _______________  
+- **Compliance Cost**: € _______________
+
+**Reporting and Disclosure Effectiveness**
+- **Stakeholder Satisfaction with Reporting**: ☐ High ☐ Medium ☐ Low
+- **Report Quality Assessment**: ☐ Excellent ☐ Good ☐ Fair ☐ Poor
+- **Disclosure Transparency Level**: ☐ High ☐ Medium ☐ Low
+- **External Recognition Received**: _______________
+
+---
+
+## CROSS-PILLAR INTEGRATION AND RESULTS
+
+### Integration Effectiveness
+
+**Pillar Interconnection Assessment**
+- **Strategy-Implementation Alignment**: ☐ Strong ☐ Moderate ☐ Weak
+- **Implementation-Operations Integration**: ☐ Strong ☐ Moderate ☐ Weak  
+- **Operations-Compliance Coordination**: ☐ Strong ☐ Moderate ☐ Weak
+- **Overall Framework Cohesion**: ☐ Excellent ☐ Good ☐ Fair ☐ Poor
+
+**Synergies and Dependencies**
+- **Identified Synergies Between Pillars**: _______________
+- **Critical Dependencies Managed**: ☐ Yes ☐ Partially ☐ No
+- **Cross-pillar Communication Effectiveness**: ☐ Excellent ☐ Good ☐ Fair ☐ Poor
+- **Integrated Decision-making Process**: ☐ Yes ☐ No ☐ Developing
+
+### Overall Transformation Results
+
+**Quantitative Impact Summary**
 - **Total Carbon Emissions Reduction**: _______________ tCO2e annually
-- **Energy Consumption Reduction**: _______________% 
-- **Cost Savings Achieved**: € _______________
-- **Performance Improvements**: _______________
+- **Energy Efficiency Improvement**: _______________%
+- **Cost Impact**: ± € _______________
+- **ROI Achieved**: _______________%
+- **Performance Improvement**: _______________%
 
-**Carbon Aware Computing Results**
-- **Workloads Successfully Shifted**: _______________% 
-- **Average Carbon Intensity Reduction**: _______________
-- **Peak Load Management Improvements**: _______________
-- **Geographic Load Balancing Effectiveness**: _______________
+**Qualitative Transformation Indicators**
+- **Organizational Culture Change**: ☐ Significant ☐ Moderate ☐ Minimal ☐ None
+- **Employee Engagement Level**: ☐ High ☐ Medium ☐ Low
+- **Innovation Capability Enhancement**: ☐ Significant ☐ Moderate ☐ Minimal ☐ None
+- **Market Position Improvement**: ☐ Significant ☐ Moderate ☐ Minimal ☐ None
 
-**Organizational Transformation Results**
-- **Maturity Level Advancement**: From Level ___ to Level ___
-- **Training Completion Rate**: _______________% 
-- **Policy Integration Success**: _______________
-- **Stakeholder Satisfaction Score**: _______________/10
+**Maturity Progression**
+- **Starting Green Software Maturity Level**: Level ___ (1-5)
+- **Current Green Software Maturity Level**: Level ___ (1-5)
+- **Target Maturity Level**: Level ___ (1-5)
+- **Time to Achieve Target**: _______________ months
 
-**Business Impact Results**
-- **ROI Calculation**: _______________%
-- **Risk Mitigation Achieved**: _______________
-- **Brand Value Enhancement**: _______________
-- **Customer Satisfaction Impact**: _______________
-- **Employee Engagement Changes**: _______________
+---
 
-### CHALLENGES AND SOLUTIONS
+## CHALLENGES AND LESSONS LEARNED
 
-**Technical Challenges Encountered**
+### Pillar-Specific Challenges
+
+**Strategy Pillar Challenges**
 1. **Challenge**: _______________
    **Solution**: _______________
    **Outcome**: _______________
@@ -254,11 +379,7 @@ Formula: SCI = ((E * I) + M) per R
    **Solution**: _______________
    **Outcome**: _______________
 
-3. **Challenge**: _______________
-   **Solution**: _______________
-   **Outcome**: _______________
-
-**Organizational Challenges Encountered**
+**Implementation Pillar Challenges**
 1. **Challenge**: _______________
    **Solution**: _______________
    **Outcome**: _______________
@@ -267,7 +388,7 @@ Formula: SCI = ((E * I) + M) per R
    **Solution**: _______________
    **Outcome**: _______________
 
-**Resource and Budget Challenges**
+**Operational Pillar Challenges**
 1. **Challenge**: _______________
    **Solution**: _______________
    **Outcome**: _______________
@@ -276,7 +397,16 @@ Formula: SCI = ((E * I) + M) per R
    **Solution**: _______________
    **Outcome**: _______________
 
-### LESSONS LEARNED AND RECOMMENDATIONS
+**Compliance & Regulations Pillar Challenges**
+1. **Challenge**: _______________
+   **Solution**: _______________
+   **Outcome**: _______________
+
+2. **Challenge**: _______________
+   **Solution**: _______________
+   **Outcome**: _______________
+
+### Critical Success Factors
 
 **Key Success Factors Identified**
 1. _______________
@@ -285,113 +415,173 @@ Formula: SCI = ((E * I) + M) per R
 4. _______________
 5. _______________
 
-**Critical Implementation Recommendations**
+**Recommendations for Each Pillar**
+
+**Strategy Pillar Recommendations:**
+- _______________
+- _______________
+- _______________
+
+**Implementation Pillar Recommendations:**
+- _______________
+- _______________
+- _______________
+
+**Operational Pillar Recommendations:**
+- _______________
+- _______________
+- _______________
+
+**Compliance & Regulations Pillar Recommendations:**
+- _______________
+- _______________
+- _______________
+
+### Lessons Learned
+
+**What Worked Well**
 1. _______________
 2. _______________
 3. _______________
-4. _______________
-5. _______________
 
-**Recommendations for Similar Organizations**
-- **For Organizations in Same Industry**: _______________
-- **For Organizations of Similar Size**: _______________
-- **For Organizations with Similar Technical Stack**: _______________
-- **For Organizations Starting Their Journey**: _______________
-
-**Avoid These Common Pitfalls**
+**What Could Be Improved**
 1. _______________
 2. _______________
 3. _______________
 
-### FUTURE ROADMAP
-
-**Next 6 Months Planned Initiatives**
-- _______________
-- _______________
-- _______________
-
-**Next 12 Months Strategic Goals**
-- _______________
-- _______________
-- _______________
-
-**Long-term Vision (2-5 years)**
-- _______________
-- _______________
-- _______________
-
-**Scaling Plans**
-- **Additional Applications to Include**: _______________
-- **Geographic Expansion**: _______________
-- **Supply Chain Integration**: _______________
-- **Community Contribution Plans**: _______________
-
-### SUPPORTING DOCUMENTATION
-
-**Required Attachments**
-- [ ] **SCI Calculation Methodology Document**
-- [ ] **Baseline and Current Measurement Reports**
-- [ ] **Architecture Diagrams Showing Green Software Integration**
-- [ ] **Training Program Materials and Completion Records**
-- [ ] **Policy and Process Documentation Updates**
-- [ ] **Financial Impact Analysis and ROI Calculations**
-- [ ] **Stakeholder Communication and Feedback**
-- [ ] **Third-party Verification Reports** (if applicable)
-
-**Optional Supporting Materials**
-- [ ] **Code Samples Demonstrating Green Software Patterns**
-- [ ] **Monitoring Dashboard Screenshots**
-- [ ] **Team Interview Transcripts or Surveys**
-- [ ] **Executive Presentation Materials**
-- [ ] **Media Coverage or External Recognition**
-- [ ] **Academic Collaboration Documentation**
-
-### VERIFICATION AND COMPLIANCE
-
-**Data Accuracy Verification**
-- **Internal Review Completed By**: _______________
-- **External Audit Performed**: - [ ] Yes - [ ] No
-- **Auditor**: _______________
-- **Audit Date**: _______________
-
-**Compliance Alignment**
-- **CSRD Compliance**: - [ ] Full - [ ] Partial - [ ] Planned - [ ] Not Applicable
-- **GHG Protocol Alignment**: - [ ] Yes - [ ] No - [ ] Partial
-- **ISO 14001 Integration**: - [ ] Yes - [ ] No - [ ] Planned
-- **Other Standards Compliance**: _______________
-
-**Open Source Contribution Commitment**
-- **Willing to Share Anonymized Results**: - [ ] Yes - [ ] No
-- **Available for Community Presentations**: - [ ] Yes - [ ] No
-- **Open to Academic Collaboration**: - [ ] Yes - [ ] No
-- **GSF Case Study Submission**: - [ ] Yes - [ ] No
-
-### SUBMISSION DECLARATION
-
-**Accuracy Statement**
-"I certify that the information provided in this case study template is accurate and complete to the best of my knowledge. I understand that this information may be used by the Green Software Foundation and the broader community to advance sustainable software practices."
-
-**E Signature**: _______________
-**Date**: _______________
-**Name**: _______________
-**Title**: _______________
+**Advice for Organizations Starting Their Journey**
+1. _______________
+2. _______________
+3. _______________
 
 ---
 
-## Implementation Guidelines for Organisations
+## FUTURE ROADMAP
 
-### Getting Started Checklist
-1. **Complete baseline assessment** using Green Software Maturity Matrix
-2. **Identify pilot applications** for initial SCI measurement
-3. **Assemble cross-functional team** with representation from development, operations, and sustainability
-4. **Secure executive sponsorship** with clear sustainability targets
-5. **Begin GSF Practitioner training** for key team members
-6. **Plan phased implementation** following EMBED → TRANSFORM → USE progression
+### Next Phase Planning
 
-### Success Indicators Timeline
-- **Month 1-3**: Baseline assessment completed, team trained, initial measurements taken
-- **Month 4-9**: Process integration achieved, cultural transformation visible, tools deployed
-- **Month 10-18**: Strategic decision-making integration, advanced optimization implemented
-- **Month 19+**: Continuous improvement, community contribution, scaling to additional systems
+**6-Month Priorities by Pillar**
 
-This comprehensive template ensures organizations capture all necessary information required by the SOFT framework while providing a structured approach to documenting their sustainable technology transformation journey.
+**Strategy Pillar:**
+- _______________
+- _______________
+
+**Implementation Pillar:**
+- _______________
+- _______________
+
+**Operational Pillar:**
+- _______________
+- _______________
+
+**Compliance & Regulations Pillar:**
+- _______________
+- _______________
+
+### Long-term Vision
+
+**2-Year Strategic Goals**
+- _______________
+- _______________
+- _______________
+
+**5-Year Sustainability Vision**
+- _______________
+- _______________
+- _______________
+
+**Contribution to Industry Transformation**
+- **Knowledge Sharing Plans**: _______________
+- **Community Participation**: _______________
+- **Open Source Contributions**: _______________
+- **Industry Collaboration**: _______________
+
+---
+
+## SUPPORTING DOCUMENTATION
+
+### Required Evidence by Pillar
+
+**Strategy Pillar Documentation**
+☐ **Executive Sustainability Strategy Document**
+☐ **Board/Leadership Commitment Evidence**
+☐ **Business Case and ROI Analysis**
+☐ **Strategic Roadmap and Milestones**
+
+**Implementation Pillar Documentation**
+☐ **Technical Implementation Plans**
+☐ **SCI Calculation Methodology and Results**
+☐ **Training Program Materials and Completion Records**
+☐ **Tool Integration Architecture Diagrams**
+
+**Operational Pillar Documentation**
+☐ **Monitoring and Measurement System Screenshots**
+☐ **Operational Performance Reports**
+☐ **Process Documentation and Procedures**
+☐ **Continuous Improvement Evidence**
+
+**Compliance & Regulations Pillar Documentation**
+☐ **Regulatory Compliance Assessment Reports**
+☐ **Sustainability Reporting Publications**
+☐ **Third-party Verification/Assurance Reports**
+☐ **Audit Reports and Remediation Evidence**
+
+### Verification and Validation
+
+**Data Accuracy Verification**
+- **Internal Review Completed By**: _______________
+- **Date of Review**: _______________
+- **External Validation**: ☐ Yes ☐ No | Provider: _______________
+- **Validation Date**: _______________
+
+**Stakeholder Validation**
+- **Executive Approval**: ☐ Yes ☐ No | Name: _______________
+- **Technical Team Review**: ☐ Yes ☐ No | Lead: _______________
+- **Compliance Team Sign-off**: ☐ Yes ☐ No | Name: _______________
+- **External Auditor Review**: ☐ Yes ☐ No | Firm: _______________
+
+---
+
+## SUBMISSION DECLARATION
+
+**Completeness and Accuracy Statement**
+"I certify that this case study submission is complete and accurate across all four SOFT framework pillars. The information provided reflects our organization's genuine experience with sustainable software transformation and may be used by the Green Software Foundation and the broader community to advance green software practices."
+
+**Consent and Sharing Agreement**
+☐ **Consent to share anonymized results for research purposes**
+☐ **Available for community presentations and knowledge sharing**
+☐ **Open to academic collaboration and case study publication**
+☐ **Willing to participate in GSF community calls and events**
+
+**Final Authorization**
+- **Authorized Signatory**: _______________
+- **Title**: _______________
+- **Signature**: _______________
+- **Date**: _______________
+- **Organization Seal/Stamp**: _______________
+
+---
+
+## Implementation Guidelines
+
+### Getting Started with the Four Pillars
+
+**Phase 1: Foundation (Months 1-3)**
+- Complete comprehensive assessment across all four pillars
+- Establish governance structure and pillar ownership
+- Secure executive commitment and resource allocation
+- Begin baseline measurements and compliance gap analysis
+
+**Phase 2: Implementation (Months 4-12)**
+- Execute strategy across all pillars simultaneously
+- Maintain coordination between pillars through regular sync meetings
+- Monitor cross-pillar dependencies and integration points
+- Implement continuous feedback loops
+
+**Phase 3: Optimization (Months 13+)**
+- Achieve advanced maturity across all pillars
+- Demonstrate integration effectiveness and synergies
+- Contribute to industry knowledge and best practices
+- Scale successful approaches to broader organizational scope
+
+This comprehensive template ensures organizations document their complete SOFT framework transformation journey across all four pillars while maintaining the interconnected nature of sustainable software adoption.
