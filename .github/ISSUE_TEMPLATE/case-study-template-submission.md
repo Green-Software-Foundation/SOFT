@@ -3,7 +3,9 @@ name: Case Study Template
 about: Case Study Template
 title: "[Case Study Template]"
 labels: Case Study Template
-assignees: seanmcilroy29
+assignees: 
+- seanmcilroy29
+- PindyBhullar
 
 ---
 
