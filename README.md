@@ -36,17 +36,10 @@ As carbon emissions from software do not fall solely under the responsibility of
 ### Solution
 The solution is to present a framework incorporating a decision tree strategy. It would also reveal where voids exist, providing ideas for future initiatives.
 
-Closure: For the project to be successful, GSF organisations must test the framework throughout its development and numerous iterations. The SCI is an excellent example of a project that was implemented within organisations and resulted in a continuous feedback cycle. For organisations to use the framework and create case studies to document their approach and processes. The gaps are to be identified and feedback collected and reviewed with the project team for continuous updates to the framework.
+Closure: For the project to be successful, GSF organisations must test the framework throughout its development and numerous iterations. The SCI is an excellent example of a project that was implemented within organisations and resulted in a continuous feedback cycle. Organisations can use the framework and create case studies to document their approach and processes. The gaps are to be identified, and feedback collected and reviewed with the project team for continuous updates to the framework.
 
 The solution would describe a framework incorporating a method that is focused on a decision tree approach. It would also reveal where voids exist, providing ideas for future initiatives.
 
-**ToC:** By the end of 2024, this initiative will enhance the adoption of various GSF tools and methodologies.
 
-### Timelines
-- [x] January 2024 – Agree on the project scope with GSF.
-- [x] February 2024 – Define the key terms,  e.g., how we classify technology-based projects.
-- [x] March to August 2024 – Development of the framework.
-- [x] September to October – Solicit feedback and update changes.
-- [ ] October 2024 to January 2025 – Framework development process.
 
 
