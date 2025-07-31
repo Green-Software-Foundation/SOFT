@@ -1,4 +1,5 @@
  - **Associated documents**
+   - [Case Study Template](https://github.com/Green-Software-Foundation/SOFT/issues/new?template=case-study-template-submission.md)
    - [Collaboration Doc](https://docs.google.com/document/d/12YtwEDH2DH2do97FBXY6uO3cHUUlDAD8/edit?usp=sharing&ouid=109189016904402965838&rtpof=true&sd=true) 
    - [Project dependency - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
    - [Answering the so-what question](https://github.com/Green-Software-Foundation/oc/discussions/18)
