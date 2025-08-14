@@ -248,7 +248,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1A9gkSI8Y5lwjKGBBcjCpjAtaYxKmFUrXiXe3Ub00UFM/edit?tab=t.0">Internal and External Factors</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/15e7gjCvEmva7csXro-apHt2TzhATl_og/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Internal and External Factors</a></td>
 </tr>
 <tr>
 <td><strong>d. Conduct a gap analysis for regulations</strong></td>
@@ -401,7 +401,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1AUeUePsIL7NBzrOjrGV2rV14ygGm-qxtEvR8e7wODY4/edit?tab=t.0">List of metrics for Sustainable IT</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1cGPM0N2895pMk7zmy-7TRfOz-02ylozC/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">List of metrics for Sustainable IT</a></td>
 </tr>
 <tr>
 <td><strong>c. Determine if the organisation captures metrics for these environmental measures</strong></td>
@@ -420,7 +420,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1lQnDuJ-vnVuIt7dp_SU1LPXgzD3diZTJ5zeP1XOj69M/edit?tab=t.0">Automated Data Capture Approach</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1YfK1lzbgn1PkJMiZwnttRDGfmSi1KCOZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Automated Data Capture Approach</a></td>
 </tr>
 <tr>
 <td><strong>d. If metrics aren't captured, define approach to obtain/supply them (e.g., engage vendors on sustainability)</strong></td>
@@ -439,7 +439,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1XDjoWZr7tz5cUA0dLXD8B4pB_msLyQpTe6ro_RRbZTQ/edit?tab=t.0">Environmental Metrics from Vendors</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1pw6vCZqf4eHwz28Ld9_winX0hU43eYVo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environmental Metrics from Vendors</a></td>
 </tr>
 <tr>
 <td><strong>e. Align the organisation's sustainability goals with sustainable procurement processes.</strong></td>
@@ -458,7 +458,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1VhKrek3LfYqi2tDQfCyTbSiWWC8ZmWbmqNA-3Bey58I/edit?tab=t.0">Sustainability Goals with Sustainable Procurement Processes</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1C1AKAm_AJm_vzaxqJ0RI_r3MUw9P4G_C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainability Goals with Sustainable Procurement Processes</a></td>
 </tr>
 </table>
 
@@ -574,7 +574,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0">Sustainable IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0">OKRs and KPIs for IT Operations</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0">Sustainable IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1vZY-ER-XraQexKCYU8gTtrEwJYEfNGrP/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">OKRs and KPIs for IT Operations</a></td>
 </tr>
 <tr>
 <td><strong>b. Determine environmental metrics for IT strategy (e.g., Energy, Water, E-waste, Procurement)</strong></td>
@@ -593,7 +593,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1qDWLQwc4ogcEu73LYMDmsySR6sSdfLbiudbHYOz3gLA/edit?tab=t.0">Vendor KPIs for Sustainable Procurement</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1e38O6m3GwY1ltkP7CDircjzoTJ-JRSS0/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor KPIs for Sustainable Procurement</a></td>
 </tr>
 </table>
 
@@ -618,7 +618,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 <tr>
 <td><strong>Does water usage require a dedicated OKR and KPIs?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Reassess the water usage metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1fZBg1R9xJQxHeeCzSvpvWBoqWxobdQjlQSxZ__W_K-s/edit?tab=t.0">Water Usage Monitoring</a></td>
+<td><strong>NO</strong> → Reassess the water usage metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1qt4QzreRaHdClKJhOhEXertFBsb7y-Kd/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Water Usage Monitoring</a></td>
 </tr>
 <tr>
 <td></td>
@@ -628,7 +628,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 <tr>
 <td><strong>Does electronic waste usage require a dedicated OKR and KPIs?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Reassess the electronic waste savings for IT on a frequent basis.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1fYxnIHhOFFl9bLewmc5b4qZym-StUaWFxO0UVKvlOtc/edit?tab=t.0">Electronic Waste Monitoring</a></td>
+<td><strong>NO</strong> → Reassess the electronic waste savings for IT on a frequent basis.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1KzyVtEepPJ_TfECvPhqV5e-xUECRI41N/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste Monitoring</a></td>
 </tr>
 <tr>
 <td></td>
@@ -638,7 +638,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 <tr>
 <td><strong>Are vendors tracking scope 3 categories?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Reassess the sustainable procurement metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1c4PWrKI02MAGAY2kDvKyJvkaQkmFi3jc6frhZOxah8I/edit?tab=t.0#heading=h.74o9iao6jyad">Sustainable Procurement Monitoring</a></td>
+<td><strong>NO</strong> → Reassess the sustainable procurement metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1CmIw-rVIuZzQgEZyFkT4g_rjBWgDE6nf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable Procurement Monitoring</a></td>
 </tr>
 <tr>
 <td></td>
@@ -707,7 +707,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/17aCuNf-m7wEZOwy5xG5j3HgWChnuwHOo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Monitor and Track Training</a></td>
 </tr>
 <tr>
 <td><strong>c. Conduct the Maturity Matrix assessment</strong></td>
@@ -745,7 +745,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1TLDcfOn1H_YAGP8H7BUF8sivNs3tE5lYPxtW8HiYc5M/edit?tab=t.0">Continuous Maturity Matrix Governance Process</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1mtXgYYqEP8AyZRL18GB-hih7IU0XPmtk/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Maturity Matrix Governance Process</a></td>
 </tr>
 <tr>
 <td><strong>e. Position business to understand impact of changes/growth on IT carbon</strong></td>
@@ -764,7 +764,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1RJ3YBaiH0Dm8jJTzV0wDQ4SaPtZ2RSUgVuSNiUm9FvA/edit?tab=t.0">Business Impact of Green Software</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1au5kT11qgcp3dSWifIVD1Ndxq1vTz3l3/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Business Impact of Green Software</a></td>
 </tr>
 <tr>
 <td><strong>f. Establish green software principles<br><em>(Make available to IT & business for carbon emissions)</em></strong></td>
@@ -783,7 +783,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Fdwt26i2XwtER-jRsZydj-cZoTbJeYsWxADiyII27jo/edit?tab=t.0#heading=h.mfu04clxpgcq">Green Software Principles</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1UquIZdedHSqPCXZZZfeFiJ_zHDvErCrv/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Green Software Principles</a></td>
 </tr>
 </table>
 
@@ -859,7 +859,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1LGqBmCnf_vOXXsTokF6zeFDFeQOtPRtjACm1Q2vs9-8/edit?tab=t.0">Scope 1 2 3 Emissions</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1zFCWbrgVyVgjQQ57PdfLyWXeLzYyeLyo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 1 2 3 Emissions</a></td>
 </tr>
 <tr>
 <td><strong>b. Utilise procurement teams & IT to determine vendor emissions</strong></td>
@@ -878,7 +878,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1A1PgoevOECCXRmE0iwZyBZ6IJ-VhFbq22zjwDlHpxOY/edit?tab=t.0">Vendor Emissions</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1RqHuMEi7FhBYhXiuTqQ0VkBCnvFHgiWY/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor Emissions</a></td>
 </tr>
 <tr>
 <td><strong>c. Categorize data center (including cloud) into relevant scope emissions</strong></td>
@@ -897,7 +897,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1-T3ylsf6-HI2iPPJqIXcKZOjB6L_O0jGHxdXoDe2TOE/edit?tab=t.0">Emissions by Data Centre and Cloud</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1ycuiB7rTUgOup-1G3Wz7oPOXzMHOTm7Q/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Emissions by Data Centre and Cloud</a></td>
 </tr>
 <tr>
 <td><strong>d. Baseline the SCI (Software Carbon Intensity) emissions</strong></td>
@@ -916,7 +916,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1oD_T6BDQqqr3grQnYEeIYTz4_hFSL02QFR02HtAl0MQ/edit?tab=t.0">SCI Baseline</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1ol5X_Nax4gXyZpQttPwnDKZtzqBTxdWM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">SCI Baseline</a></td>
 </tr>
 <tr>
 <td><strong>e. Establish & collect carbon emissions data from cloud providers</strong></td>
@@ -935,7 +935,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/190OekzKn7EQhRki-Eh80vhWiOmOaHBCT8zuQzyx3SU4/edit?tab=t.0">Carbon Emissions from Cloud Providers</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1XDJeXwxDcHj_sEQGx8-nIRS8JA0KJdeo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions from Cloud Providers</a></td>
 </tr>
 <tr>
 <td><strong>f. Set up governance & review process for OKRs/KPIs (carbon from software)</strong></td>
@@ -954,7 +954,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/15Q5GgrO_9pz6610_xM8vEYRpECIgq4YkGIjKg9NbAUI/edit?tab=t.0">Governance Structure for OKRs and KPIs</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/11SAYd8m_MAqp4mfZbbvNiLQpT5iQLuuN/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Structure for OKRs and KPIs</a></td>
 </tr>
 <tr>
 <td><strong>g. Discuss options to track carbon emissions data</strong></td>
@@ -973,7 +973,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1oAmr9QhPVYUJjYHXYL8jZsXaJ3fpPng6kzKTaya3L2Q/edit?tab=t.0">End to End Approach to Tracking Carbon Emissions</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1DB0a_SkqToTf4ujdE3ZEdpqUd-xXJ9CN/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">End to End Approach to Tracking Carbon Emissions</a></td>
 </tr>
 <tr>
 <td><strong>h. Compile the IT Sustainable Strategy (environmental metrics, OKRs, KPIs)</strong></td>
@@ -992,7 +992,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1bHiMDpRarMVRPFVFckkGq7jk-egQkp_uEcCVkc_E8mE/edit?tab=t.0">IT Sustainable Strategy</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1dOk402va9iM-mxQygOIkXbEUpWxwGN2W/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">IT Sustainable Strategy</a></td>
 </tr>
 <tr>
 <td><strong>i. Continuously review & revise IT Sustainable Strategy (frequency set by Leadership & Oversight Committee)</strong></td>
@@ -1011,7 +1011,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/13kIgbgK4p5dq3jHFvEdXeN7rHjB87hH0pz7Mj7vX8XA/edit?tab=t.0">Continuous Review of IT Sustainable Strategy</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1-snyHi-mHfUpyjfiSgbqQjZoX9Msy7JE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Review of IT Sustainable Strategy</a></td>
 </tr>
 </table>
 
@@ -1076,7 +1076,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 <tr>
 <td><strong>Does the company have a comprehensive environmental strategy for its IT operations?</strong></td>
 <td>-</td>
-<td><strong>NO →</strong> Define the IT sustainability strategy incorporating environmental factors.<br><br>- Example - <a href="https://docs.google.com/document/d/1_HsDTcYr6V86IMVIiG24g2mtNy9slkI1XnITePepVxA/edit?tab=t.0">Template - IT Sustainable Strategy</a></td>
+<td><strong>NO →</strong> Define the IT sustainability strategy incorporating environmental factors.<br><br>- Example - <a href="https://docs.google.com/document/d/1K9vQMel2WKkVeDb3C0z885viwldGSIL2/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Template - IT Sustainable Strategy</a></td>
 </tr>
 <tr>
 <td></td>
@@ -2225,7 +2225,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1rC391fZ1kapm5c1ob4S5Srsop1E4-QvUKGLy9wPa_XU/edit?tab=t.0">Carbon Emissions Baseline Data</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1LE8jTQy_aTyOKkQRxCks_DHtHr4Z01g9/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions Baseline Data</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2246,7 +2246,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1ks6t8_MnvNsNPTkpNKA7e0UR2ImRBSqbis6qjG_gmMY/edit?tab=t.0">Framework for Baselining by Software Type</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1VaN-5ZheDF8LABQL-8aBdaO0qv5xgp5v/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Framework for Baselining by Software Type</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2267,7 +2267,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1NtKifikliB-pV9LZsKI07ATzv_MY4Ib3cpww-6ihrCg/edit?tab=t.0">AI Tools and Approaches</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1y8NhunB2xl1g9NlJgRmD2zyqjOjqC0K4/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI Tools and Approaches</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2288,7 +2288,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1mTSvUfGRCnRlcWnWPJzE6O2CSwBGEzSm-rZTAHpn424/edit?tab=t.0">Data Quality Checks</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1kPmlHnE3s4vMfA6xh7RqRYC_c3-J5a7k/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Data Quality Checks</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2309,7 +2309,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1NMBVAudOBZd5BEAer6XJWuksf24iISrr6Gz8ZVnkVBY/edit?tab=t.0#heading=h.91lqphta0iqm">Embed Compliance in Data Quality Reviews</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1DH92SVFK0gEZplSAEl7AIP7IthopxOnM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Embed Compliance in Data Quality Reviews</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2330,7 +2330,7 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1-mn48-cENC3IPRIse8q2u-ZjWpzOvQiWKljDKjD9cEo/edit?tab=t.0#heading=h.vbwlue4ga1yg">Exception Report</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/12OIyzvDlPhLIpa1WuvqzAYlUgQ8bNY6P/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Exception Report</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2347,19 +2347,19 @@ Key areas of focus include the validation of data. In this section, we refer to 
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Determine the use case of AI tools and approaches. Validate the impact to the IT sustainable strategy. Example - <a href="https://docs.google.com/document/d/1NtKifikliB-pV9LZsKI07ATzv_MY4Ib3cpww-6ihrCg/edit?tab=t.0">AI Tools and Approaches</a></td>
+<td>- <strong>YES</strong> → Determine the use case of AI tools and approaches. Validate the impact to the IT sustainable strategy. Example - <a href="https://docs.google.com/document/d/1y8NhunB2xl1g9NlJgRmD2zyqjOjqC0K4/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI Tools and Approaches</a></td>
 </tr>
 <tr>
 <td><strong>Has the organisation baselined carbon emissions for their software applications?</strong></td>
-<td>- Example - <a href="https://docs.google.com/document/d/1rC391fZ1kapm5c1ob4S5Srsop1E4-QvUKGLy9wPa_XU/edit?tab=t.0">Carbon Emissions Baseline Data</a></td>
+<td>- Example - <a href="https://docs.google.com/document/d/1LE8jTQy_aTyOKkQRxCks_DHtHr4Z01g9/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions Baseline Data</a></td>
 </tr>
 <tr>
 <td><strong>Does the IT organisation have data quality checks in place for carbon emissions across the scope?</strong></td>
-<td>- <strong>NO</strong> → Set up data quality check approaches - Example <a href="https://docs.google.com/document/d/1FFZD3xix1I2jL2f0K698NUbqCFb2J15UzVdaf5ea2c4/edit?tab=t.0#heading=h.648ceg83jj1v">Data Quality Check Approach</a></td>
+<td>- <strong>NO</strong> → Set up data quality check approaches - Example <a href="https://docs.google.com/document/d/1kPdyDG25T-z_ZjbFQf0UwkkdehpZg6cA/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Data Quality Check Approach</a></td>
 </tr>
 <tr>
 <td></td>
-<td>- <strong>YES</strong> → Data Quality Checks - Example <a href="https://docs.google.com/document/d/1mTSvUfGRCnRlcWnWPJzE6O2CSwBGEzSm-rZTAHpn424/edit?tab=t.0">Data Quality Checks</a></td>
+<td>- <strong>YES</strong> → Data Quality Checks - Example <a href="https://docs.google.com/document/d/1kPmlHnE3s4vMfA6xh7RqRYC_c3-J5a7k/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Data Quality Checks</a></td>
 </tr>
 </tbody>
 </table>
@@ -2409,7 +2409,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1qMR7V2VvTReYqJLqfQPD9i_h1Y6_ncpusbmIRhNGuuE/edit?tab=t.0">Governance Review</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a><br><br><a href="https://docs.google.com/document/d/1dplflqeH6TeJCA0L2K6khaNHVvPtKvtWKQEYU9BMHlM/edit?tab=t.0">Scope 3 Emissions from Cloud Providers</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1X9z8fq6N-WZMstK19wPV93B6KoftR82M/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Review</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a><br><br><a href="https://docs.google.com/document/d/1yKOIaNyFV2Rcg_ThKP0XbDAeBIiD_Jzt/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 3 Emissions from Cloud Providers</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2430,7 +2430,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/18ofosGNMEM28kkSM9Or_k8HGARD9pE3olaaE4PO2vek/edit?tab=t.0">Separate AI Model Review Process</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/11A88--4dCF1tj6WUFej3Wzju1EHLdu54/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Separate AI Model Review Process</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2451,7 +2451,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1_2NAH1IFD6eznNFu3oPciaJxjQJJuPgsgkSBvGUCYyg/edit?tab=t.0">Recommendations for the Software Application</a><br><br><a href="https://docs.google.com/document/d/1eHJgVv0wtXWxrIxEHx6xLXF10XokfKFg3pbb0Xv-7Co/edit?tab=t.0">Scope 1 and 2 Software Reductions</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1z3b-tGqkjrBUqN70WIQD-TyH1YVez4XG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Recommendations for the Software Application</a><br><br><a href="https://docs.google.com/document/d/1NH96x4JmKKaQWIUAZfjmZD5VzvMDL3ic/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 1 and 2 Software Reductions</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2472,7 +2472,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1VBjuBjRc2tQIvNUz_7ZS65561SR2PbJxUdudU0PXpqg/edit?tab=t.0">Co-located Reductions</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1NBM4SOn6reKTGb9oamSgBWGiUGl22y6t/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Co-located Reductions</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2493,7 +2493,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1S_4PtEEHnm8Xc71idQiHtiMlzbEHGB5YdCMP8s11hjg/edit?tab=t.0">Cloud Carbon Reductions</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1dN5adVJkkEZDEFTdM0atQmzUJtF7Fr7t/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Cloud Carbon Reductions</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2514,7 +2514,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1YDBWbU5vLhGANFvBYVwLOSuJ8HEjDjFz7fLWcZcNCgE/edit?tab=t.0">Energy Carbon Reduction for AI Applications</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1yyQf1NuKGBNXeD8Cc6KsWxrUqrdyo40u/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Energy Carbon Reduction for AI Applications</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2535,7 +2535,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1BDm1KDAfw7MvsCPBawlOhMbBYlo4XE7vgvNtaDDXj1E/edit?tab=t.0#heading=h.peedsp1yxr6i">Continuous Improvement Approach for Energy Carbon Reduction</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1Syptc4qO0q25Epn53bt4yw6SLFdnjzcR/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Improvement Approach for Energy Carbon Reduction</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2556,7 +2556,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/19y6NWylO19v8lw7UzK7hME1YB-Pe4x-IgNEwCBXFszo/edit?tab=t.0">AI carbon reductions</a><br><br><a href="https://docs.google.com/document/d/1FW9Awps0HF3WVN2kjgGCEdtrhVzd69ap4r61wNfy-_g/edit?tab=t.0#heading=h.peedsp1yxr6i">Continuous Improvement for AI Energy Carbon Optimisation</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/19y6NWylO19v8lw7UzK7hME1YB-Pe4x-IgNEwCBXFszo/edit?tab=t.0">AI carbon reductions</a><br><br><a href="https://docs.google.com/document/d/1Yv4aPGOwgUAd_cO7uuJ2j329mzJQTHS7/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Improvement for AI Energy Carbon Optimisation</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2577,7 +2577,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1xxhFGwN1uNWisMpNUFvS16AlJAfYl4JJiNUd7zSoW2g/edit?tab=t.0">Location Based Workload Placement</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1VQEL1ZLdp8dLLTioH6O4hksK_GqIDddO/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Location Based Workload Placement</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2598,7 +2598,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1gSPXWJcRfIwNnJEWjnUloMcVSSwaVeJCLV6MrUnx03Y/edit?tab=t.0">Carbon Intensity Shifting</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1PWQ43p5BuYZl4499J8Z-2BSoUAE3gCrk/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Intensity Shifting</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2619,7 +2619,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/10mS_orOiv9Yz_Y9x8_kaaMp4Eo1ACPhZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Establish Dashboard and Workflow Tool</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2640,7 +2640,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1zQmomu-NKfwlBA_BtlcuTrNeECToDTUaOW2nhJBiIxU/edit?tab=t.0">Continuous Review Framework for Carbon Approaches</a><br><br><a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a><br><br><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/16ZTBC1xbJtyGa5u9wibfeS3t7KrOznRZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Review Framework for Carbon Approaches</a><br><br><a href="https://docs.google.com/document/d/19M7VurPiTI5WYFfsUejfAlnBcqwaoZ3C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Usage Metric - Database Schema</a><br><br><a href="https://docs.google.com/document/d/10mS_orOiv9Yz_Y9x8_kaaMp4Eo1ACPhZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Establish Dashboard and Workflow Tool</a><br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCAnOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2661,7 +2661,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="2"><a href="https://docs.google.com/document/d/1GHidUxZay_u6K_KaFPOrgxdkTH0iPYs1TAa1Di5UEGE/edit?tab=t.0">Progressive Approach to Keep Carbon Emission Calculations Current</a></td>
+<td colspan="2"><a href="https://docs.google.com/document/d/1AMAGrBlTowTgXZl6GQ8qyH-Ft5hAj4-J/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Progressive Approach to Keep Carbon Emission Calculations Current</a></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -2674,19 +2674,19 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 <tbody>
 <tr>
 <td><strong>Governance and review process for the carbon emission data and tools?</strong></td>
-<td>- Governance and Review -- Example <a href="https://docs.google.com/document/d/1qMR7V2VvTReYqJLqfQPD9i_h1Y6_ncpusbmIRhNGuuE/edit?tab=t.0">Governance Review</a></td>
+<td>- Governance and Review -- Example <a href="https://docs.google.com/document/d/1X9z8fq6N-WZMstK19wPV93B6KoftR82M/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Review</a></td>
 </tr>
 <tr>
 <td><strong>Scope 1 and 2 emissions - software reduction recommendations</strong></td>
-<td>- Examples to reduce energy from software for scope 1 and 2 emissions - <a href="https://docs.google.com/document/d/1eHJgVv0wtXWxrIxEHx6xLXF10XokfKFg3pbb0Xv-7Co/edit?tab=t.0">Scope 1 and 2 Software Reductions</a></td>
+<td>- Examples to reduce energy from software for scope 1 and 2 emissions - <a href="https://docs.google.com/document/d/1NH96x4JmKKaQWIUAZfjmZD5VzvMDL3ic/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 1 and 2 Software Reductions</a></td>
 </tr>
 <tr>
 <td><strong>Co-located software emission reduction recommendations</strong></td>
-<td>- Examples - <a href="https://docs.google.com/document/d/1VBjuBjRc2tQIvNUz_7ZS65561SR2PbJxUdudU0PXpqg/edit?tab=t.0">Co-located Reductions</a></td>
+<td>- Examples - <a href="https://docs.google.com/document/d/1NBM4SOn6reKTGb9oamSgBWGiUGl22y6t/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Co-located Reductions</a></td>
 </tr>
 <tr>
 <td><strong>Cloud carbon reduction recommendations</strong></td>
-<td>- Examples - <a href="https://docs.google.com/document/d/1S_4PtEEHnm8Xc71idQiHtiMlzbEHGB5YdCMP8s11hjg/edit?tab=t.0">Cloud Carbon Reductions</a></td>
+<td>- Examples - <a href="https://docs.google.com/document/d/1dN5adVJkkEZDEFTdM0atQmzUJtF7Fr7t/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Cloud Carbon Reductions</a></td>
 </tr>
 <tr>
 <td><strong>AI carbon emission recommendations</strong></td>
@@ -2694,7 +2694,7 @@ Key areas of focus include the monitoring and performance of the metrics. In thi
 </tr>
 <tr>
 <td><strong>Can the software component run in a location with low / zero carbon intensity?</strong></td>
-<td>- <strong>NO</strong> → Establish processes / data to determine low / zero carbon intensity for on prem / co located data centres / cloud - Example - <a href="https://docs.google.com/document/d/1gSPXWJcRfIwNnJEWjnUloMcVSSwaVeJCLV6MrUnx03Y/edit?tab=t.0">Carbon Intensity Shifting</a></td>
+<td>- <strong>NO</strong> → Establish processes / data to determine low / zero carbon intensity for on prem / co located data centres / cloud - Example - <a href="https://docs.google.com/document/d/1PWQ43p5BuYZl4499J8Z-2BSoUAE3gCrk/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Intensity Shifting</a></td>
 </tr>
 <tr>
 <td></td>
@@ -2743,7 +2743,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1GHidUxZay_u6K_KaFPOrgxdkTH0iPYs1TAa1Di5UEGE/edit?tab=t.0">Progressive Approach to Keep Carbon Emission Calculations Current</a> (Implementation - pillar - Stage 10)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1AMAGrBlTowTgXZl6GQ8qyH-Ft5hAj4-J/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Progressive Approach to Keep Carbon Emission Calculations Current</a> (Implementation - pillar - Stage 10)</td>
 </tr>
 <tr>
 <td><strong>b. Provide approaches to manage trade-offs between carbon and other priorities to IT teams.</strong></td>
@@ -2800,7 +2800,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/18ax80o6SGTqa8N4QLPqmnneiHs2VHpB8ga44H3OabQI/edit?tab=t.0">Continuous Trade-off Management Framework</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1OLkAkqSxfhDvb0T6Q1Y9j7WKF90r9CS8/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Trade-off Management Framework</a></td>
 </tr>
 <tr>
 <td><strong>e. Establish governance policies to monitor baseline data, data accuracy, and reviewing standards.</strong></td>
@@ -2838,7 +2838,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1TA9AbzfKnyBCgCncRXdeAx6N8tM3C3MvTGD8CBVLtu8/edit?tab=t.0">Roadmap to Embed a Culture of Continuous Improvement</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Msq31nQmk8TMkkZxUr3uZR3WGpQH9PeR/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Roadmap to Embed a Culture of Continuous Improvement</a></td>
 </tr>
 <tr>
 <td><strong>g. Communicate the dashboard and any carbon scoring for software applications.</strong></td>
@@ -2857,7 +2857,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1OEsT9vHRunkLabOkarxrpu6kvfrzLF1G_o69-p8cfBg/edit?tab=t.0">Rollout Approach for Carbon Scoring Dashboards</a><br><br><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a> (Implementation Pillar - Stage 8)<br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotnkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a> (Strategy pillar - Stage 1)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1sGuqmpcAhEkGxbqEUuUPRBqcrtIVQjm1/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Rollout Approach for Carbon Scoring Dashboards</a><br><br><a href="https://docs.google.com/document/d/10mS_orOiv9Yz_Y9x8_kaaMp4Eo1ACPhZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Establish Dashboard and Workflow Tool</a> (Implementation Pillar - Stage 8)<br><br><a href="https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotnkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a> (Strategy pillar - Stage 1)</td>
 </tr>
 <tr>
 <td><strong>h. Review carbon budgeting techniques.</strong></td>
@@ -2876,7 +2876,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/11vEt7loyAtplWd0xmE8l26E7irAnFxb8uZA8N8V8Vak/edit?tab=t.0">Introducing and Maturing Carbon Budgeting</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/13Q6rCbPXk-Bq53YcSwRqZeqC3n2PwYB_/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Introducing and Maturing Carbon Budgeting</a></td>
 </tr>
 <tr>
 <td><strong>i. Assess whether the IT organization can establish carbon budgets for IT operations.</strong></td>
@@ -2895,7 +2895,7 @@ Key areas of focus include the identification of patterns and trends to provide 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1hA9MbcG4l-luFO3vbHyqKko3jpTsw3qyE2XsneKcmA8/edit?tab=t.0">Carbon Budgets</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Ns3W4WR_jOZz33JpT3r3AI5CylwLBith/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Budgets</a></td>
 </tr>
 </tbody>
 </table>
@@ -2985,7 +2985,7 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1-pxJTz5fVY3jNN4cplYcudWlS5uUT64BHy9ke4FmGiM/edit#slide=id.g329a3e8028_0_320">Training Plan</a> (Strategy pillar - Stage 4)<br><br><a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1-pxJTz5fVY3jNN4cplYcudWlS5uUT64BHy9ke4FmGiM/edit#slide=id.g329a3e8028_0_320">Training Plan</a> (Strategy pillar - Stage 4)<br><br><a href="https://docs.google.com/document/d/1NaanvBp9ecUzZ0MNQz2TW6E0hWZOJz47/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Training Plan for IT Teams</a></td>
 </tr>
 <tr>
 <td><strong>b. Monitor training.</strong></td>
@@ -3004,7 +3004,7 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a> (Strategy pillar - Stage 4)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/17aCuNf-m7wEZOwy5xG5j3HgWChnuwHOo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Monitor and Track Training</a> (Strategy pillar - Stage 4)</td>
 </tr>
 <tr>
 <td><strong>c. Educate the IT teams on the tool used for carbon emissions.</strong></td>
@@ -3023,7 +3023,7 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a> (Implementation Pillar - Stage 8)<br><br><a href="https://docs.google.com/document/d/1hjsa6FrE3DwGGa4yMURXByNP06TfNHOTPdpq93TLTZQ/edit?tab=t.0">Training on Dashboard and Workflow Tool</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/10mS_orOiv9Yz_Y9x8_kaaMp4Eo1ACPhZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Establish Dashboard and Workflow Tool</a> (Implementation Pillar - Stage 8)<br><br><a href="https://docs.google.com/document/d/1qtWKW68Cx7vVcN27Qb8mf2KdaMFXFCHf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Training on Dashboard and Workflow Tool</a></td>
 </tr>
 </tbody>
 </table>
@@ -3052,7 +3052,7 @@ Training on leveraging advanced analytics, data-driven frameworks, and scenario 
 <tr>
 <td><strong>IT sustainability training plan</strong></td>
 <td>-</td>
-<td>Example <a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
+<td>Example <a href="https://docs.google.com/document/d/1NaanvBp9ecUzZ0MNQz2TW6E0hWZOJz47/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Training Plan for IT Teams</a></td>
 </tr>
 </tbody>
 </table>
@@ -3095,7 +3095,7 @@ We are implementing structured methodologies and change management practices to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/12Kavgl09Rk-xbyNsK_dMuhL7mGoqFkAtTWvlSGOOcF8/edit?tab=t.0">Project Sustainable Processes and Guidance</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1MGYc1EiuFvcP83dnvwBnHbIcvmxrDpcL/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Project Sustainable Processes and Guidance</a></td>
 </tr>
 <tr>
 <td><strong>b. Implement the metrics in the software lifecycle methodology used by the IT organisation.</strong></td>
@@ -3114,7 +3114,7 @@ We are implementing structured methodologies and change management practices to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1speVjZhEUx_-lb9NIP0lmrGRTkYDpTwx_dZ6XncYuAI/edit?tab=t.0">Project Sustainable Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1fAz-mbMtfAEn66atfeeaqTZQ0up8d0Vt/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Project Sustainable Metrics</a></td>
 </tr>
 <tr>
 <td><strong>c. Implement the metrics into other frameworks used in the IT organisation (e.g., DORA, deployment frequency).</strong></td>
@@ -3133,7 +3133,7 @@ We are implementing structured methodologies and change management practices to 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a> (Implementation Pillar - Stage 8)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/19M7VurPiTI5WYFfsUejfAlnBcqwaoZ3C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Usage Metric - Database Schema</a> (Implementation Pillar - Stage 8)</td>
 </tr>
 </tbody>
 </table>
@@ -3157,7 +3157,7 @@ We are implementing structured methodologies and change management practices to 
 <tr>
 <td><strong>Implement monitoring practices into the project frameworks used in the IT organisation</strong></td>
 <td>-</td>
-<td>Implement the monitoring of the carbon emission metrics, utilising SRE and <a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a></td>
+<td>Implement the monitoring of the carbon emission metrics, utilising SRE and <a href="https://docs.google.com/document/d/19M7VurPiTI5WYFfsUejfAlnBcqwaoZ3C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Usage Metric - Database Schema</a></td>
 </tr>
 </tbody>
 </table>
@@ -3200,7 +3200,7 @@ Identifying and prioritising initiatives that promote the use of energy-efficien
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1n44dnhhW1WJwQMcmR7s15p6IzfpV_XnT/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Type of Software Applications</a></td>
 </tr>
 <tr>
 <td><strong>b. For new software, determine the choice for hosting.</strong></td>
@@ -3219,7 +3219,7 @@ Identifying and prioritising initiatives that promote the use of energy-efficien
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Ale6q5pe2l2WthkSqORGYugf211AHqCAxlnwct3M6FM/edit?tab=t.0">Overview of Software Hosting Considerations</a><br><br><a href="https://docs.google.com/document/d/1dfgF1snCly7SmWkotD_Y1KaVHrXZ26FtGyud9yod7Uk/edit?tab=t.0">Hosting Application - Questions</a><br><br><a href="https://docs.google.com/document/d/1tX7uFhF4G2jOVfbXI7k7Ndg9FIxgNlYBz-1qxKqougA/edit?tab=t.0">Hosting Factors and Considerations</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/18vEDCGn8_kRCe9ij46Syui0sayhfxxeh/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Overview of Software Hosting Considerations</a><br><br><a href="https://docs.google.com/document/d/1zfAKIk_MIOlMmAYglbokuCv2Clw6T0C2/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Hosting Application - Questions</a><br><br><a href="https://docs.google.com/document/d/1aSHSBvPJBvk-6ohmJrKVDPdSPe4GiSqS/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Hosting Factors and Considerations</a></td>
 </tr>
 </tbody>
 </table>
@@ -3238,17 +3238,17 @@ Identifying and prioritising initiatives that promote the use of energy-efficien
 <tr>
 <td><strong>Types of software application</strong></td>
 <td>-</td>
-<td>Example -<a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
+<td>Example -<a href="https://docs.google.com/document/d/1n44dnhhW1WJwQMcmR7s15p6IzfpV_XnT/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Type of Software Applications</a></td>
 </tr>
 <tr>
 <td><strong>Where will the application be hosted?</strong></td>
 <td>-</td>
-<td>Example - <a href="https://docs.google.com/document/d/1dfgF1snCly7SmWkotD_Y1KaVHrXZ26FtGyud9yod7Uk/edit?tab=t.0">Hosting Application - Questions</a></td>
+<td>Example - <a href="https://docs.google.com/document/d/1zfAKIk_MIOlMmAYglbokuCv2Clw6T0C2/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Hosting Application - Questions</a></td>
 </tr>
 <tr>
 <td><strong>Software hosting options</strong></td>
 <td>-</td>
-<td>Example - <a href="https://docs.google.com/document/d/1tX7uFhF4G2jOVfbXI7k7Ndg9FIxgNlYBz-1qxKqougA/edit?tab=t.0">Hosting Factors and Considerations</a></td>
+<td>Example - <a href="https://docs.google.com/document/d/1aSHSBvPJBvk-6ohmJrKVDPdSPe4GiSqS/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Hosting Factors and Considerations</a></td>
 </tr>
 </tbody>
 </table>
@@ -3291,7 +3291,7 @@ Embedding sustainability into day-to-day operations, including the adoption of c
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1zm1yxrquCiNRsNsI2PLFSNP0gzloKxc0Xqd7JZxQb3Y/edit?tab=t.0">Reference Database Schema</a><br><br><a href="https://docs.google.com/document/d/1wxI5lGpKvq2lthUMwySsbTGFaJ2sqT1RDu_GfVd4hrc/edit?tab=t.0">Baseline Data</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1e9RZ_rDTrgwtMZ2lSm0ENB_y6AbAk1ot/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Reference Database Schema</a><br><br><a href="https://docs.google.com/document/d/1LW-ggzImQ0JEqwFuhLsAa_0GAX2Jnr-D/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Baseline Data</a></td>
 </tr>
 <tr>
 <td><strong>b. Ensure there are regular reviews of carbon emissions across different environments.</strong></td>
@@ -3310,7 +3310,7 @@ Embedding sustainability into day-to-day operations, including the adoption of c
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1EMipYY9_khKHWKf47tOF_0gcbX5zGd36EJyv0P-lhl8/edit?tab=t.0">Spec for Carbon Usage Tool</a><br><br><a href="https://docs.google.com/document/d/1WdXbQdF1Vyty45dRW4WTIrpeIvBNX26-02NP5bQHsxg/edit?tab=t.0">Carbon Review Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1bU3eWS38ggasVDwH78DqKJFcDrC_oiuI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Spec for Carbon Usage Tool</a><br><br><a href="https://docs.google.com/document/d/1L4BkiGdiXhFcXgMlb-fjmVi15upBjotJ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Implement governance and communications for regular reviews.</strong></td>
@@ -3329,7 +3329,7 @@ Embedding sustainability into day-to-day operations, including the adoption of c
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1sFdUNppxGpohi1UK8j8X96ln-XAxZ5xJvqwNJ0ePHO8/edit?tab=t.0">SDLC Checklist</a><br><br><a href="https://docs.google.com/document/d/1m_xExt3NVJp0HVZLvAFj10unoND2Q2LrjJyACTdm0cw/edit?tab=t.0">Governance Comms Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1JaMQsM9yLvryyEG-m4uDl3_hugDG2VzI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">SDLC Checklist</a><br><br><a href="https://docs.google.com/document/d/1efQkF77pXVPdfUzy_Z8LySF6w97w4oTc/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Comms Guide</a></td>
 </tr>
 </tbody>
 </table>
@@ -3426,7 +3426,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1QR3i1y6McZKcrUo0tdmqfAiBA1kPNW31C7GuAVrNNV0/edit?tab=t.0">Sustainable NFR</a><br><br><a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1BJSdwxPLlSc5Qm656Acr6d5kyGVm4m1m/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable NFR</a><br><br><a href="https://docs.google.com/document/d/1o89MUzvp0rxVfZnouTGLqUIq0K87rxxh/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Planning the Software Application</a></td>
 </tr>
 <tr>
 <td><strong>b. Determine application architecture based on requirements.</strong></td>
@@ -3445,7 +3445,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1FKQi7W7Tc_5FnDdCcjfBLNb7nRQF3Mg93RPzGvarC9A/edit?tab=t.0">Architecture for the Application</a><br><br><a href="https://docs.google.com/document/d/1QVxeuqDgJ6hmFW6DpfN-8GlFE0BObYmz4ONQ8-6Xz9Y/edit?tab=t.0">Architecture Design</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1FKQi7W7Tc_5FnDdCcjfBLNb7nRQF3Mg93RPzGvarC9A/edit?tab=t.0">Architecture for the Application</a><br><br><a href="https://docs.google.com/document/d/1_kzkWqsIVLXphcdKJnFVopa60JVrBV2W/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Architecture Design</a></td>
 </tr>
 <tr>
 <td><strong>c. Include vendor & procurement options/decisions.</strong></td>
@@ -3464,7 +3464,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/156RiVVLX0NuW4pght8AIHSxakJb3TmwFeVbW7XySo7U/edit?tab=t.0#heading=h.egep57lmbmps">Vendor Procurement Guide</a><br><br><a href="https://docs.google.com/document/d/1WdhuzuO3oYphUTxnqJL_lbm3UHoiTO8yZIHLA2byxAU/edit?tab=t.0">Regulatory Vendor Documentation</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1bh4ELeEFULeid7yA7WQouh1hmu1KJZRR/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor Procurement Guide</a><br><br><a href="https://docs.google.com/document/d/1vANKW6CJ_uJFVTTxi76X5tR4nwFSG7fg/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Vendor Documentation</a></td>
 </tr>
 <tr>
 <td><strong>d. Ensure architecture reviews during planning & development.</strong></td>
@@ -3483,7 +3483,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1FaXhd0kAnFjxfI7recY-KfDRZvJneq6qeN48o1r6-mk/edit?tab=t.0#heading=h.egep57lmbmps">Architecture Review Guide</a><br><br><a href="https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0">Application Carbon Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1EwErhqRYrWlTfKVA9-vxGj5-FVQSI4Zy/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Architecture Review Guide</a><br><br><a href="https://docs.google.com/document/d/1OSqNCPTPiGbOCO2XwoeyFQm7QlGftp9g/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Application Carbon Metrics</a></td>
 </tr>
 <tr>
 <td><strong>e. Check decisions against carbon-reducing principles.</strong></td>
@@ -3502,7 +3502,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1YXtx8Ga6LsjXgUcou1tfrK1m2D30RQB3vDZZolZSseM/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Principles Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/120vN8cpBXOi3UU0d_4IEjo1YE-LYn6Pq/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Principles Guide</a></td>
 </tr>
 <tr>
 <td><strong>f. Check production app carbon emissions vs. forecast targets.</strong></td>
@@ -3521,7 +3521,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/12r68V_1QY3HPIdlItimVwemFgzC7RQVRsXJEY1TDMHM/edit?tab=t.0#heading=h.kc6nhew940la">Carbon Emission Tracking Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1aHMAYEIA987PlUfqtQxyJfMxHYyvSSq9/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emission Tracking Guide</a></td>
 </tr>
 <tr>
 <td><strong>g. Ensure AI components are reviewed for energy efficiency.</strong></td>
@@ -3540,7 +3540,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1SJf4OC52TNpzKvlZeRsXt-w95mvkZq7oR1RSwBCX_D8/edit?tab=t.0#heading=h.q5798snkh2cr">AI Energy Review Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1TqVfLRl4VA0ogV9ZfICV9L5UGYWmJQU3/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI Energy Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>h. Optimise AI models by evaluating options.</strong></td>
@@ -3559,7 +3559,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/17sIBKQoecQGgdleWYzoOioPiLppIpDHQ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI - Model Optimisation</a></td>
 </tr>
 <tr>
 <td><strong>i. Check environment-level carbon emissions vs. forecasts.</strong></td>
@@ -3578,7 +3578,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1aXqq4cYLSn3sKFi_ohd-4L51-8HpaxfkHtrbLV_sk3g/edit?tab=t.0#heading=h.fuqdfx46zljb">Environment Carbon Monitoring Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1FZedKr7bhqxKtEbovNl6lblN0BZ1ALcK/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environment Carbon Monitoring Guide</a></td>
 </tr>
 <tr>
 <td><strong>j. Optimise the application for production environments. </strong></td>
@@ -3597,7 +3597,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1nGnFicNe2UUxApFYEIxGbaUYeVrJMjRWHK9498MapTM/edit?tab=t.0">Production Optimisation</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1tHJ5SSA-k2AOLoEY9hc0x6kOwqpFAjSn/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Production Optimisation</a></td>
 </tr>
 <tr>
 <td><strong>k. Determine carbon emissions results based on architecture, code, or implementation.</strong></td>
@@ -3616,7 +3616,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/13VXaQ1iMj9eBORuiOciqfSRQyccjqGlFbXqfVXMvc-I/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Emissions Arch to Imp Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Nzf-3XyFVsh-ShnVHM1u3AhnvXlb1nV0/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions Arch to Imp Guide</a></td>
 </tr>
 <tr>
 <td><strong>l. Implement continuous monitoring.</strong></td>
@@ -3635,7 +3635,7 @@ The process involves defining and incorporating environmental sustainability con
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1B-kywjoS8eILXd_RhXH9tEwG5aMa8Gv1lAdOc2MxIQM/edit?tab=t.0">Continuous Improvement Environment Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1iTan1FXPoULTWmkphgjXxEVsyrdbHTDI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Improvement Environment Metrics</a></td>
 </tr>
 </tbody>
 </table>
@@ -3654,7 +3654,7 @@ The process involves defining and incorporating environmental sustainability con
 <tr>
 <td><strong>Planning the Software application</strong></td>
 <td>-</td>
-<td>Example - <a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a></td>
+<td>Example - <a href="https://docs.google.com/document/d/1o89MUzvp0rxVfZnouTGLqUIq0K87rxxh/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Planning the Software Application</a></td>
 </tr>
 <tr>
 <td><strong>Determine the architecture for the application, based on the business requirements for the solution</strong></td>
@@ -3664,7 +3664,7 @@ The process involves defining and incorporating environmental sustainability con
 <tr>
 <td><strong>AI - model optimisations</strong></td>
 <td>-</td>
-<td>Example - <a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
+<td>Example - <a href="https://docs.google.com/document/d/17sIBKQoecQGgdleWYzoOioPiLppIpDHQ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI - Model Optimisation</a></td>
 </tr>
 </tbody>
 </table>
@@ -3707,7 +3707,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a> (Implementation pillar - Stage 16)<br><br><a href="https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0">Application Carbon Metrics</a> (Implementation pillar - Stage 16)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1o89MUzvp0rxVfZnouTGLqUIq0K87rxxh/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Planning the Software Application</a> (Implementation pillar - Stage 16)<br><br><a href="https://docs.google.com/document/d/1OSqNCPTPiGbOCO2XwoeyFQm7QlGftp9g/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Application Carbon Metrics</a> (Implementation pillar - Stage 16)</td>
 </tr>
 <tr>
 <td><strong>b. Store carbon emission metrics from the development environment.</strong></td>
@@ -3726,7 +3726,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1NiVrGKi8oCN1TB-s2cc-QLZFc1Zw2XK3MfrsusYMji4/edit?tab=t.0">Development Environment Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1oeRsEkDXMS5PVN6WLVbPduO-acidk8Lq/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Development Environment Metrics</a></td>
 </tr>
 <tr>
 <td><strong>c. Test the software with business, architecture & carbon considerations.</strong></td>
@@ -3745,7 +3745,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Ni12x-PNxig8tWdFdeLjqVVPfMzbcmLAZkfVdXxfQtU/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Testing Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1qada3zDb9YgGfpQNKE6aMAs1xYIk0g12/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Testing Guide</a></td>
 </tr>
 <tr>
 <td><strong>d. Store carbon emission metrics from the test environment.</strong></td>
@@ -3764,7 +3764,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1cXEIfgWfk9A2C4GWNe_Yy2TSr5XimlInI3Ss4wLydL8/edit?tab=t.0">Test Environment Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/19SkAFL4V-tnJC6kX3o13sCpp1ExMN7eg/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Test Environment Metrics</a></td>
 </tr>
 <tr>
 <td><strong>e. Deploy the application into production.</strong></td>
@@ -3783,7 +3783,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1vlgA3EpISrMxbG3GG1eW5NeGPvcqyNmJed6mIxuBK3Y/edit?tab=t.0#heading=h.q5798snkh2cr">Deployment Carbon Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1RzPQGdMDvjuiJ9xfO7xLKiXiCXfGiI7X/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Deployment Carbon Guide</a></td>
 </tr>
 <tr>
 <td><strong>f. Store carbon emission metrics from the production environment.</strong></td>
@@ -3802,7 +3802,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1fdATBbOObA1w5Z5OimN_DHutWtA5PFWXmBEI1KKfQwY/edit?tab=t.0">Production Environment Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1XH9TfyOnuMIu13z0B5dWeAvWHSjjQvTP/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Production Environment Metrics</a></td>
 </tr>
 <tr>
 <td><strong>g. Review carbon emissions against the project priorities.</strong></td>
@@ -3821,7 +3821,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/12CETPPwOjJrrNWI4iFgBZMWjUatn5-jI8PXoVT2pAe0/edit?tab=t.0#heading=h.q5798snkh2cr">Carbon Review KPI Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1ry_pd2U0WBGqGg3rcYl_eV9nIHeaf-s7/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Review KPI Guide</a></td>
 </tr>
 <tr>
 <td><strong>h. Analyse carbon emission data for insights and improvements.</strong></td>
@@ -3840,7 +3840,7 @@ Establishing robust mechanisms to measure, monitor, and optimise the energy and 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Ts9iuE9Hb6KUSqOmPhXRTLOEdUAMZD6ofpEZiyRpeoA/edit?tab=t.0">Comparative Data and Insights</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Vtm5RbAKuvaj6xHb7lBuM0RuLaGPrhPf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Comparative Data and Insights</a></td>
 </tr>
 </tbody>
 </table>
@@ -3883,7 +3883,7 @@ Developing comprehensive decommissioning strategies that quantify and minimise t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1b7Foivo3cchdPYEbAV6L0k8rBBAA5kxCykTx54dHRNQ/edit?tab=t.0">Trade off Decisions</a> (Implementation pillar - Stage 11)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1FX5twUY7DmxhLL9X5pzB7Blz4K_kBms4/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Trade off Decisions</a> (Implementation pillar - Stage 11)</td>
 </tr>
 <tr>
 <td><strong>b. Determine if there are any decommissioning plans (hardware and software).</strong></td>
@@ -3902,7 +3902,7 @@ Developing comprehensive decommissioning strategies that quantify and minimise t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1sasKo_-HQpxEwZAfCixdzlV62X1nDBbPBxLchQlrv0A/edit?tab=t.0#heading=h.q5798snkh2cr">Decommissioning Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/17nAKTwLQv-LoivoTvUGBDQb_tnoTi60N/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Decommissioning Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Capture decommission carbon emission data.</strong></td>
@@ -3921,7 +3921,7 @@ Developing comprehensive decommissioning strategies that quantify and minimise t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1VMbrm6a-p96UqS5u84XrCYn4gnDJXmOMOsLjJkpAme0/edit?tab=t.0">Carbon Data from Decommissioned Applications</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1yEGp-LuT2EnMkU7NIXvrG814B0vIoxuO/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Data from Decommissioned Applications</a></td>
 </tr>
 </tbody>
 </table>
@@ -4012,7 +4012,7 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Hpn396Aq3RvvNrxvmiOU5ZeEk9V6vSuQiMyk6SNmcMM/edit?tab=t.0">Regulations and Compliance ToR</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/13Dp_t1Rnz4NoFcPF6LqgAMGwcvNJLScU/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulations and Compliance ToR</a></td>
 </tr>
 <tr>
 <td><strong>b. Set up regular reviews of the governance approach and continuously refine.</strong></td>
@@ -4031,7 +4031,7 @@ Strong governance frameworks establish accountability and oversight, ensuring co
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1DHZbsUOOnWtttFAqu1hnEV7pl1UAPONjWitCZVhseeQ/edit?tab=t.0">Governance Review Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1gAvXUJf6OY2cvdnV7xPL032IwvO9dTuY/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Review Guide</a></td>
 </tr>
 </tbody>
 </table>
@@ -4098,7 +4098,7 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1iZQJjw2OOQfJsQWEd7Sgp9GxXuwbVMWzky2Zj_ekTzw/edit?tab=t.0">Regulation Assessment Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1-qcP74xA9e76APht9MhmplpECsNfylMQ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulation Assessment Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Hire SMEs where there are knowledge gaps.</strong></td>
@@ -4117,7 +4117,7 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1rEY3pthuFReI3TAUJhrEWHhX3-7ov7PH/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulations and Compliance Team Responsibilities</a></td>
 </tr>
 <tr>
 <td><strong>c. Continuously review the regulations.</strong></td>
@@ -4136,7 +4136,7 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/10NDRrjhANFW72xPrsB7ttH3gT7vXQ8QYDa0pL8RkL2Q/edit?tab=t.0">Regulatory Review Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1W-IfVVewflXym1pHgtSwRHO7LGDM__v6/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>d. Teams to monitor upcoming regulations.</strong></td>
@@ -4155,7 +4155,7 @@ Adherence to environmental regulations ensures organisations operate within lega
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Pmoc7bOTrYwbHdrLqYwoClY5tEWLNDBELWzjXvF5ezE/edit?tab=t.0#heading=h.1riqgzvsntrk">Regulation Monitoring Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1UKhsETEiK6_AersBiL6q8aO6pmY6j4Jn/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulation Monitoring Guide</a></td>
 </tr>
 </tbody>
 </table>
@@ -4184,7 +4184,7 @@ Adherence to environmental regulations ensures organisations operate within lega
 <tr>
 <td><strong>Continuously review the regulations by monitoring meetings and any other format based on the regulator communications approach</strong></td>
 <td>-</td>
-<td>Formalize responsibilities of the team to monitor jurisdictions and update on communications<br>- Example <a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
+<td>Formalize responsibilities of the team to monitor jurisdictions and update on communications<br>- Example <a href="https://docs.google.com/document/d/1rEY3pthuFReI3TAUJhrEWHhX3-7ov7PH/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulations and Compliance Team Responsibilities</a></td>
 </tr>
 </tbody>
 </table>
@@ -4227,7 +4227,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/18twVr3xA_LLMLyYS0yNN8e48YXIkxF29MkPuqmy-stU/edit?tab=t.0">Regulator Meetings Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Y4wahSGsDHn_B2UzSgI6_Z-neLglUcuK/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulator Meetings Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Regular updates from policymakers.</strong></td>
@@ -4246,7 +4246,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1wwLkDMRezPDPGLAOa1SyvmYKtcN2osl84LDfvOkF9Ek/edit?tab=t.0">Policy Updates Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1v-BOHRSG4i9MJXvwhNR_my8vViq0ANS1/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Policy Updates Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Updates from industry stakeholders & consumers.</strong></td>
@@ -4265,7 +4265,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1USVfag_Fg45JqR87TteCuGBBbxEjvITZZ6Q7J5OLmcQ/edit?tab=t.0">Stakeholder Feedback Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/11X8W_vXpV95JzWa_klQfJ6pInJ49yGVI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Stakeholder Feedback Guide</a></td>
 </tr>
 <tr>
 <td><strong>d. Split the updates into mandatory, voluntary and disclosures.</strong></td>
@@ -4284,7 +4284,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Jr9vNDWzziIrURlerTqiOcPZcwrc1w7iREtsKidtcxI/edit?tab=t.0">Update Classification Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1oQUEg_abIoqUwxzVq596Nr8xxCAtrnrI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Update Classification Guide</a></td>
 </tr>
 <tr>
 <td><strong>e. Assess the impact of regulations on company operations & products.</strong></td>
@@ -4303,7 +4303,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Tb_bASdwKNwnUGHYvhSG64ldaVLNDVMd0-4paleAn5Q/edit?tab=t.0">Regulation Impact Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1vSNgdQEGCBG30_uVWZqeBmn-3yqjobBY/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulation Impact Guide</a></td>
 </tr>
 <tr>
 <td><strong>f. Set up a database/tool to manage all regulations (risks, timelines, etc.).</strong></td>
@@ -4322,7 +4322,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1J-Y_5uuX5j2cEuBy35_HqQhN_gyIS06A/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Database Schema for Regulations</a></td>
 </tr>
 </tbody>
 </table>
@@ -4346,7 +4346,7 @@ Actively analysing upcoming regulations allows organisations to anticipate chang
 <tr>
 <td><strong>Do the compliance and regulations teams have a central database of all the regulations and their associated requirements, risks, timelines and impacts on the organisation?</strong></td>
 <td>-</td>
-<td><strong>NO →</strong> Implement a database/tool to capture all the regulation requirements and associated risks.<br>- Example <a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
+<td><strong>NO →</strong> Implement a database/tool to capture all the regulation requirements and associated risks.<br>- Example <a href="https://docs.google.com/document/d/1J-Y_5uuX5j2cEuBy35_HqQhN_gyIS06A/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Database Schema for Regulations</a></td>
 </tr>
 <tr>
 <td></td>
@@ -4394,7 +4394,7 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Cl4bzsyR0-toY-CWphaNxWMAUga_Fxr_6rAnjqNWS88/edit?tab=t.0">Regulation Gap Analysis Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/14sKVHwy_ZpllVml2_0y4NF8qiYqWtkdn/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulation Gap Analysis Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Implement a continuous improvement process to monitor regulations.</strong></td>
@@ -4413,7 +4413,7 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/10L6bq9xOOGPg1LpEUOOos1Vv6lmYs7sMg_HCQ4u95F0/edit?tab=t.0">Regulation Monitoring Guide</a> (Compliance and Regulations pillar - Stage 20)</td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1UKhsETEiK6_AersBiL6q8aO6pmY6j4Jn/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulation Monitoring Guide</a> (Compliance and Regulations pillar - Stage 20)</td>
 </tr>
 <tr>
 <td><strong>c. Set up a process to conduct gap analysis.</strong></td>
@@ -4451,7 +4451,7 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1h-WVBdJs7qjHpTBJov_bVeDSAcqAlGWwBJfwBC5iIDU/edit?tab=t.0">Severity Assessment Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1XQKxx-GKigbyieTm7tJRvpWNXW76BP-g/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Severity Assessment Guide</a></td>
 </tr>
 <tr>
 <td><strong>e. Record all the regulatory gap analysis in the database/tool.</strong></td>
@@ -4470,7 +4470,7 @@ Conducting a gap analysis identifies areas where current practices fall short of
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/12ExPE53Xwoy9Y_3qNbW9BAVho_x8T1ekDvR3tDsbrAo/edit?tab=t.0">Gap Analysis Database Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1caV-6XRxL_vTeRbxWh_6p5XN9NHKh9Tx/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Gap Analysis Database Guide</a></td>
 </tr>
 </tbody>
 </table>
@@ -4552,7 +4552,7 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/14E4gsCbUcJqXBSzL4Sxzau5IgktFDMgodFZF-OgT4GY/edit?tab=t.0">Stakeholder Regulation Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1WfIyIh72YFsuVcPL4WYccMJ3RPE69akA/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Stakeholder Regulation Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Review the regulatory gap analysis with all stakeholders.</strong></td>
@@ -4571,7 +4571,7 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1GRiSZOcD3AHEjKHxIs8xfdAk6F3LcC0_p6XDf-YfiH4/edit?tab=t.0">Gap Analysis Review Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/18l_o98IEbFywsqYUBBQhxfwDQ0yBaVGw/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Gap Analysis Review Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Manage the decisions and actions.</strong></td>
@@ -4590,7 +4590,7 @@ Effective stakeholder management fosters collaboration and trust, ensuring align
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1X8zxaA7ttHBtWaWOMlroNWY4PUpC4bHHYNSPLiBcWkA/edit?tab=t.0">Minutes and Actions Report</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1iuC9ncU_IetKKU_RkBlmLWs3eOzZGgU0/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Minutes and Actions Report</a></td>
 </tr>
 </tbody>
 </table>
@@ -4657,7 +4657,7 @@ Environmental regulatory reporting in an organisation involves systematically ca
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Gl58RwQ5gwht3-fT80neZtkqiAb-KNxV2Kz48XGVhAw/edit?tab=t.0#heading=h.hf0wutymkdnq">Environmental Data Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1xJFPvqhcLvI-WTARkmOy2aVALpVq4_9N/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environmental Data Guide</a></td>
 </tr>
 <tr>
 <td><strong>b. Analysing environmental data</strong></td>
@@ -4676,7 +4676,7 @@ Environmental regulatory reporting in an organisation involves systematically ca
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1lvXUomBUqTsF4v2trnX6Anlf3LZxEViopTGBWxP7R6U/edit?tab=t.0">Environmental Analysis Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1YoCO9j9xj7fK20CuuNj8-JbzRX8a-44f/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environmental Analysis Guide</a></td>
 </tr>
 <tr>
 <td><strong>c. Transparently disclosing environmental performance</strong></td>
@@ -4695,7 +4695,7 @@ Environmental regulatory reporting in an organisation involves systematically ca
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1OffL3AyZLQGuEAY5gXHGFGup5HE2uNts4J530eDaSLE/edit?tab=t.0#heading=h.t7bnolaa32x2">Environmental Disclosure Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1klIwj4tKRyLRam6FTdADNfgDjM-eaKFi/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environmental Disclosure Guide</a></td>
 </tr>
 </tbody>
 </table>
@@ -4767,7 +4767,7 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1K9g47dyFQVQ6O4E61NujrIcdm2tOO1KU5PhSb_cBXp4/edit?tab=t.0">Regulatory Communication Plan</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/19SoVc7GCnSJ1aq9SnxFBk7nllQ3UMYHj/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Communication Plan</a></td>
 </tr>
 <tr>
 <td><strong>b. Establish training for upcoming regulatory changes within timelines.</strong></td>
@@ -4786,7 +4786,7 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1WoHCK_0GHI7CFHURPtDDszfZxQZ1y17CJokxeZaa18M/edit?tab=t.0">Regulatory Training Plan</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1SicyirJvWt9_nHE6JsmCYTfVmx0y-loJ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Training Plan</a></td>
 </tr>
 </tbody>
 </table>
@@ -4805,7 +4805,7 @@ Clear communication strategies ensure that sustainability goals, progress, and c
 <tr>
 <td><strong>Communicate the transition plan and details with the IT leadership and oversight committee.</strong></td>
 <td></td>
-<td>Example <a href="https://docs.google.com/document/d/1ma9Nfxj3jcGrlHA9S3n6i4gYExNxvRBulZ6UvZ5yun4/edit?tab=t.0">Transition Plan</a></td>
+<td>Example <a href="https://docs.google.com/document/d/1PbHLEqctUCbk8LfNtFVUCo_PMVzlQG3J/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Transition Plan</a></td>
 </tr>
 <tr>
 <td><strong>Has the IT organisation been trained on the new and updated regulatory changes, and what is required to fulfil the timeline?</strong></td>
@@ -4870,7 +4870,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1njGK2UDhlNS-NiQ9BXgZQ4xV61lWOBLkDAZg-VT5Mtw/edit?tab=t.0">IT Regulatory Integration</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1I1dM2ItwxhYg-KRooRT4wUFLCkusDzOy/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">IT Regulatory Integration</a></td>
 </tr>
 <tr>
 <td><strong>b. Embed the regulatory changes into existing processes.</strong></td>
@@ -4889,7 +4889,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1G-oD37DYuERRdTuR2XYdshlEEulP65KNzKo1OpVLrpw/edit?tab=t.0">Embedding Regulatory Changes</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/13PZlMrI4EzFAVThMpxm4nurnA8n-g9ZO/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Embedding Regulatory Changes</a></td>
 </tr>
 <tr>
 <td><strong>c. Split the regulations across the scope emissions.</strong></td>
@@ -4908,7 +4908,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1LGh9oosfBcLeqEYjEkKyzuFKULVhI9u4p_9sZBcBjsM/edit?tab=t.0">Scope Emissions Mapping</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1lPuo8nyoOUIfUA-VIcn14znzMHSYp3A-/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope Emissions Mapping</a></td>
 </tr>
 <tr>
 <td><strong>d. Analyse database for carbon usage metrics with current IT sustainability OKRs/KPIs & required changes.</strong></td>
@@ -4927,7 +4927,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1T8tqmUf2qOxPJDkVGSnjMYjfDUTqJbMd0nNCiIVDdns/edit?tab=t.0#heading=h.t7bnolaa32x2">Carbon Metrics Analysis</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Z2_AUOWaC8BqYnrbabJY07c0BBn56XJr/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Metrics Analysis</a></td>
 </tr>
 <tr>
 <td><strong>e. Analyse additional data requirements.</strong></td>
@@ -4965,7 +4965,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1mhJVmVnHTFnu3ccBt0HhkYu74MOToaO9tb_2Ut0RBms/edit?tab=t.0">IT Sustainability OKRs Guide</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1-31WsF0sANweTdUL53B61o1DsLYh3bM1/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">IT Sustainability OKRs Guide</a></td>
 </tr>
 <tr>
 <td><strong>g. Establish a process for the IT organisation to review regulatory data requirements.</strong></td>
@@ -4984,7 +4984,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1I5raJrsivGBbUuppXB_110qcqEFmyfsne8yeP4nXE88/edit?tab=t.0#heading=h.17bcw7nk2vsc">IT Regulatory Data Review</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/18gOGTCngzwZsTAW4qK4gesBKJTC0KieE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">IT Regulatory Data Review</a></td>
 </tr>
 <tr>
 <td><strong>h. Change methodologies & processes based on regulatory requirements.</strong></td>
@@ -5003,7 +5003,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1TlIA3WlSz9nVCCIwb02o0R4bW1ypwSZ8ygzPnY3es1k/edit?tab=t.0">Regulatory Change Guide</a><br><br><a href="https://docs.google.com/document/d/1t_IUEklFFOnEMfotc9ZKljsrIcOgObCexSeqtxgzeFg/edit?tab=t.0">Public Regulatory Reports</a><br><br><a href="https://docs.google.com/document/d/1DxyNMn2vrpvXcfbnacUglqcIL8L4FUSHngqK6dp_Hx0/edit?tab=t.0">Internal Regulatory Reports</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1ZjC1lLSpU7lVtqdqs2kbunFFvkaHuSHC/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Change Guide</a><br><br><a href="https://docs.google.com/document/d/1sMWLwaaHwFN0thuGxL64BwoEhfsxG-ir/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Public Regulatory Reports</a><br><br><a href="https://docs.google.com/document/d/19l4qBGks45hbfjC4oq0rD6tpau36fzJ_/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Internal Regulatory Reports</a></td>
 </tr>
 </tbody>
 </table>
@@ -5102,7 +5102,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Strategy Formation</td>
 <td>Internal and External Factors</td>
-<td><a href="https://docs.google.com/document/d/1A9gkSI8Y5lwjKGBBcjCpjAtaYxKmFUrXiXe3Ub00UFM/edit?tab=t.0">Internal and External Factors</a></td>
+<td><a href="https://docs.google.com/document/d/15e7gjCvEmva7csXro-apHt2TzhATl_og/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Internal and External Factors</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5120,7 +5120,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Principles</td>
 <td>List of metrics for Sustainable IT</td>
-<td><a href="https://docs.google.com/document/d/1AUeUePsIL7NBzrOjrGV2rV14ygGm-qxtEvR8e7wODY4/edit?tab=t.0">List of metrics for Sustainable IT</a></td>
+<td><a href="https://docs.google.com/document/d/1cGPM0N2895pMk7zmy-7TRfOz-02ylozC/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">List of metrics for Sustainable IT</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5132,19 +5132,19 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Automated Data Capture Approach</td>
-<td><a href="https://docs.google.com/document/d/1lQnDuJ-vnVuIt7dp_SU1LPXgzD3diZTJ5zeP1XOj69M/edit?tab=t.0">Automated Data Capture Approach</a></td>
+<td><a href="https://docs.google.com/document/d/1YfK1lzbgn1PkJMiZwnttRDGfmSi1KCOZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Automated Data Capture Approach</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Environmental Metrics from Vendors</td>
-<td><a href="https://docs.google.com/document/d/1XDjoWZr7tz5cUA0dLXD8B4pB_msLyQpTe6ro_RRbZTQ/edit?tab=t.0">Environmental Metrics from Vendors</a></td>
+<td><a href="https://docs.google.com/document/d/1pw6vCZqf4eHwz28Ld9_winX0hU43eYVo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environmental Metrics from Vendors</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Sustainability Goals with Sustainable Procurement Processes</td>
-<td><a href="https://docs.google.com/document/d/1VhKrek3LfYqi2tDQfCyTbSiWWC8ZmWbmqNA-3Bey58I/edit?tab=t.0">Sustainability Goals with Sustainable Procurement Processes</a></td>
+<td><a href="https://docs.google.com/document/d/1C1AKAm_AJm_vzaxqJ0RI_r3MUw9P4G_C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainability Goals with Sustainable Procurement Processes</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5162,7 +5162,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Water Usage Monitoring</td>
-<td><a href="https://docs.google.com/document/d/1fZBg1R9xJQxHeeCzSvpvWBoqWxobdQjlQSxZ__W_K-s/edit?tab=t.0">Water Usage Monitoring</a></td>
+<td><a href="https://docs.google.com/document/d/1qt4QzreRaHdClKJhOhEXertFBsb7y-Kd/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Water Usage Monitoring</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5174,7 +5174,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Electronic Waste Monitoring</td>
-<td><a href="https://docs.google.com/document/d/1fYxnIHhOFFl9bLewmc5b4qZym-StUaWFxO0UVKvlOtc/edit?tab=t.0">Electronic Waste Monitoring</a></td>
+<td><a href="https://docs.google.com/document/d/1KzyVtEepPJ_TfECvPhqV5e-xUECRI41N/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste Monitoring</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5186,13 +5186,13 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Sustainable Procurement Monitoring</td>
-<td><a href="https://docs.google.com/document/d/1c4PWrKI02MAGAY2kDvKyJvkaQkmFi3jc6frhZOxah8I/edit?tab=t.0#heading=h.74o9iao6jyad">Sustainable Procurement Monitoring</a></td>
+<td><a href="https://docs.google.com/document/d/1CmIw-rVIuZzQgEZyFkT4g_rjBWgDE6nf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable Procurement Monitoring</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Sustainable IT Objective Key Results (OKRs)</td>
 <td>Vendor KPIs for sustainable procurement</td>
-<td><a href="https://docs.google.com/document/d/1qDWLQwc4ogcEu73LYMDmsySR6sSdfLbiudbHYOz3gLA/edit?tab=t.0">Vendor KPIs for Sustainable Procurement</a></td>
+<td><a href="https://docs.google.com/document/d/1e38O6m3GwY1ltkP7CDircjzoTJ-JRSS0/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor KPIs for Sustainable Procurement</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5204,7 +5204,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Key Performance Indicators (KPIs)</td>
 <td>Monitor and Track Training</td>
-<td><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a></td>
+<td><a href="https://docs.google.com/document/d/17aCuNf-m7wEZOwy5xG5j3HgWChnuwHOo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Monitor and Track Training</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
@@ -5216,91 +5216,91 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Strategy</td>
 <td>Key Performance Indicators (KPIs)</td>
 <td>Continuous Maturity Matrix Governance Process</td>
-<td><a href="https://docs.google.com/document/d/1TLDcfOn1H_YAGP8H7BUF8sivNs3tE5lYPxtW8HiYc5M/edit?tab=t.0">Continuous Maturity Matrix Governance Process</a></td>
+<td><a href="https://docs.google.com/document/d/1mtXgYYqEP8AyZRL18GB-hih7IU0XPmtk/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Maturity Matrix Governance Process</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Key Performance Indicators (KPIs)</td>
 <td>Business Impact of Green Software</td>
-<td><a href="https://docs.google.com/document/d/1RJ3YBaiH0Dm8jJTzV0wDQ4SaPtZ2RSUgVuSNiUm9FvA/edit?tab=t.0">Business Impact of Green Software</a></td>
+<td><a href="https://docs.google.com/document/d/1au5kT11qgcp3dSWifIVD1Ndxq1vTz3l3/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Business Impact of Green Software</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Key Performance Indicators (KPIs)</td>
 <td>Green Software Principles</td>
-<td><a href="https://docs.google.com/document/d/1Fdwt26i2XwtER-jRsZydj-cZoTbJeYsWxADiyII27jo/edit?tab=t.0#heading=h.mfu04clxpgcq">Green Software Principles</a></td>
+<td><a href="https://docs.google.com/document/d/1UquIZdedHSqPCXZZZfeFiJ_zHDvErCrv/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Green Software Principles</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Key Performance Indicators (KPIs)</td>
 <td>OKRs and KPIs for IT Operations</td>
-<td><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0">OKRs and KPIs for IT Operations</a></td>
+<td><a href="https://docs.google.com/document/d/1vZY-ER-XraQexKCYU8gTtrEwJYEfNGrP/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">OKRs and KPIs for IT Operations</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Scope 1 2 3 Emissions</td>
-<td><a href="https://docs.google.com/document/d/1LGqBmCnf_vOXXsTokF6zeFDFeQOtPRtjACm1Q2vs9-8/edit?tab=t.0">Scope 1 2 3 Emissions</a></td>
+<td><a href="https://docs.google.com/document/d/1zFCWbrgVyVgjQQ57PdfLyWXeLzYyeLyo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 1 2 3 Emissions</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Vendor Emissions</td>
-<td><a href="https://docs.google.com/document/d/1A1PgoevOECCXRmE0iwZyBZ6IJ-VhFbq22zjwDlHpxOY/edit?tab=t.0">Vendor Emissions</a></td>
+<td><a href="https://docs.google.com/document/d/1RqHuMEi7FhBYhXiuTqQ0VkBCnvFHgiWY/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor Emissions</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Emissions by Data Centre and Cloud</td>
-<td><a href="https://docs.google.com/document/d/1-T3ylsf6-HI2iPPJqIXcKZOjB6L_O0jGHxdXoDe2TOE/edit?tab=t.0">Emissions by Data Centre and Cloud</a></td>
+<td><a href="https://docs.google.com/document/d/1ycuiB7rTUgOup-1G3Wz7oPOXzMHOTm7Q/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Emissions by Data Centre and Cloud</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>SCI Baseline</td>
-<td><a href="https://docs.google.com/document/d/1oD_T6BDQqqr3grQnYEeIYTz4_hFSL02QFR02HtAl0MQ/edit?tab=t.0">SCI Baseline</a></td>
+<td><a href="https://docs.google.com/document/d/1ol5X_Nax4gXyZpQttPwnDKZtzqBTxdWM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">SCI Baseline</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Carbon Emissions from Cloud Providers</td>
-<td><a href="https://docs.google.com/document/d/190OekzKn7EQhRki-Eh80vhWiOmOaHBCT8zuQzyx3SU4/edit?tab=t.0">Carbon Emissions from Cloud Providers</a></td>
+<td><a href="https://docs.google.com/document/d/1XDJeXwxDcHj_sEQGx8-nIRS8JA0KJdeo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions from Cloud Providers</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Governance Structure for OKRs and KPIs</td>
-<td><a href="https://docs.google.com/document/d/15Q5GgrO_9pz6610_xM8vEYRpECIgq4YkGIjKg9NbAUI/edit?tab=t.0">Governance Structure for OKRs and KPIs</a></td>
+<td><a href="https://docs.google.com/document/d/11SAYd8m_MAqp4mfZbbvNiLQpT5iQLuuN/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Structure for OKRs and KPIs</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>End to End Approach to Tracking Carbon Emissions</td>
-<td><a href="https://docs.google.com/document/d/1oAmr9QhPVYUJjYHXYL8jZsXaJ3fpPng6kzKTaya3L2Q/edit?tab=t.0">End to End Approach to Tracking Carbon Emissions</a></td>
+<td><a href="https://docs.google.com/document/d/1DB0a_SkqToTf4ujdE3ZEdpqUd-xXJ9CN/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">End to End Approach to Tracking Carbon Emissions</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>IT Sustainable Strategy</td>
-<td><a href="https://docs.google.com/document/d/1bHiMDpRarMVRPFVFckkGq7jk-egQkp_uEcCVkc_E8mE/edit?tab=t.0">IT Sustainable Strategy</a></td>
+<td><a href="https://docs.google.com/document/d/1dOk402va9iM-mxQygOIkXbEUpWxwGN2W/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">IT Sustainable Strategy</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Continuous Review of IT Sustainable Strategy</td>
-<td><a href="https://docs.google.com/document/d/13kIgbgK4p5dq3jHFvEdXeN7rHjB87hH0pz7Mj7vX8XA/edit?tab=t.0">Continuous Review of IT Sustainable Strategy</a></td>
+<td><a href="https://docs.google.com/document/d/1-snyHi-mHfUpyjfiSgbqQjZoX9Msy7JE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Review of IT Sustainable Strategy</a></td>
 </tr>
 <tr>
 <td>Strategy</td>
 <td>Measurement Targets</td>
 <td>Template -- IT Sustainable Strategy</td>
-<td><a href="https://docs.google.com/document/d/1_HsDTcYr6V86IMVIiG24g2mtNy9slkI1XnITePepVxA/edit?tab=t.0">Template - IT Sustainable Strategy</a></td>
+<td><a href="https://docs.google.com/document/d/1K9vQMel2WKkVeDb3C0z885viwldGSIL2/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Template - IT Sustainable Strategy</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Implementation / Refinement of Tooling</td>
 <td>Approach for Selecting a Solution</td>
-<td><a href="https://docs.google.com/document/d/1jOjob2b3SPBcTd8Qi6ZlJKiR9my0Cjpiq3rwkPmvShg/edit?tab=t.0">Approach for Selecting a Solution</a></td>
+<td><a href="https://docs.google.com/document/d/1yEyrdrTGZP-m7_SVGPreJwgz6p_S3rHu/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Approach for Selecting a Solution</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5312,7 +5312,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Implementation / Refinement of Tooling</td>
 <td>Energy Usage - Database Schema</td>
-<td><a href="https://docs.google.com/document/d/1QFVdnslKjMy6TfKxaTgl3rxlqap_AI2zCmVn7BH7MKs/edit?tab=t.0">Energy Usage - Database Schema</a></td>
+<td><a href="https://docs.google.com/document/d/12DHvYAJoWZXuMMxE-wSt8pxNhm1GQSBH/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Energy Usage - Database Schema</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5324,49 +5324,49 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Implementation / Refinement of Tooling</td>
 <td>Electronic Waste - Database Schema</td>
-<td><a href="https://docs.google.com/document/d/1G2l8-51La3pOxhXsI9G7M6_P2CT0JMi1RsPTdg2AJsE/edit?tab=t.0">Electronic Waste - Database Schema</a></td>
+<td><a href="https://docs.google.com/document/d/1DrCvDY4DSccW9vSXFBITPpoWbW_dR1Wo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste - Database Schema</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Implementation / Refinement of Tooling</td>
 <td>Sustainable Procurement - Database Schema</td>
-<td><a href="https://docs.google.com/document/d/1YQAZuXH9l-0177xP3kPv450TggyGqs70P5SmgJXVWPE/edit?tab=t.0">Sustainable Procurement - Database Schema</a></td>
+<td><a href="https://docs.google.com/document/d/1ZeddAyLmXFL-R5mqTNefCIK7A016z3bq/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable Procurement - Database Schema</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Implementation / Refinement of Tooling</td>
 <td>Frequency of Updating Metrics</td>
-<td><a href="https://docs.google.com/document/d/19p4IPG7xyurNCT6FUwPHltPlBd0XFRz1TUQ6AQ1Te7Y/edit?tab=t.0">Frequency of Updating Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1lvo48MBuk1lW4dGHK3SPYBJhYKmWPext/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Frequency of Updating Metrics</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Implementation / Refinement of Tooling</td>
 <td>OKRs and KPIs for IT Operations</td>
-<td><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0">OKRs and KPIs for IT Operations</a></td>
+<td><a href="https://docs.google.com/document/d/1vZY-ER-XraQexKCYU8gTtrEwJYEfNGrP/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">OKRs and KPIs for IT Operations</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Set Up Data Collection</td>
 <td>Emissions by Data Centre and Cloud</td>
-<td><a href="https://docs.google.com/document/d/1-T3ylsf6-HI2iPPJqIXcKZOjB6L_O0jGHxdXoDe2TOE/edit?tab=t.0">Emissions by Data Centre and Cloud</a></td>
+<td><a href="https://docs.google.com/document/d/1ycuiB7rTUgOup-1G3Wz7oPOXzMHOTm7Q/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Emissions by Data Centre and Cloud</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Set Up Data Collection</td>
 <td>SCI Methodology and Approach</td>
-<td><a href="https://docs.google.com/document/d/1zIaqC2Wu_b-zr53byJ3OXXUKeGmK8dNQHpS4Tjgj1VM/edit?tab=t.0">SCI Methodology and Approach</a></td>
+<td><a href="https://docs.google.com/document/d/1918EcbTNLFZCihIY2oihOgs-GfgQUJfa/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">SCI Methodology and Approach</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Set Up Data Collection</td>
 <td>Time Share of Hardware</td>
-<td><a href="https://docs.google.com/document/d/1r06J0ihuia9JMeY1EWrCcnCo_-aUw_XOCT3-IfJ1KoE/edit?tab=t.0">Time Share of Hardware</a></td>
+<td><a href="https://docs.google.com/document/d/1KguDQ5Z4epAfMgEP3579bG5U_5rt5zv3/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Time Share of Hardware</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Set Up Data Collection</td>
 <td>Options for Functional Unit</td>
-<td><a href="https://docs.google.com/document/d/12M9Pi6sxw0sgSnxsI2yPctXYxDC_VIrM4W6oTFft320/edit?tab=t.0">Options for Functional Unit</a></td>
+<td><a href="https://docs.google.com/document/d/12IUm7Yd7QX46XCR4dFbYwiF2ve5aRSWf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Options for Functional Unit</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5378,19 +5378,19 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Set Up Data Collection</td>
 <td>Scope 3 Emissions from Cloud Providers</td>
-<td><a href="https://docs.google.com/document/d/1dplflqeH6TeJCA0L2K6khaNHVvPtKvtWKQEYU9BMHlM/edit?tab=t.0">Scope 3 Emissions from Cloud Providers</a></td>
+<td><a href="https://docs.google.com/document/d/1yKOIaNyFV2Rcg_ThKP0XbDAeBIiD_Jzt/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 3 Emissions from Cloud Providers</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Set Up Data Collection</td>
 <td>Frequency of Updating Metrics</td>
-<td><a href="https://docs.google.com/document/d/19p4IPG7xyurNCT6FUwPHltPlBd0XFRz1TUQ6AQ1Te7Y/edit?tab=t.0">Frequency of Updating Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1lvo48MBuk1lW4dGHK3SPYBJhYKmWPext/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Frequency of Updating Metrics</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Data Aggregation</td>
 <td>Embed the Impact Framework</td>
-<td><a href="https://docs.google.com/document/d/1V6yfvDF1AmyPiMXVcQ9BSVDXWSGUVVvoX1l_dO1gqCM/edit?tab=t.0">Embed the Impact Framework</a></td>
+<td><a href="https://docs.google.com/document/d/18GyyQU9v9eQ486tMcmTC9x_oFluEBzuB/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Embed the Impact Framework</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5402,103 +5402,103 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Data Aggregation</td>
 <td>Implementation of Tools</td>
-<td><a href="https://docs.google.com/document/d/1P99fza8QzIULse_CgkcmSjAhwVyRZ9yAdOkvQEXL2_c/edit?tab=t.0">Implementation of Tools</a></td>
+<td><a href="https://docs.google.com/document/d/1676RUK6edg9MRXpofT3KaqOsokNZoUnn/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Implementation of Tools</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Data Aggregation</td>
 <td>Establish Dashboard and Workflow Tool</td>
-<td><a href="https://docs.google.com/document/d/1uEYEXInP2dnRd56OJ_f3gKYickQfraQiCqIOMkXSdjw/edit?tab=t.0">Establish Dashboard and Workflow Tool</a></td>
+<td><a href="https://docs.google.com/document/d/10mS_orOiv9Yz_Y9x8_kaaMp4Eo1ACPhZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Establish Dashboard and Workflow Tool</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Data Aggregation</td>
 <td>Carbon Metrics Reporting Tool Aligned to OKRs KPIs</td>
-<td><a href="https://docs.google.com/document/d/1-zGIIlMzXnopM7VabuLcz3TS2uvkZEGWmj_Zy0RF3LA/edit?tab=t.0">Carbon Metrics Reporting Tool Aligned to OKRs KPIs</a></td>
+<td><a href="https://docs.google.com/document/d/1T35cdkdb5XiWxiYbMRGo8dVzNYTTQ0Ha/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Metrics Reporting Tool Aligned to OKRs KPIs</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Data Aggregation</td>
 <td>Carbon Usage Metric - Database Schema</td>
-<td><a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a></td>
+<td><a href="https://docs.google.com/document/d/19M7VurPiTI5WYFfsUejfAlnBcqwaoZ3C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Usage Metric - Database Schema</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Data Aggregation</td>
 <td>Carbon Emission Methodologies</td>
-<td><a href="https://docs.google.com/document/d/1znSeDJmyBm-whfXtENcu2eTJdLVS9dz22pdw7ccPQCI/edit?tab=t.0">Carbon Emission Methodologies</a></td>
+<td><a href="https://docs.google.com/document/d/1Zdz7ZH5KPNR6p1ge5Upo40rQwnUQ6dyz/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emission Methodologies</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Validate Data Accuracy</td>
 <td>Carbon Emissions Baseline Data</td>
-<td><a href="https://docs.google.com/document/d/1rC391fZ1kapm5c1ob4S5Srsop1E4-QvUKGLy9wPa_XU/edit?tab=t.0">Carbon Emissions Baseline Data</a></td>
+<td><a href="https://docs.google.com/document/d/1LE8jTQy_aTyOKkQRxCks_DHtHr4Z01g9/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions Baseline Data</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Validate Data Accuracy</td>
 <td>Framework for Baselining by Software Type</td>
-<td><a href="https://docs.google.com/document/d/1ks6t8_MnvNsNPTkpNKA7e0UR2ImRBSqbis6qjG_gmMY/edit?tab=t.0">Framework for Baselining by Software Type</a></td>
+<td><a href="https://docs.google.com/document/d/1VaN-5ZheDF8LABQL-8aBdaO0qv5xgp5v/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Framework for Baselining by Software Type</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Validate Data Accuracy</td>
 <td>AI Tools and Approaches</td>
-<td><a href="https://docs.google.com/document/d/1NtKifikliB-pV9LZsKI07ATzv_MY4Ib3cpww-6ihrCg/edit?tab=t.0">AI Tools and Approaches</a></td>
+<td><a href="https://docs.google.com/document/d/1y8NhunB2xl1g9NlJgRmD2zyqjOjqC0K4/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI Tools and Approaches</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Validate Data Accuracy</td>
 <td>Data Quality Checks</td>
-<td><a href="https://docs.google.com/document/d/1mTSvUfGRCnRlcWnWPJzE6O2CSwBGEzSm-rZTAHpn424/edit?tab=t.0">Data Quality Checks</a></td>
+<td><a href="https://docs.google.com/document/d/1kPmlHnE3s4vMfA6xh7RqRYC_c3-J5a7k/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Data Quality Checks</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Validate Data Accuracy</td>
 <td>Embed Compliance in Data Quality Reviews</td>
-<td><a href="https://docs.google.com/document/d/1NMBVAudOBZd5BEAer6XJWuksf24iISrr6Gz8ZVnkVBY/edit?tab=t.0#heading=h.91lqphta0iqm">Embed Compliance in Data Quality Reviews</a></td>
+<td><a href="https://docs.google.com/document/d/1DH92SVFK0gEZplSAEl7AIP7IthopxOnM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Embed Compliance in Data Quality Reviews</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Validate Data Accuracy</td>
 <td>Exception Reports</td>
-<td><a href="https://docs.google.com/document/d/1-mn48-cENC3IPRIse8q2u-ZjWpzOvQiWKljDKjD9cEo/edit?tab=t.0#heading=h.vbwlue4ga1yg">Exception Report</a></td>
+<td><a href="https://docs.google.com/document/d/12OIyzvDlPhLIpa1WuvqzAYlUgQ8bNY6P/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Exception Report</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Governance Review</td>
-<td><a href="https://docs.google.com/document/d/1qMR7V2VvTReYqJLqfQPD9i_h1Y6_ncpusbmIRhNGuuE/edit?tab=t.0">Governance Review</a></td>
+<td><a href="https://docs.google.com/document/d/1X9z8fq6N-WZMstK19wPV93B6KoftR82M/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Review</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Separate AI Model Review Process</td>
-<td><a href="https://docs.google.com/document/d/18ofosGNMEM28kkSM9Or_k8HGARD9pE3olaaE4PO2vek/edit?tab=t.0">Separate AI Model Review Process</a></td>
+<td><a href="https://docs.google.com/document/d/11A88--4dCF1tj6WUFej3Wzju1EHLdu54/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Separate AI Model Review Process</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Recommendations for the Software Application</td>
-<td><a href="https://docs.google.com/document/d/1_2NAH1IFD6eznNFu3oPciaJxjQJJuPgsgkSBvGUCYyg/edit?tab=t.0">Recommendations for the Software Application</a></td>
+<td><a href="https://docs.google.com/document/d/1z3b-tGqkjrBUqN70WIQD-TyH1YVez4XG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Recommendations for the Software Application</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Co-located Reductions</td>
-<td><a href="https://docs.google.com/document/d/1VBjuBjRc2tQIvNUz_7ZS65561SR2PbJxUdudU0PXpqg/edit?tab=t.0">Co-located Reductions</a></td>
+<td><a href="https://docs.google.com/document/d/1NBM4SOn6reKTGb9oamSgBWGiUGl22y6t/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Co-located Reductions</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Cloud Carbon Reductions</td>
-<td><a href="https://docs.google.com/document/d/1S_4PtEEHnm8Xc71idQiHtiMlzbEHGB5YdCMP8s11hjg/edit?tab=t.0">Cloud Carbon Reductions</a></td>
+<td><a href="https://docs.google.com/document/d/1dN5adVJkkEZDEFTdM0atQmzUJtF7Fr7t/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Cloud Carbon Reductions</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Energy Carbon Reduction for AI Applications</td>
-<td><a href="https://docs.google.com/document/d/1YDBWbU5vLhGANFvBYVwLOSuJ8HEjDjFz7fLWcZcNCgE/edit?tab=t.0">Energy Carbon Reduction for AI Applications</a></td>
+<td><a href="https://docs.google.com/document/d/1yyQf1NuKGBNXeD8Cc6KsWxrUqrdyo40u/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Energy Carbon Reduction for AI Applications</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5510,43 +5510,43 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Continuous Improvement Approach for Energy Carbon Reduction</td>
-<td><a href="https://docs.google.com/document/d/1BDm1KDAfw7MvsCPBawlOhMbBYlo4XE7vgvNtaDDXj1E/edit?tab=t.0#heading=h.peedsp1yxr6i">Continuous Improvement Approach for Energy Carbon Reduction</a></td>
+<td><a href="https://docs.google.com/document/d/1Syptc4qO0q25Epn53bt4yw6SLFdnjzcR/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Improvement Approach for Energy Carbon Reduction</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Continuous Improvement for AI Energy Carbon Optimisation</td>
-<td><a href="https://docs.google.com/document/d/1FW9Awps0HF3WVN2kjgGCEdtrhVzd69ap4r61wNfy-_g/edit?tab=t.0#heading=h.peedsp1yxr6i">Continuous Improvement for AI Energy Carbon Optimisation</a></td>
+<td><a href="https://docs.google.com/document/d/1Yv4aPGOwgUAd_cO7uuJ2j329mzJQTHS7/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Improvement for AI Energy Carbon Optimisation</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Location Based Workload Placement</td>
-<td><a href="https://docs.google.com/document/d/1xxhFGwN1uNWisMpNUFvS16AlJAfYl4JJiNUd7zSoW2g/edit?tab=t.0">Location Based Workload Placement</a></td>
+<td><a href="https://docs.google.com/document/d/1VQEL1ZLdp8dLLTioH6O4hksK_GqIDddO/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Location Based Workload Placement</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Carbon Intensity Shifting</td>
-<td><a href="https://docs.google.com/document/d/1gSPXWJcRfIwNnJEWjnUloMcVSSwaVeJCLV6MrUnx03Y/edit?tab=t.0">Carbon Intensity Shifting</a></td>
+<td><a href="https://docs.google.com/document/d/1PWQ43p5BuYZl4499J8Z-2BSoUAE3gCrk/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Intensity Shifting</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Carbon Usage Metric - Database Schema</td>
-<td><a href="https://docs.google.com/document/d/1vbGV-GB9mME3UnbwmHbmjnvtRLI4OipML0f0FPubhl0/edit?tab=t.0">Carbon Usage Metric - Database Schema</a></td>
+<td><a href="https://docs.google.com/document/d/19M7VurPiTI5WYFfsUejfAlnBcqwaoZ3C/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Usage Metric - Database Schema</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Continuous Review Framework for Carbon Approaches</td>
-<td><a href="https://docs.google.com/document/d/1zQmomu-NKfwlBA_BtlcuTrNeECToDTUaOW2nhJBiIxU/edit?tab=t.0">Continuous Review Framework for Carbon Approaches</a></td>
+<td><a href="https://docs.google.com/document/d/16ZTBC1xbJtyGa5u9wibfeS3t7KrOznRZ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Review Framework for Carbon Approaches</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Tracking & Analysis Data Aggregation</td>
 <td>Progressive Approach to Keep Carbon Emission Calculations Current</td>
-<td><a href="https://docs.google.com/document/d/1GHidUxZay_u6K_KaFPOrgxdkTH0iPYs1TAa1Di5UEGE/edit?tab=t.0">Progressive Approach to Keep Carbon Emission Calculations Current</a></td>
+<td><a href="https://docs.google.com/document/d/1AMAGrBlTowTgXZl6GQ8qyH-Ft5hAj4-J/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Progressive Approach to Keep Carbon Emission Calculations Current</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5564,7 +5564,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Trend Analysis</td>
 <td>Continuous Trade-off Management Framework</td>
-<td><a href="https://docs.google.com/document/d/18ax80o6SGTqa8N4QLPqmnneiHs2VHpB8ga44H3OabQI/edit?tab=t.0">Continuous Trade-off Management Framework</a></td>
+<td><a href="https://docs.google.com/document/d/1OLkAkqSxfhDvb0T6Q1Y9j7WKF90r9CS8/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Trade-off Management Framework</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
@@ -5576,109 +5576,109 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Implementation</td>
 <td>Trend Analysis</td>
 <td>Roadmap to Embed a Culture of Continuous Improvement</td>
-<td><a href="https://docs.google.com/document/d/1TA9AbzfKnyBCgCncRXdeAx6N8tM3C3MvTGD8CBVLtu8/edit?tab=t.0">Roadmap to Embed a Culture of Continuous Improvement</a></td>
+<td><a href="https://docs.google.com/document/d/1Msq31nQmk8TMkkZxUr3uZR3WGpQH9PeR/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Roadmap to Embed a Culture of Continuous Improvement</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Trend Analysis</td>
 <td>Rollout Approach for Carbon Scoring Dashboards</td>
-<td><a href="https://docs.google.com/document/d/1OEsT9vHRunkLabOkarxrpu6kvfrzLF1G_o69-p8cfBg/edit?tab=t.0">Rollout Approach for Carbon Scoring Dashboards</a></td>
+<td><a href="https://docs.google.com/document/d/1sGuqmpcAhEkGxbqEUuUPRBqcrtIVQjm1/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Rollout Approach for Carbon Scoring Dashboards</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Trend Analysis</td>
 <td>Introducing and Maturing Carbon Budgeting</td>
-<td><a href="https://docs.google.com/document/d/11vEt7loyAtplWd0xmE8l26E7irAnFxb8uZA8N8V8Vak/edit?tab=t.0">Introducing and Maturing Carbon Budgeting</a></td>
+<td><a href="https://docs.google.com/document/d/13Q6rCbPXk-Bq53YcSwRqZeqC3n2PwYB_/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Introducing and Maturing Carbon Budgeting</a></td>
 </tr>
 <tr>
 <td>Implementation</td>
 <td>Trend Analysis</td>
 <td>Carbon Budgets</td>
-<td><a href="https://docs.google.com/document/d/1hA9MbcG4l-luFO3vbHyqKko3jpTsw3qyE2XsneKcmA8/edit?tab=t.0">Carbon Budgets</a></td>
+<td><a href="https://docs.google.com/document/d/1Ns3W4WR_jOZz33JpT3r3AI5CylwLBith/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Budgets</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Decision-Making Tools</td>
 <td>Training Plan for IT Teams</td>
-<td><a href="https://docs.google.com/document/d/1pUNBSoXSkHCIS4efKzVNKR8I5sOJFeTXeiehH6syYks/edit?tab=t.0#heading=h.91p39c5l53ho">Training Plan for IT Teams</a></td>
+<td><a href="https://docs.google.com/document/d/1NaanvBp9ecUzZ0MNQz2TW6E0hWZOJz47/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Training Plan for IT Teams</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Decision-Making Tools</td>
 <td>Training on Dashboard and Workflow Tool</td>
-<td><a href="https://docs.google.com/document/d/1hjsa6FrE3DwGGa4yMURXByNP06TfNHOTPdpq93TLTZQ/edit?tab=t.0">Training on Dashboard and Workflow Tool</a></td>
+<td><a href="https://docs.google.com/document/d/1qtWKW68Cx7vVcN27Qb8mf2KdaMFXFCHf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Training on Dashboard and Workflow Tool</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Transformation Execution</td>
 <td>Project Sustainable Metrics</td>
-<td><a href="https://docs.google.com/document/d/1speVjZhEUx_-lb9NIP0lmrGRTkYDpTwx_dZ6XncYuAI/edit?tab=t.0">Project Sustainable Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1fAz-mbMtfAEn66atfeeaqTZQ0up8d0Vt/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Project Sustainable Metrics</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Transformation Execution</td>
 <td>Project Sustainable Processes and Guidance</td>
-<td><a href="https://docs.google.com/document/d/12Kavgl09Rk-xbyNsK_dMuhL7mGoqFkAtTWvlSGOOcF8/edit?tab=t.0">Project Sustainable Processes and Guidance</a></td>
+<td><a href="https://docs.google.com/document/d/1MGYc1EiuFvcP83dnvwBnHbIcvmxrDpcL/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Project Sustainable Processes and Guidance</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Prioritisation of Energy-Efficient Solutions</td>
 <td>Overview of Software Hosting Considerations</td>
-<td><a href="https://docs.google.com/document/d/1Ale6q5pe2l2WthkSqORGYugf211AHqCAxlnwct3M6FM/edit?tab=t.0">Overview of Software Hosting Considerations</a></td>
+<td><a href="https://docs.google.com/document/d/18vEDCGn8_kRCe9ij46Syui0sayhfxxeh/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Overview of Software Hosting Considerations</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Prioritisation of Energy-Efficient Solutions</td>
 <td>Type of Software Applications</td>
-<td><a href="https://docs.google.com/document/d/1UV95CIIQugjJngjEaOSBrhE5EaHTTnZRasvED9UXP2U/edit?tab=t.0">Type of Software Applications</a></td>
+<td><a href="https://docs.google.com/document/d/1n44dnhhW1WJwQMcmR7s15p6IzfpV_XnT/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Type of Software Applications</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Prioritisation of Energy-Efficient Solutions</td>
 <td>Hosting Application - Questions</td>
-<td><a href="https://docs.google.com/document/d/1dfgF1snCly7SmWkotD_Y1KaVHrXZ26FtGyud9yod7Uk/edit?tab=t.0">Hosting Application - Questions</a></td>
+<td><a href="https://docs.google.com/document/d/1zfAKIk_MIOlMmAYglbokuCv2Clw6T0C2/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Hosting Application - Questions</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Prioritisation of Energy-Efficient Solutions</td>
 <td>Hosting Factors and Considerations</td>
-<td><a href="https://docs.google.com/document/d/1tX7uFhF4G2jOVfbXI7k7Ndg9FIxgNlYBz-1qxKqougA/edit?tab=t.0">Hosting Factors and Considerations</a></td>
+<td><a href="https://docs.google.com/document/d/1aSHSBvPJBvk-6ohmJrKVDPdSPe4GiSqS/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Hosting Factors and Considerations</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Integrate Eco-Friendly Practices</td>
 <td>Reference Database Schema</td>
-<td><a href="https://docs.google.com/document/d/1zm1yxrquCiNRsNsI2PLFSNP0gzloKxc0Xqd7JZxQb3Y/edit?tab=t.0">Reference Database Schema</a></td>
+<td><a href="https://docs.google.com/document/d/1e9RZ_rDTrgwtMZ2lSm0ENB_y6AbAk1ot/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Reference Database Schema</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Integrate Eco-Friendly Practices</td>
 <td>Spec for Carbon Usage Tool</td>
-<td><a href="https://docs.google.com/document/d/1EMipYY9_khKHWKf47tOF_0gcbX5zGd36EJyv0P-lhl8/edit?tab=t.0">Spec for Carbon Usage Tool</a></td>
+<td><a href="https://docs.google.com/document/d/1bU3eWS38ggasVDwH78DqKJFcDrC_oiuI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Spec for Carbon Usage Tool</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Integrate Eco-Friendly Practices</td>
 <td>SDLC Checklist</td>
-<td><a href="https://docs.google.com/document/d/1sFdUNppxGpohi1UK8j8X96ln-XAxZ5xJvqwNJ0ePHO8/edit?tab=t.0">SDLC Checklist</a></td>
+<td><a href="https://docs.google.com/document/d/1JaMQsM9yLvryyEG-m4uDl3_hugDG2VzI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">SDLC Checklist</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Green Non-Functional Requirements</td>
 <td>Sustainable NFR</td>
-<td><a href="https://docs.google.com/document/d/1QR3i1y6McZKcrUo0tdmqfAiBA1kPNW31C7GuAVrNNV0/edit?tab=t.0">Sustainable NFR</a></td>
+<td><a href="https://docs.google.com/document/d/1BJSdwxPLlSc5Qm656Acr6d5kyGVm4m1m/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable NFR</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Green Non-Functional Requirements</td>
 <td>Application Carbon Metrics</td>
-<td><a href="https://docs.google.com/document/d/1HMgaWhrZdIm7hwrob_-iz5YPoeD5xyR6I7nwIj7ffXg/edit?tab=t.0">Application Carbon Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1OSqNCPTPiGbOCO2XwoeyFQm7QlGftp9g/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Application Carbon Metrics</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Green Non-Functional Requirements</td>
 <td>Architecture Design</td>
-<td><a href="https://docs.google.com/document/d/1QVxeuqDgJ6hmFW6DpfN-8GlFE0BObYmz4ONQ8-6Xz9Y/edit?tab=t.0">Architecture Design</a></td>
+<td><a href="https://docs.google.com/document/d/1_kzkWqsIVLXphcdKJnFVopa60JVrBV2W/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Architecture Design</a></td>
 </tr>
 <tr>
 <td>Operational</td>
@@ -5696,7 +5696,7 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Operational</td>
 <td>Green Non-Functional Requirements</td>
 <td>Planning the Software Application</td>
-<td><a href="https://docs.google.com/document/d/1wg8F4iICv96dXVfrMjTf7FH7YGhHsY3AAZwldLZvwy8/edit?tab=t.0">Planning the Software Application</a></td>
+<td><a href="https://docs.google.com/document/d/1o89MUzvp0rxVfZnouTGLqUIq0K87rxxh/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Planning the Software Application</a></td>
 </tr>
 <tr>
 <td>Operational</td>
@@ -5708,67 +5708,67 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Operational</td>
 <td>Green Non-Functional Requirements</td>
 <td>AI - Model Optimisation</td>
-<td><a href="https://docs.google.com/document/d/1qBRonDNHIdKZeAEQZVm0PilXLSfK8MAn1zUCBo6zRlc/edit?tab=t.0">AI - Model Optimisation</a></td>
+<td><a href="https://docs.google.com/document/d/17sIBKQoecQGgdleWYzoOioPiLppIpDHQ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">AI - Model Optimisation</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy Carbon Metrics from Dev / Test Environments</td>
 <td>Development Environment Metrics</td>
-<td><a href="https://docs.google.com/document/d/1NiVrGKi8oCN1TB-s2cc-QLZFc1Zw2XK3MfrsusYMji4/edit?tab=t.0">Development Environment Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1oeRsEkDXMS5PVN6WLVbPduO-acidk8Lq/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Development Environment Metrics</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy Carbon Metrics from Dev / Test Environments</td>
 <td>Test Environment Metrics</td>
-<td><a href="https://docs.google.com/document/d/1cXEIfgWfk9A2C4GWNe_Yy2TSr5XimlInI3Ss4wLydL8/edit?tab=t.0">Test Environment Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/19SkAFL4V-tnJC6kX3o13sCpp1ExMN7eg/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Test Environment Metrics</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy Carbon Metrics from Dev / Test Environments</td>
 <td>Production Environment Metrics</td>
-<td><a href="https://docs.google.com/document/d/1fdATBbOObA1w5Z5OimN_DHutWtA5PFWXmBEI1KKfQwY/edit?tab=t.0">Production Environment Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1XH9TfyOnuMIu13z0B5dWeAvWHSjjQvTP/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Production Environment Metrics</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy Carbon Metrics from Dev / Test Environments</td>
 <td>Continuous Improvement Environment Metrics</td>
-<td><a href="https://docs.google.com/document/d/1B-kywjoS8eILXd_RhXH9tEwG5aMa8Gv1lAdOc2MxIQM/edit?tab=t.0">Continuous Improvement Environment Metrics</a></td>
+<td><a href="https://docs.google.com/document/d/1iTan1FXPoULTWmkphgjXxEVsyrdbHTDI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Improvement Environment Metrics</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy Carbon Metrics from Dev / Test Environments</td>
 <td>Comparative Data and Insights</td>
-<td><a href="https://docs.google.com/document/d/1Ts9iuE9Hb6KUSqOmPhXRTLOEdUAMZD6ofpEZiyRpeoA/edit?tab=t.0">Comparative Data and Insights</a></td>
+<td><a href="https://docs.google.com/document/d/1Vtm5RbAKuvaj6xHb7lBuM0RuLaGPrhPf/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Comparative Data and Insights</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy / Carbon Metrics from Decommissioned Plans</td>
 <td>Trade-off Decisions</td>
-<td><a href="https://docs.google.com/document/d/1b7Foivo3cchdPYEbAV6L0k8rBBAA5kxCykTx54dHRNQ/edit?tab=t.0">Trade off Decisions</a></td>
+<td><a href="https://docs.google.com/document/d/1FX5twUY7DmxhLL9X5pzB7Blz4K_kBms4/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Trade off Decisions</a></td>
 </tr>
 <tr>
 <td>Operational</td>
 <td>Energy / Carbon Metrics from Decommissioned Plans</td>
 <td>Carbon Data from Decommissioned Applications</td>
-<td><a href="https://docs.google.com/document/d/1VMbrm6a-p96UqS5u84XrCYn4gnDJXmOMOsLjJkpAme0/edit?tab=t.0">Carbon Data from Decommissioned Applications</a></td>
+<td><a href="https://docs.google.com/document/d/1yEGp-LuT2EnMkU7NIXvrG814B0vIoxuO/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Data from Decommissioned Applications</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Governance</td>
 <td>Regulations and Compliance ToR</td>
-<td><a href="https://docs.google.com/document/d/1Hpn396Aq3RvvNrxvmiOU5ZeEk9V6vSuQiMyk6SNmcMM/edit?tab=t.0">Regulations and Compliance ToR</a></td>
+<td><a href="https://docs.google.com/document/d/13Dp_t1Rnz4NoFcPF6LqgAMGwcvNJLScU/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulations and Compliance ToR</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Environmental Regulations</td>
 <td>Regulations and Compliance Team Responsibilities</td>
-<td><a href="https://docs.google.com/document/d/19KcX9zv118PSaRKVneSbYWkcwQAFufBPVVmuLUDr-wc/edit?tab=t.0">Regulations and Compliance Team Responsibilities</a></td>
+<td><a href="https://docs.google.com/document/d/1rEY3pthuFReI3TAUJhrEWHhX3-7ov7PH/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulations and Compliance Team Responsibilities</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Assessment of Upcoming Regulations</td>
 <td>Database Schema for Regulations</td>
-<td><a href="https://docs.google.com/document/d/1L7vyXTc2wI_z-ZbBuPJ9wmFITDjIgXCkpuqoNYHC4LI/edit?tab=t.0">Database Schema for Regulations</a></td>
+<td><a href="https://docs.google.com/document/d/1J-Y_5uuX5j2cEuBy35_HqQhN_gyIS06A/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Database Schema for Regulations</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
@@ -5780,43 +5780,43 @@ Integrating compliance into business delivery ensures sustainability objectives 
 <td>Compliance and Regulations</td>
 <td>Stakeholder Management</td>
 <td>Minutes and Actions Report</td>
-<td><a href="https://docs.google.com/document/d/1X8zxaA7ttHBtWaWOMlroNWY4PUpC4bHHYNSPLiBcWkA/edit?tab=t.0">Minutes and Actions Report</a></td>
+<td><a href="https://docs.google.com/document/d/1iuC9ncU_IetKKU_RkBlmLWs3eOzZGgU0/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Minutes and Actions Report</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Environmental Regulatory Reporting</td>
 <td>Transition Plan</td>
-<td><a href="https://docs.google.com/document/d/1ma9Nfxj3jcGrlHA9S3n6i4gYExNxvRBulZ6UvZ5yun4/edit?tab=t.0">Transition Plan</a></td>
+<td><a href="https://docs.google.com/document/d/1PbHLEqctUCbk8LfNtFVUCo_PMVzlQG3J/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Transition Plan</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Communications</td>
 <td>Regulatory Communication Plan</td>
-<td><a href="https://docs.google.com/document/d/1K9g47dyFQVQ6O4E61NujrIcdm2tOO1KU5PhSb_cBXp4/edit?tab=t.0">Regulatory Communication Plan</a></td>
+<td><a href="https://docs.google.com/document/d/19SoVc7GCnSJ1aq9SnxFBk7nllQ3UMYHj/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Communication Plan</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Communications</td>
 <td>Regulatory Training Plan</td>
-<td><a href="https://docs.google.com/document/d/1WoHCK_0GHI7CFHURPtDDszfZxQZ1y17CJokxeZaa18M/edit?tab=t.0">Regulatory Training Plan</a></td>
+<td><a href="https://docs.google.com/document/d/1SicyirJvWt9_nHE6JsmCYTfVmx0y-loJ/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Training Plan</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Communications</td>
 <td>Regulatory Vendor Documentation</td>
-<td><a href="https://docs.google.com/document/d/1WdhuzuO3oYphUTxnqJL_lbm3UHoiTO8yZIHLA2byxAU/edit?tab=t.0">Regulatory Vendor Documentation</a></td>
+<td><a href="https://docs.google.com/document/d/1vANKW6CJ_uJFVTTxi76X5tR4nwFSG7fg/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Regulatory Vendor Documentation</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Business Delivery</td>
 <td>Public Regulatory Reports</td>
-<td><a href="https://docs.google.com/document/d/1t_IUEklFFOnEMfotc9ZKljsrIcOgObCexSeqtxgzeFg/edit?tab=t.0">Public Regulatory Reports</a></td>
+<td><a href="https://docs.google.com/document/d/1sMWLwaaHwFN0thuGxL64BwoEhfsxG-ir/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Public Regulatory Reports</a></td>
 </tr>
 <tr>
 <td>Compliance and Regulations</td>
 <td>Business Delivery</td>
 <td>Internal Regulatory Reports</td>
-<td><a href="https://docs.google.com/document/d/1DxyNMn2vrpvXcfbnacUglqcIL8L4FUSHngqK6dp_Hx0/edit?tab=t.0">Internal Regulatory Reports</a></td>
+<td><a href="https://docs.google.com/document/d/19l4qBGks45hbfjC4oq0rD6tpau36fzJ_/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Internal Regulatory Reports</a></td>
 </tr>
 </tbody>
 </table>
