@@ -1311,7 +1311,7 @@ The implementation and refinement of tooling cover selecting, customising, and e
 </td>
 <td>
 <p><strong>NO</strong><strong> &rarr;</strong><span style="font-weight: 400;"> Review Compliance and Regulations (reference Gap Analysis Report) Example </span><a href="https://docs.google.com/spreadsheets/d/1-idNzIMoy-cxlBVCnYiV8bvXjeXkDY265g9Inxn2oqQ/edit?gid=0#gid=0"><span style="font-weight: 400;">Gap Analysis Report</span></a></p>
-<p><span style="font-weight: 400;">Add any relevant items into OKRs Example - </span><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0"><span style="font-weight: 400;">OKRs and KPIs for IT Operations</span></a><span style="font-weight: 400;"> Go back to this stage</span></p>
+<p><span style="font-weight: 400;">Add any relevant items into OKRs Example - </span><a href="https://docs.google.com/document/d/1vZY-ER-XraQexKCYU8gTtrEwJYEfNGrP/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true"><span style="font-weight: 400;">OKRs and KPIs for IT Operations</span></a><span style="font-weight: 400;"> Go back to this stage</span></p>
 </td>
 </tr>
 <tr>
@@ -1350,7 +1350,7 @@ The implementation and refinement of tooling cover selecting, customising, and e
 </ul>
 </td>
 <td>
-<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1QFVdnslKjMy6TfKxaTgl3rxlqap_AI2zCmVn7BH7MKs/edit?tab=t.0"><span style="font-weight: 400;">Energy Usage - Database Schema</span></a></p>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/12DHvYAJoWZXuMMxE-wSt8pxNhm1GQSBH/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true"><span style="font-weight: 400;">Energy Usage - Database Schema</span></a></p>
 </td>
 </tr>
 <tr>
@@ -1363,7 +1363,7 @@ The implementation and refinement of tooling cover selecting, customising, and e
 </ul>
 </td>
 <td>
-<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/12MRD89ofaCoipBQj1eIgKMkZCCah8McBIOvkMGKdCIw/edit?tab=t.0"><span style="font-weight: 400;">Water Usage - Database Schema</span></a></p>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1LACZP5QYnKSpFuZP_UjX823naQh9-W7x/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true"><span style="font-weight: 400;">Water Usage - Database Schema</span></a></p>
 </td>
 </tr>
 <tr>
@@ -1376,7 +1376,7 @@ The implementation and refinement of tooling cover selecting, customising, and e
 </ul>
 </td>
 <td>
-<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1G2l8-51La3pOxhXsI9G7M6_P2CT0JMi1RsPTdg2AJsE/edit?tab=t.0"><span style="font-weight: 400;">Electronic Waste - Database Schema</span></a></p>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1DrCvDY4DSccW9vSXFBITPpoWbW_dR1Wo/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true"><span style="font-weight: 400;">Electronic Waste - Database Schema</span></a></p>
 </td>
 </tr>
 <tr>
@@ -1389,7 +1389,7 @@ The implementation and refinement of tooling cover selecting, customising, and e
 </ul>
 </td>
 <td>
-<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1YQAZuXH9l-0177xP3kPv450TggyGqs70P5SmgJXVWPE/edit?tab=t.0"><span style="font-weight: 400;">Sustainable Procurement - Database Schema</span></a></p>
+<p><span style="font-weight: 400;">Example </span><a href="https://docs.google.com/document/d/1ZeddAyLmXFL-R5mqTNefCIK7A016z3bq/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true"><span style="font-weight: 400;">Sustainable Procurement - Database Schema</span></a></p>
 </td>
 </tr>
 </tbody>
