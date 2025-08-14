@@ -1,4 +1,5 @@
  - **Associated documents**
+
    - [Case Study Template](https://github.com/Green-Software-Foundation/SOFT/issues/new?template=case-study-template-submission.md)
    - [Collaboration Doc](https://docs.google.com/document/d/12YtwEDH2DH2do97FBXY6uO3cHUUlDAD8/edit?usp=sharing&ouid=109189016904402965838&rtpof=true&sd=true) 
    - [Project dependency - Maturity Matrix ](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
@@ -6,8 +7,6 @@
    - [Analysis across the GSF Pillars .xlsx](https://github.com/Green-Software-Foundation/ouse/files/14040075/Analysis.across.the.GSF.Pillars.xlsx)
    - [Assumptions Document.docx](https://github.com/Green-Software-Foundation/ouse/files/14040068/Assumptions.Document.docx)
    - Terms of Reference.docx
-
-## Sustainable Organisational Framework for Technology (SOFT)
 
 ### Back Ground
 The Green Software Foundation has been building the methods, tools, standards, and patterns to help both developers and operational engineers embed green software practices. To first use these tools and embed them in organisations, we require a framework that provides changemakers in organisations with an approach to adopting, using, and reducing carbon emissions from running software applications. 
@@ -36,11 +35,3 @@ As carbon emissions from software do not fall solely under the responsibility of
 
 ### Solution
 The solution is to present a framework incorporating a decision tree strategy. It would also reveal where voids exist, providing ideas for future initiatives.
-
-Closure: For the project to be successful, GSF organisations must test the framework throughout its development and numerous iterations. The SCI is an excellent example of a project that was implemented within organisations and resulted in a continuous feedback cycle. Organisations can use the framework and create case studies to document their approach and processes. The gaps are to be identified, and feedback collected and reviewed with the project team for continuous updates to the framework.
-
-The solution would describe a framework incorporating a method that is focused on a decision tree approach. It would also reveal where voids exist, providing ideas for future initiatives.
-
-
-
-
