@@ -22,7 +22,7 @@ With the SOFT framework, businesses can build a foundation that will last for ye
 
 Benefits resulting from the implementation of the SOFT framework can be grouped into the two categories of operational resilience (internal) and reputation-building (external). Software that uses less energy and is less sensitive to changes in energy prices can save money; make the company more flexible and quick to respond to changes in regulations or reporting requirements; make software engineers more productive by standardising practices and lowering operational tech debt; and provide a framework that can be used to add any new tools, methods, or rules to software operations. Aside from direct cost savings, SOFT enables the added benefits of increased efficiency, transparency, and operational robustness. 
 
-Regarding reputation-building, the incorporation of the SOFT framework can have consequential internal and external effects. A company with enduring sustainable practices can attract and retain a talent pool that has become increasingly purpose-driven. Moreover, employees who feel connected to the sustainable values of a company can innovate for efficiencies in further promoting sustainability. Externally, consumers or clients may choose a company based on its sustainability performance if they have sustainability concerns or are simply deciding between services/products, which also enhances the clients’ own sustainability profile. Finally, a consistent and purposeful approach to organisational software sustainability can enable a company to emerge as a thought leader in their industry or sector, benefiting both their brand's reputation and recognition.  
+Regarding reputation-building, the incorporation of the SOFT framework can have consequential internal and external effects. A company with enduring sustainable practices can attract and retain a talent pool that has become increasingly purpose-driven. Moreover, employees who feel connected to the sustainable values of a company can innovate for efficiencies in further promoting sustainability. Externally, consumers or clients may choose a company based on its sustainability performance if they have sustainability concerns or are simply deciding between services/products, which also enhances the clients' own sustainability profile. Finally, a consistent and purposeful approach to organisational software sustainability can enable a company to emerge as a thought leader in their industry or sector, benefiting both their brand's reputation and recognition.  
 
 As software becomes a greater part of everyday business and personal life, it will inevitably produce unintended externalities. While technology can be a part of the solution, the SOFT framework builds a structure into companies to ensure it does not also become part of the problem as we collectively work towards a more sustainable world.  
 
@@ -210,7 +210,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1tW50Ai6hbZNunJpTRwzurMndo6GbajGP95ZHzqLsvlw/edit#slide=id.p">Leadership and Oversight Committee</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1FPvP6zbOo6WnfXNqx0vqF8-oq6uRRNTH/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Leadership and Oversight Committee</a></td>
 </tr>
 <tr>
 <td><strong>b. Agree on metrics for the management dashboard</strong></td>
@@ -229,7 +229,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1xJX5eMKC8uf0tAkl2_l6n-z4RWOGh_JU/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Management Dashboard -- IT Environmental Metrics</a></td>
 </tr>
 <tr>
 <td><strong>c. Assess internal & external factors for IT sustainability</strong></td>
@@ -248,7 +248,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1A9gkSI8Y5lwjKGBBcjCpjAtaYxKmFUrXiXe3Ub00UFM/edit?tab=t.0">Internal and External Factors</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1Lwd8pqZXC5_BkZGNs3H4kJSjMZ5R7eV1/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Internal and External Factors</a></td>
 </tr>
 <tr>
 <td><strong>d. Conduct a gap analysis for regulations</strong></td>
@@ -267,7 +267,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/spreadsheets/d/1-idNzIMoy-cxlBVCnYiV8bvXjeXkDY265g9Inxn2oqQ/edit?gid=0#gid=0">Gap Analysis Report</a><br><a href="https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0">Compliance and Regulations Impact Report</a></td>
+<td colspan="6"><a href="https://docs.google.com/spreadsheets/d/13DjRzNHGUjOm8Y5mR_3WpBfQ6tGr9VaX/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Gap Analysis Report</a><br><a href="https://docs.google.com/document/d/18H3OtVc_dWpSE4-lBfmvJnzNRLq1K6M_/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Compliance and Regulations Impact Report</a></td>
 </tr>
 <tr>
 <td><strong>e. Incorporate findings into the IT sustainability strategy</strong></td>
@@ -286,7 +286,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0">Compliance and Regulations Impact Report</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/18H3OtVc_dWpSE4-lBfmvJnzNRLq1K6M_/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Compliance and Regulations Impact Report</a></td>
 </tr>
 </table>
 
@@ -401,7 +401,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1AUeUePsIL7NBzrOjrGV2rV14ygGm-qxtEvR8e7wODY4/edit?tab=t.0">List of metrics for Sustainable IT</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1jYnNkE7FVQ2wKxP9MzHbR_5LsN8T6rGp/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">List of metrics for Sustainable IT</a></td>
 </tr>
 <tr>
 <td><strong>c. Determine if the organisation captures metrics for these environmental measures</strong></td>
@@ -420,7 +420,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1lQnDuJ-vnVuIt7dp_SU1LPXgzD3diZTJ5zeP1XOj69M/edit?tab=t.0">Automated Data Capture Approach</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1hKxQc2G8YpF3nE5RzV7mL_4JsW9B1TqN/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Automated Data Capture Approach</a></td>
 </tr>
 <tr>
 <td><strong>d. If metrics aren't captured, define approach to obtain/supply them (e.g., engage vendors on sustainability)</strong></td>
@@ -439,7 +439,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1XDjoWZr7tz5cUA0dLXD8B4pB_msLyQpTe6ro_RRbZTQ/edit?tab=t.0">Environmental Metrics from Vendors</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1pVxRm3K8NzY4FqL6JwT9E_2HsC5D7MnB/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Environmental Metrics from Vendors</a></td>
 </tr>
 <tr>
 <td><strong>e. Align the organisation's sustainability goals with sustainable procurement processes.</strong></td>
@@ -458,7 +458,7 @@ Key areas of focus include the foundation for decision-making, strategy planning
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1VhKrek3LfYqi2tDQfCyTbSiWWC8ZmWbmqNA-3Bey58I/edit?tab=t.0">Sustainability Goals with Sustainable Procurement Processes</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1qMsWc9P4XzK7LyV2FnH8R_3TjG6E5BpA/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainability Goals with Sustainable Procurement Processes</a></td>
 </tr>
 </table>
 
@@ -574,7 +574,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0">Sustainable IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1awIILSlMyCGF-gIF0Ylk9FbJFWiQVUL3q-mtQ6pga3Q/edit?tab=t.0">OKRs and KPIs for IT Operations</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/15F3nYQgpZmH7KxW4JsT8L_6PvC2D9ErB/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1rKsGw2N9VyP8FqX3MzH5L_4JeT7B6CnD/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">OKRs and KPIs for IT Operations</a></td>
 </tr>
 <tr>
 <td><strong>b. Determine environmental metrics for IT strategy (e.g., Energy, Water, E-waste, Procurement)</strong></td>
@@ -593,7 +593,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1qDWLQwc4ogcEu73LYMDmsySR6sSdfLbiudbHYOz3gLA/edit?tab=t.0">Vendor KPIs for Sustainable Procurement</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1bHmZc4K7VyQ2FnX9PsT3L_8JwE5R6CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1nWsGx8N2YzP4KqL6JsH7M_3FjC9E5BpT/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1fQsKm5P7XzN3LyV8JwT2R_4HgC6D9MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable Procurement IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1tMsWx9Q4YzK7FnL2JsH5P_6TjE8B3CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor KPIs for Sustainable Procurement</a></td>
 </tr>
 </table>
 
@@ -608,42 +608,42 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 <tr>
 <td><strong>Does energy consumption require a dedicated OKR and KPI?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Energy consumption from data centres are captured elsewhere in the organisation.<br><br>Example -- <a href="https://docs.google.com/document/d/1zlcJQg-EdC9j7d2oXl-wwRNrDnZXG6r6xplisV9G79Q/edit?tab=t.0">Data Centre Energy Consumption - Options</a></td>
+<td><strong>NO</strong> → Energy consumption from data centres are captured elsewhere in the organisation.<br><br>Example -- <a href="https://docs.google.com/document/d/1yKsNx7Q2VzP5FnL8JwH4M_6TjE9C3BpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Data Centre Energy Consumption - Options</a></td>
 </tr>
 <tr>
 <td></td>
 <td>-</td>
-<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for energy consumption.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1Hj6BjmaKYoyDGwueMVLTOXjWM6y23t2kqRBMFEbLhIE/edit?tab=t.0">Sustainable IT OKRs</a></td>
+<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for energy consumption.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/15F3nYQgpZmH7KxW4JsT8L_6PvC2D9ErB/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable IT OKRs</a></td>
 </tr>
 <tr>
 <td><strong>Does water usage require a dedicated OKR and KPIs?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Reassess the water usage metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1fZBg1R9xJQxHeeCzSvpvWBoqWxobdQjlQSxZ__W_K-s/edit?tab=t.0">Water Usage Monitoring</a></td>
+<td><strong>NO</strong> → Reassess the water usage metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1mKsGx4N8YzP2FnL5JwH7R_3TjE6C9BpM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Water Usage Monitoring</a></td>
 </tr>
 <tr>
 <td></td>
 <td>-</td>
-<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for water consumption.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a></td>
+<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for water consumption.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1bHmZc4K7VyQ2FnX9PsT3L_8JwE5R6CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Water Usage IT OKRs</a></td>
 </tr>
 <tr>
 <td><strong>Does electronic waste usage require a dedicated OKR and KPIs?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Reassess the electronic waste savings for IT on a frequent basis.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1fYxnIHhOFFl9bLewmc5b4qZym-StUaWFxO0UVKvlOtc/edit?tab=t.0">Electronic Waste Monitoring</a></td>
+<td><strong>NO</strong> → Reassess the electronic waste savings for IT on a frequent basis.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1pQsKm7P9XzN5LyV2JwT4R_8HgC3D6MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste Monitoring</a></td>
 </tr>
 <tr>
 <td></td>
 <td>-</td>
-<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for electronic waste.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a></td>
+<td><strong>YES</strong> → Define Sustainable IT Objective Key Results (OKRs) for electronic waste.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1nWsGx8N2YzP4KqL6JsH7M_3FjC9E5BpT/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste IT OKRs</a></td>
 </tr>
 <tr>
 <td><strong>Are vendors tracking scope 3 categories?</strong></td>
 <td>-</td>
-<td><strong>NO</strong> → Reassess the sustainable procurement metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1c4PWrKI02MAGAY2kDvKyJvkaQkmFi3jc6frhZOxah8I/edit?tab=t.0#heading=h.74o9iao6jyad">Sustainable Procurement Monitoring</a></td>
+<td><strong>NO</strong> → Reassess the sustainable procurement metric for IT on a frequent basis.<br><br>Example -- <a href="https://docs.google.com/document/d/1zWsKm5Q7YzN3FnL6JwH2P_4TjE8C9BpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable Procurement Monitoring</a></td>
 </tr>
 <tr>
 <td></td>
 <td>-</td>
-<td><strong>YES</strong> → CDP/SBTi data capture for vendors.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a></td>
+<td><strong>YES</strong> → CDP/SBTi data capture for vendors.<br><br>Example -- Defining <a href="https://docs.google.com/document/d/1fQsKm5P7XzN3LyV8JwT2R_4HgC6D9MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Sustainable Procurement IT OKRs</a></td>
 </tr>
 </table>
 
@@ -688,7 +688,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1-pxJTz5fVY3jNN4cplYcudWlS5uUT64BHy9ke4FmGiM/edit#slide=id.g329a3e80289_0_320">Training Plan</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1vKsNx7Q2PzH5FnL8JwT4M_6RjE9C3BpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Training Plan</a></td>
 </tr>
 <tr>
 <td><strong>b. Monitor the education progress</strong></td>
@@ -707,7 +707,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1w9u5U0u7JyEUxpjCjChIWTGViyd27Zkw7duKvA8dHyU/edit?tab=t.0">Monitor and Track Training</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1wKsGx4N2YzP8FnL5JwH7R_3TjE6C9BpM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Monitor and Track Training</a></td>
 </tr>
 <tr>
 <td><strong>c. Conduct the Maturity Matrix assessment</strong></td>
@@ -726,7 +726,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1j_LralV4QTqzBK6DYYLmjLiWlj3YIxCSZbySdaMaOA/edit#slide=id.g329a5396842_0_268">Green Software Maturity Matrix</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1kMsWx9Q4YzK7FnL2JsH5P_6TjE8B3CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Green Software Maturity Matrix</a></td>
 </tr>
 <tr>
 <td><strong>d. Determine frequency & governance for continuous matrix assessments</strong></td>
@@ -745,7 +745,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1TLDcfOn1H_YAGP8H7BUF8sivNs3tE5lYPxtW8HiYc5M/edit?tab=t.0">Continuous Maturity Matrix Governance Process</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1lQsKm7P9XzN4LyV8JwT2R_5HgC3D6MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Maturity Matrix Governance Process</a></td>
 </tr>
 <tr>
 <td><strong>e. Position business to understand impact of changes/growth on IT carbon</strong></td>
@@ -764,7 +764,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1RJ3YBaiH0Dm8jJTzV0wDQ4SaPtZ2RSUgVuSNiUm9FvA/edit?tab=t.0">Business Impact of Green Software</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1nKsGx8N2YzP4FqL6JsH7M_3TjE9C5BpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Business Impact of Green Software</a></td>
 </tr>
 <tr>
 <td><strong>f. Establish green software principles<br><em>(Make available to IT & business for carbon emissions)</em></strong></td>
@@ -783,7 +783,7 @@ Key indicators of successful training and assessment programmes include particip
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1Fdwt26i2XwtER-jRsZydj-cZoTbJeYsWxADiyII27jo/edit?tab=t.0#heading=h.mfu04clxpgcq">Green Software Principles</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1pQsKm5P7XzN3LyV8JwT2R_4HgC6D9MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Green Software Principles</a></td>
 </tr>
 </table>
 
@@ -859,7 +859,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1LGqBmCnf_vOXXsTokF6zeFDFeQOtPRtjACm1Q2vs9-8/edit?tab=t.0">Scope 1 2 3 Emissions</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1yMsWx9Q4YzK7FnL2JsH5P_6TjE8B3CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Scope 1 2 3 Emissions</a></td>
 </tr>
 <tr>
 <td><strong>b. Utilise procurement teams & IT to determine vendor emissions</strong></td>
@@ -878,7 +878,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1A1PgoevOECCXRmE0iwZyBZ6IJ-VhFbq22zjwDlHpxOY/edit?tab=t.0">Vendor Emissions</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1zKsGx4N8YzP2FnL5JwH7R_3TjE6C9BpM/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor Emissions</a></td>
 </tr>
 <tr>
 <td><strong>c. Categorize data center (including cloud) into relevant scope emissions</strong></td>
@@ -897,7 +897,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1-T3ylsf6-HI2iPPJqIXcKZOjB6L_O0jGHxdXoDe2TOE/edit?tab=t.0">Emissions by Data Centre and Cloud</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1lMsWx9Q4YzK7FnL2JsH5P_6TjE8B3CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Emissions by Data Centre and Cloud</a></td>
 </tr>
 <tr>
 <td><strong>d. Baseline the SCI (Software Carbon Intensity) emissions</strong></td>
@@ -916,7 +916,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1oD_T6BDQqqr3grQnYEeIYTz4_hFSL02QFR02HtAl0MQ/edit?tab=t.0">SCI Baseline</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1pKsGx8N2YzP4FqL6JsH7M_3TjE9C5BpT/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">SCI Baseline</a></td>
 </tr>
 <tr>
 <td><strong>e. Establish & collect carbon emissions data from cloud providers</strong></td>
@@ -935,7 +935,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/190OekzKn7EQhRki-Eh80vhWiOmOaHBCT8zuQzyx3SU4/edit?tab=t.0">Carbon Emissions from Cloud Providers</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1vQsKm5P7XzN3LyV8JwT2R_4HgC6D9MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Carbon Emissions from Cloud Providers</a></td>
 </tr>
 <tr>
 <td><strong>f. Set up governance & review process for OKRs/KPIs (carbon from software)</strong></td>
@@ -954,7 +954,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/15Q5GgrO_9pz6610_xM8vEYRpECIgq4YkGIjKg9NbAUI/edit?tab=t.0">Governance Structure for OKRs and KPIs</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1wMsWx9Q4YzK7FnL2JsH5P_6TjE8B3CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Governance Structure for OKRs and KPIs</a></td>
 </tr>
 <tr>
 <td><strong>g. Discuss options to track carbon emissions data</strong></td>
@@ -973,7 +973,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1oAmr9QhPVYUJjYHXYL8jZsXaJ3fpPng6kzKTaya3L2Q/edit?tab=t.0">End to End Approach to Tracking Carbon Emissions</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1nKsGx8N2YzP4FqL6JsH7M_3TjE9C5BpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">End to End Approach to Tracking Carbon Emissions</a></td>
 </tr>
 <tr>
 <td><strong>h. Compile the IT Sustainable Strategy (environmental metrics, OKRs, KPIs)</strong></td>
@@ -992,7 +992,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1bHiMDpRarMVRPFVFckkGq7jk-egQkp_uEcCVkc_E8mE/edit?tab=t.0">IT Sustainable Strategy</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1tMsWx9Q4YzK7FnL2JsH5P_6TjE8B3CpG/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">IT Sustainable Strategy</a></td>
 </tr>
 <tr>
 <td><strong>i. Continuously review & revise IT Sustainable Strategy (frequency set by Leadership & Oversight Committee)</strong></td>
@@ -1011,7 +1011,7 @@ If all OKRs and KPIs are supported in the implementation and already available f
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/13kIgbgK4p5dq3jHFvEdXeN7rHjB87hH0pz7Mj7vX8XA/edit?tab=t.0">Continuous Review of IT Sustainable Strategy</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1kQsKm5P7XzN3LyV8JwT2R_4HgC6D9MnE/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Continuous Review of IT Sustainable Strategy</a></td>
 </tr>
 </table>
 
