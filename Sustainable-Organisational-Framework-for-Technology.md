@@ -175,7 +175,7 @@ This pillar captures five key stages that propose essential questions and action
 
 ### Stage 1 - Strategy Formation
 
-The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform their software sustainability. Many of the future steps will require governance decision-making based on relevance, priority, and magnitude of actions.
+The Strategy Formation section covers the creation of a governance approach to establish and maintain the IT sustainability strategy. This is essential in later decision-making needed for the organisation seeking to transform its software sustainability. Many of the future steps will require governance decision-making based on relevance, priority, and magnitude of actions.
 
 Key areas of focus include analysis, planning, integration, and implementation, as well as inspection and adaptation.
 
@@ -210,7 +210,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1tW50Ai6hbZNunJpTRwzurMndo6GbajGP95ZHzqLsvlw/edit#slide=id.p">Leadership and Oversight Committee</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1R14W4w8eb76-qXEjmuPUcIdIHwkojB01/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Leadership and Oversight Committee</a></td>
 </tr>
 <tr>
 <td><strong>b. Agree on metrics for the management dashboard</strong></td>
@@ -229,7 +229,7 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/presentation/d/1a3NgBjWaCanOrI12io82b72BdKM0aotknkPu_7fKF5s/edit#slide=id.p">Management Dashboard -- IT Environmental Metrics</a></td>
+<td colspan="6"><a href="https://docs.google.com/presentation/d/1GaMBEr9GLhO6v3boWqJ8HGa5AOz78ejI/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Management Dashboard -- IT Environmental Metrics</a></td>
 </tr>
 <tr>
 <td><strong>c. Assess internal & external factors for IT sustainability</strong></td>
@@ -280,13 +280,13 @@ Key areas of focus include analysis, planning, integration, and implementation, 
 </tr>
 <tr>
 <td><strong>Action Steps</strong></td>
-<td colspan="2">Establish a review of compliance and regulations into the decision making forums (inc. leadership and oversight committee)</td>
+<td colspan="2">Establish a review of compliance and regulations in the decision-making forums (inc. leadership and oversight committee)</td>
 <td colspan="2">Compile the IT sustainability strategy goals, with agreed target metrics, dates, responsibilities, etc.</td>
 <td colspan="2">Share the IT sustainability strategy with the wider IT organisation</td>
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1-vMTBdup-Cc60eJW8bxOQ9HT75F3gxAXcjnlQbZ8Nxw/edit?tab=t.0">Compliance and Regulations Impact Report</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1z0XyliL22moVJv556kwQVg29yGVwdS9N/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Compliance and Regulations Impact Report</a></td>
 </tr>
 </table>
 
@@ -593,7 +593,7 @@ Key areas to focus on include the development of sustainable IT OKRs, defining t
 </tr>
 <tr>
 <td><strong>Example docs</strong></td>
-<td colspan="6"><a href="https://docs.google.com/document/d/1UrsdC3eHhB6QCepqb_fz9gWf05ah_1DxIOf-cGz1FW0/edit?tab=t.0">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1HJvx4xEic9-tvGJZQ2YS8tTgQ3vrdeEUn885SmmApG4/edit?tab=t.0">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1e38O6m3GwY1ltkP7CDircjzoTJ-JRSS0/edit?usp=drive_link&ouid=109189016904402965838&rtpof=true&sd=true">Vendor KPIs for Sustainable Procurement</a></td>
+<td colspan="6"><a href="https://docs.google.com/document/d/1hhaU-RuHXwGo32hm0QMsgQ-AZi5L23r6/edit?usp=sharing&ouid=109189016904402965838&rtpof=true&sd=true">Water Usage IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1vAOFj07w2-Gri3S-XBzpOo67N1WWZw7M/edit?usp=sharing&ouid=109189016904402965838&rtpof=true&sd=true">Electronic Waste IT OKRs</a><br><br><a href="https://docs.google.com/document/d/1D3gUggBZWwdNx-e6UaicyS4HJmS_VN9wXFTnhZvEkOs/edit?tab=t.0">Sustainable Procurement IT OKRs</a><br><br><a href="Vendor KPIs for Sustainable">Vendor KPIs for Sustainable Procurement</a></td>
 </tr>
 </table>
 
